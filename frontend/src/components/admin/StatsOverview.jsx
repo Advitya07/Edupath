@@ -1,0 +1,3 @@
+import { Activity, AlertTriangle, BrainCircuit, Users } from 'lucide-react'
+const icons=[Users,Activity,BrainCircuit,AlertTriangle]
+export default function StatsOverview({ stats }) { const items=[['Learners',stats.learners],['Assessments',stats.assessments],['Avg. mastery',`${stats.average_mastery}%`],['Need support',stats.at_risk]]; return <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">{items.map(([label,value],i)=>{const Icon=icons[i];return <div className="card p-5" key={label}><Icon size={19} className="text-sky-300"/><p className="mt-4 text-2xl font-bold">{value}</p><p className="mt-1 text-sm text-slate-400">{label}</p></div>})}</div> }

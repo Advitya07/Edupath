@@ -1,0 +1,2 @@
+const labels = ['Guess', 'Unsure', 'Somewhat', 'Confident', 'Mastery']
+export default function RatingButtons({ value, onChange }) { return <div className="flex flex-wrap gap-1.5">{labels.map((label, i) => <button key={label} type="button" onClick={() => onChange(i + 1)} className={`rounded-lg border px-2.5 py-1.5 text-xs font-semibold transition ${value === i + 1 ? 'border-sky-300 bg-sky-400 text-slate-950' : 'border-line text-slate-400 hover:border-slate-500'}`}>{i + 1}<span className="ml-1 hidden sm:inline">{label}</span></button>)}</div> }

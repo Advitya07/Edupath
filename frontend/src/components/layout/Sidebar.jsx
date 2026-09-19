@@ -1,0 +1,4 @@
+import { BarChart3, ClipboardCheck, Map, ShieldCheck, Sparkles } from 'lucide-react'
+import { NavLink } from 'react-router-dom'
+const links = [{to:'/dashboard',label:'Overview',icon:BarChart3},{to:'/roadmap',label:'Learning path',icon:Map},{to:'/assessment',label:'Re-evaluate',icon:ClipboardCheck},{to:'/admin',label:'Admin view',icon:ShieldCheck}]
+export default function Sidebar() { return <aside className="hidden w-60 shrink-0 border-r border-line bg-slate-950/35 p-4 md:block"><div className="mb-7 flex items-center gap-2 px-3 text-sm text-sky-300"><Sparkles size={16}/> Adaptive learning</div><nav className="space-y-1">{links.map(({to,label,icon:Icon}) => <NavLink key={to} to={to} className={({isActive}) => `flex items-center gap-3 rounded-xl px-3 py-2.5 text-sm font-medium ${isActive ? 'bg-sky-400/10 text-sky-300' : 'text-slate-400 hover:bg-slate-800/70 hover:text-slate-100'}`}><Icon size={18}/>{label}</NavLink>)}</nav></aside> }
