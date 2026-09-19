@@ -5,6 +5,7 @@ class RoadmapRequest(BaseModel):
     career_target: str
     scores: dict[str, float] = {}
     skills: list[str] = []
+    user_id: str | None = None
 
 
 class ResourceRequest(BaseModel):

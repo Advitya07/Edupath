@@ -26,11 +26,28 @@ def score_submission(questions: Iterable[dict], answers: Iterable[dict], previou
         correct = answer["selected_index"] == question["answer_index"]
         evidence = answer_score(correct, answer["confidence"])
         grouped[question["topic"]].append(evidence)
-        details.append({"question_id": question["id"], "topic": question["topic"], "correct": correct, "evidence": evidence})
+        details.append({
+            "question_id": question["id"],
+            "topic": question["topic"],
+            "concept": question.get("concept"),
+            "difficulty": question.get("difficulty"),
+            "selected_index": answer["selected_index"],
+            "correct_index": question["answer_index"],
+            "correct": correct,
+            "user_rating": answer["confidence"],
+            "evidence": evidence,
+        })
     previous = previous or {}
+    current_topic_scores = {}
     topic_scores = {}
     for topic, values in grouped.items():
         current = round(sum(values) / len(values), 1)
+        current_topic_scores[topic] = current
         topic_scores[topic] = round(0.6 * current + 0.4 * float(previous.get(topic, current)), 1)
     overall = round(sum(topic_scores.values()) / max(1, len(topic_scores)), 1)
-    return {"overall": overall, "topic_scores": topic_scores, "details": details}
+    return {
+        "overall": overall,
+        "current_topic_scores": current_topic_scores,
+        "topic_scores": topic_scores,
+        "details": details,
+    }

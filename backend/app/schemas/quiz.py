@@ -5,6 +5,7 @@ class QuizRequest(BaseModel):
     career_target: str
     skills: list[str] = []
     topic: str | None = None
+    user_id: str | None = None
 
 
 class Answer(BaseModel):
@@ -17,3 +18,4 @@ class QuizSubmission(BaseModel):
     quiz_id: str
     answers: list[Answer]
     previous_scores: dict[str, float] = {}
+    user_id: str | None = None

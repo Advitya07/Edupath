@@ -21,3 +21,4 @@ class ProfileRequest(BaseModel):
     career_target: str
     experience_level: str = "Early career"
     resume_text: str = ""
+    skills: list[str] = []

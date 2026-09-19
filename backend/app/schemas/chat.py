@@ -6,3 +6,4 @@ class ChatRequest(BaseModel):
     current_topic: str = "your current roadmap topic"
     career_target: str = "Full Stack Engineer"
     weak_gaps: list[str] = []
+    user_id: str | None = None

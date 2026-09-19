@@ -1,0 +1,2796 @@
+{
+  "quizzes": [
+    {
+      "id": "e54990b6-51bd-4015-b191-731a7e68a38c",
+      "user_id": null,
+      "career_target": "Cloud Computing Engineer",
+      "kind": "initial",
+      "profile_version": 0,
+      "skill_state_version": 0,
+      "topic": null,
+      "questions": [
+        {
+          "id": "b312804b-95fe-426a-b275-10343487dfec",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Security",
+          "difficulty": "easy",
+          "prompt": "What is the primary benefit of using a cloud provider like AWS?",
+          "options": [
+            "Cost-effectiveness",
+            "Scalability",
+            "Security",
+            "Reliability"
+          ],
+          "answer_index": 0,
+          "explanation": "Cost-effectiveness is a primary benefit of using a cloud provider like AWS."
+        },
+        {
+          "id": "608b1a44-0945-441c-bf8a-ff05f21ab98e",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Deployment Models",
+          "difficulty": "medium",
+          "prompt": "Which of the following is a characteristic of a public cloud?",
+          "options": [
+            "Controlled access",
+            "Multi-tenancy",
+            "Centralized management",
+            "Decentralized management"
+          ],
+          "answer_index": 1,
+          "explanation": "Multi-tenancy is a characteristic of a public cloud."
+        },
+        {
+          "id": "fc84c7b4-8415-4457-9681-3da26a333b01",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Migration",
+          "difficulty": "hard",
+          "prompt": "What is the primary consideration when migrating a critical application to the cloud?",
+          "options": [
+            "Cost savings",
+            "Increased scalability",
+            "Data loss and downtime risk",
+            "Improved security"
+          ],
+          "answer_index": 2,
+          "explanation": "Data loss and downtime risk is the primary consideration when migrating a critical application to the cloud."
+        },
+        {
+          "id": "ee9869c5-f515-4cad-b1b1-61a03c92dc02",
+          "topic": "Docker",
+          "concept": "Containerization",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of Docker?",
+          "options": [
+            "To create a virtual machine",
+            "To create a container",
+            "To create a network",
+            "To create a storage device"
+          ],
+          "answer_index": 1,
+          "explanation": "To create a container."
+        },
+        {
+          "id": "be0c6a00-ad3e-4ce8-a02b-e70106cfb166",
+          "topic": "Kubernetes",
+          "concept": "Cluster Management",
+          "difficulty": "medium",
+          "prompt": "What is the primary function of a Kubernetes node?",
+          "options": [
+            "To manage container orchestration",
+            "To manage cluster scaling",
+            "To manage node allocation",
+            "To manage node maintenance"
+          ],
+          "answer_index": 0,
+          "explanation": "To manage container orchestration."
+        },
+        {
+          "id": "40fcacc0-c007-475c-be6b-03dce0966a98",
+          "topic": "AWS",
+          "concept": "EC2 Instances",
+          "difficulty": "hard",
+          "prompt": "What is the primary difference between an On-Demand and Reserved instance?",
+          "options": [
+            "On-Demand instances are cheaper",
+            "Reserved instances are more flexible",
+            "On-Demand instances are more secure",
+            "Reserved instances are more scalable"
+          ],
+          "answer_index": 1,
+          "explanation": "Reserved instances are more flexible."
+        },
+        {
+          "id": "f72b2ebb-4c30-4914-a0bb-19fa680f73c0",
+          "topic": "Docker",
+          "concept": "Images",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of a Docker image?",
+          "options": [
+            "To create a container",
+            "To create a virtual machine",
+            "To create a network",
+            "To create a storage device"
+          ],
+          "answer_index": 0,
+          "explanation": "To create a container."
+        },
+        {
+          "id": "5a397878-0617-4cd5-b43c-428cb6e3831e",
+          "topic": "Kubernetes",
+          "concept": "Pods",
+          "difficulty": "medium",
+          "prompt": "What is the primary function of a Kubernetes pod?",
+          "options": [
+            "To manage container orchestration",
+            "To manage cluster scaling",
+            "To manage node allocation",
+            "To manage node maintenance"
+          ],
+          "answer_index": 2,
+          "explanation": "To manage node allocation."
+        },
+        {
+          "id": "e8a0b78d-a4ee-4d31-8b1d-8ba39a260fc5",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Cost Management",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using a cloud provider like AWS Cost Explorer?",
+          "options": [
+            "Cost savings",
+            "Improved security",
+            "Enhanced scalability",
+            "Detailed cost tracking"
+          ],
+          "answer_index": 3,
+          "explanation": "Detailed cost tracking is the primary benefit of using a cloud provider like AWS Cost Explorer."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:03:39.017902+00:00"
+    },
+    {
+      "id": "9a6d25b3-a23f-4ed3-bb9a-a49cbe574ac5",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "initial",
+      "profile_version": 1,
+      "skill_state_version": 0,
+      "topic": null,
+      "questions": [
+        {
+          "id": "ebac5934-3779-41de-8ddc-6b033616abbb",
+          "topic": "Front-end Development",
+          "concept": "DOM Manipulation",
+          "difficulty": "easy",
+          "prompt": "What is the purpose of the `document.body` property in JavaScript?",
+          "options": [
+            "Accesses the HTML document's body",
+            "Manipulates the DOM tree",
+            "Creates a new HTML element",
+            "Updates the browser's cache"
+          ],
+          "answer_index": 1,
+          "explanation": "The `document.body` property allows you to access and manipulate the HTML document's body element."
+        },
+        {
+          "id": "d32f242f-267b-4d6a-a45d-d1602886616a",
+          "topic": "Full Stack Engineering",
+          "concept": "Database Modeling",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a database schema?",
+          "options": [
+            "To store data in a structured format",
+            "To optimize database performance",
+            "To implement data encryption",
+            "To manage database backups"
+          ],
+          "answer_index": 0,
+          "explanation": "A database schema defines the structure and organization of data in a database, ensuring data consistency and integrity."
+        },
+        {
+          "id": "43b503a8-7e78-4139-98b8-8fbfa44ec4b6",
+          "topic": "Back-end Development",
+          "concept": "API Design",
+          "difficulty": "hard",
+          "prompt": "What is the difference between a RESTful API and a GraphQL API?",
+          "options": [
+            "RESTful APIs are stateless, while GraphQL APIs are stateful",
+            "RESTful APIs are more secure than GraphQL APIs",
+            "RESTful APIs are typically used for real-time applications",
+            "GraphQL APIs are more scalable than RESTful APIs"
+          ],
+          "answer_index": 2,
+          "explanation": "RESTful APIs are based on HTTP methods, while GraphQL APIs use a query language to retrieve specific data."
+        },
+        {
+          "id": "a2d2ce7f-5156-48fc-91ef-78a6fc08cbec",
+          "topic": "Full Stack Engineering",
+          "concept": "Version Control",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of Git?",
+          "options": [
+            "To manage database versions",
+            "To track changes in code",
+            "To implement continuous integration",
+            "To manage project dependencies"
+          ],
+          "answer_index": 1,
+          "explanation": "Git is a version control system that helps developers track changes in their codebase and collaborate with others."
+        },
+        {
+          "id": "c174d461-f6a6-47ee-bc6d-3a04dec92d5c",
+          "topic": "Front-end Development",
+          "concept": "CSS Preprocessors",
+          "difficulty": "medium",
+          "prompt": "What is the main advantage of using a CSS preprocessor like Sass?",
+          "options": [
+            "Improved performance",
+            "Enhanced security",
+            "Simplified styling",
+            "Increased maintainability"
+          ],
+          "answer_index": 3,
+          "explanation": "CSS preprocessors like Sass allow for more efficient and modular styling, making it easier to maintain large codebases."
+        },
+        {
+          "id": "4a081e73-c8e6-43e7-9e8f-b27985f8cc29",
+          "topic": "Full Stack Engineering",
+          "concept": "Security Best Practices",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using HTTPS in web development?",
+          "options": [
+            "Improved performance",
+            "Enhanced security",
+            "Increased scalability",
+            "Better SEO"
+          ],
+          "answer_index": 1,
+          "explanation": "HTTPS provides end-to-end encryption, protecting sensitive data transmitted between the client and server."
+        },
+        {
+          "id": "6f851800-30a0-443b-b932-9e75d17823ef",
+          "topic": "Back-end Development",
+          "concept": "Serverless Computing",
+          "difficulty": "easy",
+          "prompt": "What is the primary advantage of using serverless computing?",
+          "options": [
+            "Reduced infrastructure costs",
+            "Improved scalability",
+            "Increased flexibility",
+            "Better performance"
+          ],
+          "answer_index": 0,
+          "explanation": "Serverless computing eliminates the need for server management, reducing costs and increasing scalability."
+        },
+        {
+          "id": "168773d5-5f3c-4b15-8ddb-569a80552d60",
+          "topic": "Full Stack Engineering",
+          "concept": "Testing Frameworks",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a testing framework like Jest?",
+          "options": [
+            "To implement automated testing",
+            "To manage project dependencies",
+            "To optimize database performance",
+            "To enhance code readability"
+          ],
+          "answer_index": 0,
+          "explanation": "Testing frameworks like Jest provide a structured way to write and run tests, ensuring code quality and reliability."
+        },
+        {
+          "id": "413dfad3-9f90-459d-9bc7-428254e91782",
+          "topic": "Front-end Development",
+          "concept": "Responsive Design",
+          "difficulty": "hard",
+          "prompt": "What is the primary challenge in implementing responsive design?",
+          "options": [
+            "Managing media queries",
+            "Handling device orientations",
+            "Optimizing image loading",
+            "Ensuring cross-browser compatibility"
+          ],
+          "answer_index": 2,
+          "explanation": "Responsive design requires careful consideration of device orientations and screen sizes to ensure a seamless user experience."
+        },
+        {
+          "id": "8ee5b216-b4f5-4bb5-96a6-ea206bf4adbf",
+          "topic": "Full Stack Engineering",
+          "concept": "Cloud Computing",
+          "difficulty": "easy",
+          "prompt": "What is the primary benefit of using cloud computing?",
+          "options": [
+            "Reduced infrastructure costs",
+            "Improved scalability",
+            "Increased flexibility",
+            "Better performance"
+          ],
+          "answer_index": 0,
+          "explanation": "Cloud computing provides on-demand access to computing resources, reducing costs and increasing scalability."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:11:42.407541+00:00"
+    },
+    {
+      "id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "initial",
+      "profile_version": 1,
+      "skill_state_version": 0,
+      "topic": null,
+      "questions": [
+        {
+          "id": "569bd60d-1257-48d1-9d6b-7b61904df4de",
+          "topic": "Front-end Development",
+          "concept": "HTML5 Semantics",
+          "difficulty": "easy",
+          "prompt": "What is the semantic meaning of the <header> element in HTML5?",
+          "options": [
+            "Container for navigation",
+            "Container for content",
+            "Container for header",
+            "Container for footer"
+          ],
+          "answer_index": 0,
+          "explanation": "The <header> element represents the header section of a document or a section within a document."
+        },
+        {
+          "id": "ca502182-5f58-42e6-a1a1-5c0ca61df011",
+          "topic": "Back-end Development",
+          "concept": "API Design",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a RESTful API?",
+          "options": [
+            "To provide a secure connection",
+            "To provide a high-performance connection",
+            "To provide a flexible and scalable interface",
+            "To provide a synchronous connection"
+          ],
+          "answer_index": 2,
+          "explanation": "A RESTful API provides a flexible and scalable interface for interacting with a server, allowing for a wide range of HTTP methods and data formats."
+        },
+        {
+          "id": "c1f10f4b-eba6-4129-845b-e0aeac743c99",
+          "topic": "Databases",
+          "concept": "SQL vs NoSQL",
+          "difficulty": "hard",
+          "prompt": "What is the primary difference between a relational database (SQL) and a document-oriented database (NoSQL)?",
+          "options": [
+            "SQL databases are better for large datasets",
+            "NoSQL databases are better for complex queries",
+            "SQL databases are better for flexible schema",
+            "NoSQL databases are better for structured data"
+          ],
+          "answer_index": 1,
+          "explanation": "The primary difference between SQL and NoSQL databases is the way they store and manage data, with SQL databases using a fixed schema and NoSQL databases using a flexible schema."
+        },
+        {
+          "id": "cccb0a1c-0d1a-4288-a617-21bb437bbbec",
+          "topic": "Full Stack Development",
+          "concept": "Security Best Practices",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of input validation in a web application?",
+          "options": [
+            "To prevent SQL injection attacks",
+            "To prevent cross-site scripting (XSS) attacks",
+            "To prevent file inclusion vulnerabilities",
+            "To prevent session fixation attacks"
+          ],
+          "answer_index": 1,
+          "explanation": "Input validation is used to prevent cross-site scripting (XSS) attacks by ensuring that user input conforms to expected formats and patterns."
+        },
+        {
+          "id": "84168cfd-576e-4fdb-8136-591f829433a5",
+          "topic": "Front-end Development",
+          "concept": "CSS Preprocessors",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of a CSS preprocessor like Sass?",
+          "options": [
+            "To provide a more efficient way of writing CSS",
+            "To provide a more flexible way of writing CSS",
+            "To provide a more secure way of writing CSS",
+            "To provide a more maintainable way of writing CSS"
+          ],
+          "answer_index": 1,
+          "explanation": "CSS preprocessors like Sass provide a more flexible way of writing CSS by allowing for variables, nesting, and other advanced features."
+        },
+        {
+          "id": "7f9bb437-1840-4f52-baa4-eecee76ed463",
+          "topic": "Back-end Development",
+          "concept": "Error Handling",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of error handling in a web application?",
+          "options": [
+            "To provide a more secure connection",
+            "To provide a high-performance connection",
+            "To handle and log errors that occur during execution",
+            "To provide a flexible and scalable interface"
+          ],
+          "answer_index": 2,
+          "explanation": "Error handling is used to handle and log errors that occur during execution, allowing for debugging and troubleshooting to be performed."
+        },
+        {
+          "id": "560fdf31-50a9-460e-9cc1-7f63e1db9ddf",
+          "topic": "Databases",
+          "concept": "Indexing",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of indexing in a database?",
+          "options": [
+            "To improve query performance",
+            "To improve data security",
+            "To improve data backup",
+            "To improve data recovery"
+          ],
+          "answer_index": 0,
+          "explanation": "Indexing in a database is used to improve query performance by allowing for faster lookup and retrieval of data."
+        },
+        {
+          "id": "134f0ec9-57b4-4919-9324-6bd253b9fdc9",
+          "topic": "Full Stack Development",
+          "concept": "Testing Frameworks",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of a testing framework like Jest?",
+          "options": [
+            "To provide a more efficient way of writing tests",
+            "To provide a more flexible way of writing tests",
+            "To provide a more secure way of writing tests",
+            "To provide a more maintainable way of writing tests"
+          ],
+          "answer_index": 1,
+          "explanation": "Testing frameworks like Jest provide a more flexible way of writing tests by allowing for asynchronous testing and other advanced features."
+        },
+        {
+          "id": "b7535f8c-8e4d-4d24-af0f-d7d901e5c0a8",
+          "topic": "Front-end Development",
+          "concept": "Responsive Design",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of responsive design in a web application?",
+          "options": [
+            "To provide a more secure connection",
+            "To provide a high-performance connection",
+            "To provide a flexible and scalable interface for different screen sizes",
+            "To provide a synchronous connection"
+          ],
+          "answer_index": 2,
+          "explanation": "Responsive design is used to provide a flexible and scalable interface for different screen sizes, allowing for a better user experience across various devices."
+        }
+      ],
+      "submitted": true,
+      "created_at": "2026-09-19T19:11:26.386814+00:00",
+      "submitted_at": "2026-09-19T19:12:28.093049+00:00"
+    },
+    {
+      "id": "7514551c-048c-479e-88e9-cb7250d89f39",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "reassessment",
+      "profile_version": 1,
+      "skill_state_version": 1,
+      "topic": null,
+      "questions": [
+        {
+          "id": "577b7be9-fe31-4d69-96a7-967c44ca796a",
+          "topic": "Cloud Computing",
+          "concept": "IaaS",
+          "difficulty": "easy",
+          "prompt": "What does IaaS stand for?",
+          "options": [
+            "Infrastructure as a Service",
+            "Infrastructure as an Application",
+            "Infrastructure as a Function",
+            "Infrastructure as a Service Level Agreement"
+          ],
+          "answer_index": 0,
+          "explanation": "IaaS stands for Infrastructure as a Service, which is a model of cloud computing where users can provision and manage their own infrastructure resources over the internet."
+        },
+        {
+          "id": "10726202-95f9-4f87-8682-5645a81c84ae",
+          "topic": "Cloud Computing",
+          "concept": "Security",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using a cloud provider's managed security service?",
+          "options": [
+            "Improved scalability",
+            "Increased security",
+            "Reduced costs",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "The primary benefit of using a cloud provider's managed security service is increased security, as the provider is responsible for monitoring and maintaining the security of the infrastructure."
+        },
+        {
+          "id": "20826bf7-eafb-4c70-9c53-e789dc958a14",
+          "topic": "DevOps Tools",
+          "concept": "CI/CD",
+          "difficulty": "medium",
+          "prompt": "What is the main purpose of a Continuous Integration and Continuous Deployment (CI/CD) pipeline?",
+          "options": [
+            "To automate testing and deployment",
+            "To improve collaboration between teams",
+            "To reduce the time-to-market for new features",
+            "To increase the security of the application"
+          ],
+          "answer_index": 1,
+          "explanation": "The main purpose of a CI/CD pipeline is to automate testing and deployment, which helps to improve the speed and quality of software releases."
+        },
+        {
+          "id": "860e7dd6-407c-4950-b971-d59af2be9120",
+          "topic": "Cloud Security",
+          "concept": "Compliance",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of obtaining compliance with a cloud security standard such as SOC 2?",
+          "options": [
+            "Improved security",
+            "Increased scalability",
+            "Reduced costs",
+            "Enhanced reputation"
+          ],
+          "answer_index": 3,
+          "explanation": "The primary benefit of obtaining compliance with a cloud security standard such as SOC 2 is enhanced reputation, as it demonstrates that the organization has met certain security and compliance standards."
+        },
+        {
+          "id": "d1c4bdff-b99f-42e6-b1d5-e5b1fe40641f",
+          "topic": "Cloud Computing",
+          "concept": "PaaS",
+          "difficulty": "easy",
+          "prompt": "What does PaaS stand for?",
+          "options": [
+            "Platform as a Service",
+            "Platform as an Application",
+            "Platform as a Function",
+            "Platform as a Service Level Agreement"
+          ],
+          "answer_index": 0,
+          "explanation": "PaaS stands for Platform as a Service, which is a model of cloud computing where users can deploy and manage applications without worrying about the underlying infrastructure."
+        },
+        {
+          "id": "e2751c4c-421c-429b-8dd0-1d18affc2eff",
+          "topic": "DevOps Tools",
+          "concept": "Monitoring",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a monitoring tool in a DevOps pipeline?",
+          "options": [
+            "To automate testing and deployment",
+            "To improve collaboration between teams",
+            "To track application performance and identify issues",
+            "To increase the security of the application"
+          ],
+          "answer_index": 2,
+          "explanation": "The primary purpose of a monitoring tool in a DevOps pipeline is to track application performance and identify issues, which helps to improve the overall quality and reliability of the application."
+        },
+        {
+          "id": "bafa30d3-014b-422f-8b86-58d36c347880",
+          "topic": "Cloud Security",
+          "concept": "Encryption",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using encryption to protect data in the cloud?",
+          "options": [
+            "Improved security",
+            "Increased scalability",
+            "Reduced costs",
+            "Enhanced reputation"
+          ],
+          "answer_index": 3,
+          "explanation": "The primary benefit of using encryption to protect data in the cloud is improved security, as it ensures that data is protected from unauthorized access and tampering."
+        },
+        {
+          "id": "73d4332e-d03e-4a0a-9478-9219d4cda746",
+          "topic": "Cloud Computing",
+          "concept": "Cost",
+          "difficulty": "easy",
+          "prompt": "What is the primary benefit of using a cloud provider's pay-as-you-go pricing model?",
+          "options": [
+            "Improved scalability",
+            "Increased security",
+            "Reduced costs",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "The primary benefit of using a cloud provider's pay-as-you-go pricing model is reduced costs, as users only pay for the resources they use, rather than having to purchase and maintain their own infrastructure."
+        },
+        {
+          "id": "15c40302-24d4-4896-98b8-ccd9bc804d04",
+          "topic": "DevOps Tools",
+          "concept": "Version Control",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a version control system in a DevOps pipeline?",
+          "options": [
+            "To automate testing and deployment",
+            "To improve collaboration between teams",
+            "To track changes and manage different versions of code",
+            "To increase the security of the application"
+          ],
+          "answer_index": 2,
+          "explanation": "The primary purpose of a version control system in a DevOps pipeline is to track changes and manage different versions of code, which helps to improve the overall quality and reliability of the application."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:15:41.655317+00:00"
+    },
+    {
+      "id": "ea3dadee-58e4-4c4c-b4a9-dfb1aec2c6ae",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "reassessment",
+      "profile_version": 1,
+      "skill_state_version": 1,
+      "topic": null,
+      "questions": [
+        {
+          "id": "f95b1e43-9b55-4568-97f6-3c119b410917",
+          "topic": "Cloud Computing",
+          "concept": "IaaS",
+          "difficulty": "easy",
+          "prompt": "What does IaaS stand for in cloud computing?",
+          "options": [
+            "Infrastructure as Code",
+            "Infrastructure as a Service",
+            "Infrastructure as a Model",
+            "Infrastructure as a Network"
+          ],
+          "answer_index": 1,
+          "explanation": "IaaS stands for Infrastructure as a Service, which allows users to provision and manage virtual resources over the internet."
+        },
+        {
+          "id": "34472279-200c-43bd-adbc-af347589f497",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Provider",
+          "difficulty": "medium",
+          "prompt": "Which of the following is a major cloud provider?",
+          "options": [
+            "Amazon Web Services",
+            "Microsoft Azure",
+            "Google Cloud Platform",
+            "IBM Cloud"
+          ],
+          "answer_index": 0,
+          "explanation": "All of the above are major cloud providers."
+        },
+        {
+          "id": "0e8d8033-2ab8-4f08-9a66-e68f04eac4e0",
+          "topic": "DevOps Tools",
+          "concept": "CI/CD Pipeline",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of a CI/CD pipeline in DevOps?",
+          "options": [
+            "Continuous Integration and Continuous Deployment",
+            "Continuous Monitoring and Continuous Improvement",
+            "Continuous Testing and Continuous Deployment",
+            "Continuous Monitoring and Continuous Improvement"
+          ],
+          "answer_index": 0,
+          "explanation": "The primary purpose of a CI/CD pipeline is to automate the build, test, and deployment process of software applications."
+        },
+        {
+          "id": "84abe0b3-a3a7-49ad-868e-58a393ba06a9",
+          "topic": "Cloud Security",
+          "concept": "Encryption",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of encryption in cloud computing?",
+          "options": [
+            "To protect data from unauthorized access",
+            "To ensure data is always available",
+            "To guarantee data is always secure",
+            "To ensure data is always backed up"
+          ],
+          "answer_index": 0,
+          "explanation": "The primary purpose of encryption is to protect data from unauthorized access."
+        },
+        {
+          "id": "86daade9-2425-4da5-8364-f07d9c49b3ad",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Migration",
+          "difficulty": "medium",
+          "prompt": "What is the primary benefit of migrating to the cloud?",
+          "options": [
+            "Improved scalability",
+            "Increased security",
+            "Reduced costs",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "Migrating to the cloud can provide improved scalability, increased security, and reduced costs."
+        },
+        {
+          "id": "d784fe1a-c180-462b-9dab-9b5b02c1f1b1",
+          "topic": "DevOps Tools",
+          "concept": "Containerization",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of containerization in DevOps?",
+          "options": [
+            "To simplify the deployment process",
+            "To improve code quality",
+            "To increase application performance",
+            "To reduce the attack surface of applications"
+          ],
+          "answer_index": 0,
+          "explanation": "The primary purpose of containerization is to simplify the deployment process and improve the efficiency of application development and deployment."
+        },
+        {
+          "id": "63cfc707-e49a-4c17-85ed-5c329f68af72",
+          "topic": "Cloud Security",
+          "concept": "Access Control",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of access control in cloud computing?",
+          "options": [
+            "To ensure data is always available",
+            "To guarantee data is always secure",
+            "To protect data from unauthorized access",
+            "To ensure data is always backed up"
+          ],
+          "answer_index": 2,
+          "explanation": "The primary purpose of access control is to ensure that only authorized users can access cloud resources and data."
+        },
+        {
+          "id": "c02afab0-d789-4bd1-bbc8-67d3a6a03928",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Deployment",
+          "difficulty": "easy",
+          "prompt": "What is the primary type of cloud deployment?",
+          "options": [
+            "Public",
+            "Private",
+            "Hybrid",
+            "Community"
+          ],
+          "answer_index": 0,
+          "explanation": "The primary type of cloud deployment is public cloud deployment, where resources are made available to the general public."
+        },
+        {
+          "id": "0b766f5f-2489-4076-a7a4-eac9c1b6b383",
+          "topic": "DevOps Tools",
+          "concept": "Agile Methodologies",
+          "difficulty": "medium",
+          "prompt": "What is the primary benefit of using Agile methodologies in DevOps?",
+          "options": [
+            "Improved code quality",
+            "Increased application performance",
+            "Reduced deployment time",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "Using Agile methodologies can improve code quality, increase application performance, and reduce deployment time."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:15:55.436106+00:00"
+    },
+    {
+      "id": "b646fae1-17d0-4d69-882a-6fb7772eecd6",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "reassessment",
+      "profile_version": 1,
+      "skill_state_version": 1,
+      "topic": null,
+      "questions": [
+        {
+          "id": "e4dbbe55-0116-410a-9e34-f1ed0683ca44",
+          "topic": "Cloud Computing",
+          "concept": "IaaS",
+          "difficulty": "easy",
+          "prompt": "What does IaaS stand for?",
+          "options": [
+            "Infrastructure as a Service",
+            "Infrastructure as an Asset",
+            "Infrastructure as an Interface",
+            "Infrastructure as an Institution"
+          ],
+          "answer_index": 0,
+          "explanation": "IaaS is a model of cloud computing where resources are provided as a service over the internet."
+        },
+        {
+          "id": "78a8a707-1182-4ab6-bd3b-5eab35ee44fb",
+          "topic": "Cloud Computing",
+          "concept": "Security",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a cloud security gateway?",
+          "options": [
+            "To provide a secure connection to the cloud",
+            "To protect data from unauthorized access",
+            "To ensure compliance with regulatory requirements",
+            "To optimize cloud resource utilization"
+          ],
+          "answer_index": 1,
+          "explanation": "A cloud security gateway is a network appliance that provides a secure connection to the cloud and protects data from unauthorized access."
+        },
+        {
+          "id": "1fc813d2-b5db-4106-b77a-b6c60db86e2a",
+          "topic": "DevOps Tools",
+          "concept": "CI/CD",
+          "difficulty": "hard",
+          "prompt": "What is the primary difference between a CI/CD pipeline and a CI/CD workflow?",
+          "options": [
+            "A CI/CD pipeline is a linear process, while a CI/CD workflow is a non-linear process",
+            "A CI/CD pipeline is a non-linear process, while a CI/CD workflow is a linear process",
+            "A CI/CD pipeline is a process that automates testing and deployment",
+            "A CI/CD workflow is a process that automates testing and deployment"
+          ],
+          "answer_index": 0,
+          "explanation": "A CI/CD pipeline is a linear process that automates testing and deployment, while a CI/CD workflow is a non-linear process that automates testing and deployment in a more flexible manner."
+        },
+        {
+          "id": "fa597e2d-fd09-4771-881a-3b6e9303cf4f",
+          "topic": "Cloud Security",
+          "concept": "Compliance",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of compliance in cloud security?",
+          "options": [
+            "To ensure data privacy",
+            "To ensure data integrity",
+            "To ensure regulatory requirements are met",
+            "To optimize cloud resource utilization"
+          ],
+          "answer_index": 2,
+          "explanation": "Compliance in cloud security refers to the process of ensuring that cloud security measures meet regulatory requirements and industry standards."
+        },
+        {
+          "id": "1bccf6cd-42fc-4e2d-9b85-b28b8e1128d3",
+          "topic": "Cloud Computing",
+          "concept": "PaaS",
+          "difficulty": "medium",
+          "prompt": "What is the primary benefit of using a PaaS?",
+          "options": [
+            "To provide a platform for developing and deploying applications",
+            "To provide a platform for managing and maintaining applications",
+            "To provide a platform for scaling and optimizing applications",
+            "To provide a platform for securing and protecting applications"
+          ],
+          "answer_index": 0,
+          "explanation": "PaaS provides a platform for developing and deploying applications, allowing developers to focus on writing code rather than managing infrastructure."
+        },
+        {
+          "id": "9ab75775-471c-431f-8c7b-2004411be27a",
+          "topic": "DevOps Tools",
+          "concept": "Agile Methodologies",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using Agile methodologies in DevOps?",
+          "options": [
+            "To provide a structured approach to software development",
+            "To provide a flexible approach to software development",
+            "To improve collaboration and communication among team members",
+            "To reduce the time and cost of software development"
+          ],
+          "answer_index": 2,
+          "explanation": "Agile methodologies provide a flexible approach to software development, allowing teams to respond quickly to changing requirements and deliver working software in short iterations."
+        },
+        {
+          "id": "63fa2292-7279-40a7-9874-8fee45072a4e",
+          "topic": "Cloud Security",
+          "concept": "Encryption",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of encryption in cloud security?",
+          "options": [
+            "To protect data from unauthorized access",
+            "To ensure data integrity",
+            "To optimize cloud resource utilization",
+            "To provide a secure connection to the cloud"
+          ],
+          "answer_index": 0,
+          "explanation": "Encryption in cloud security refers to the process of protecting data from unauthorized access by converting it into an unreadable format."
+        },
+        {
+          "id": "4022cf99-ab3f-4c49-a009-db8bbca665eb",
+          "topic": "Cloud Computing",
+          "concept": "SaaS",
+          "difficulty": "easy",
+          "prompt": "What does SaaS stand for?",
+          "options": [
+            "Software as a Service",
+            "Software as an Asset",
+            "Software as an Interface",
+            "Software as an Institution"
+          ],
+          "answer_index": 0,
+          "explanation": "SaaS is a model of cloud computing where software is provided over the internet and accessed through a web browser or mobile app."
+        },
+        {
+          "id": "db8d8848-505b-4f18-b9c2-db479b5ac439",
+          "topic": "DevOps Tools",
+          "concept": "Version Control",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of version control in DevOps?",
+          "options": [
+            "To track changes to code",
+            "To manage dependencies",
+            "To optimize code quality",
+            "To improve collaboration among team members"
+          ],
+          "answer_index": 0,
+          "explanation": "Version control in DevOps refers to the process of tracking changes to code and managing different versions of code to ensure that the correct version is deployed to production."
+        }
+      ],
+      "submitted": true,
+      "created_at": "2026-09-19T19:16:17.290631+00:00",
+      "submitted_at": "2026-09-19T19:16:31.718665+00:00"
+    },
+    {
+      "id": "12390ac6-d954-45f5-aeb2-55d347a182e9",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "kind": "reassessment",
+      "profile_version": 1,
+      "skill_state_version": 1,
+      "topic": null,
+      "questions": [
+        {
+          "id": "b8b5e0e6-e0dd-48ff-896e-6443f316ed04",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Service Model",
+          "difficulty": "hard",
+          "prompt": "What is the primary characteristic of the Cloud Service Model?",
+          "options": [
+            "On-premises",
+            "Multi-tenancy",
+            "Resource pooling",
+            "Serverless"
+          ],
+          "answer_index": 2,
+          "explanation": "Resource pooling is the primary characteristic of the Cloud Service Model, as it allows multiple customers to share the same pool of resources."
+        },
+        {
+          "id": "4ffd86f8-43b8-44cf-b572-bdc2a0f869c6",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Deployment Models",
+          "difficulty": "medium",
+          "prompt": "Which of the following is a type of cloud deployment model?",
+          "options": [
+            "Public",
+            "Private",
+            "Hybrid",
+            "Community"
+          ],
+          "answer_index": 0,
+          "explanation": "Public cloud deployment model refers to a cloud infrastructure that is open to the general public."
+        },
+        {
+          "id": "6c47320a-93c9-42a8-9b3c-f21321943345",
+          "topic": "DevOps Tools",
+          "concept": "Continuous Integration",
+          "difficulty": "easy",
+          "prompt": "What is the primary purpose of Continuous Integration?",
+          "options": [
+            "Automate testing",
+            "Automate deployment",
+            "Automate testing and deployment",
+            "Automate monitoring"
+          ],
+          "answer_index": 1,
+          "explanation": "Continuous Integration is the process of automating the build, test, and deployment of code changes."
+        },
+        {
+          "id": "1857ce69-ccaa-489a-b00c-9d828d4898b9",
+          "topic": "Cloud Security",
+          "concept": "Cloud Security Controls",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of Cloud Security Controls?",
+          "options": [
+            "Protect against unauthorized access",
+            "Protect against data breaches",
+            "Protect against malware",
+            "Protect against denial-of-service attacks"
+          ],
+          "answer_index": 0,
+          "explanation": "Cloud Security Controls are measures taken to protect cloud resources from unauthorized access, data breaches, malware, and denial-of-service attacks."
+        },
+        {
+          "id": "7f8121d4-71bc-469c-b485-e2640bdae788",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Cost Management",
+          "difficulty": "medium",
+          "prompt": "What is the primary benefit of using a cloud cost management tool?",
+          "options": [
+            "Reduced costs",
+            "Increased costs",
+            "No impact on costs",
+            "Unknown impact on costs"
+          ],
+          "answer_index": 0,
+          "explanation": "Using a cloud cost management tool can help reduce costs by providing visibility into cloud expenses and optimizing resource utilization."
+        },
+        {
+          "id": "40d84170-9c9b-424b-9c64-d0c616a5a921",
+          "topic": "DevOps Tools",
+          "concept": "Containerization",
+          "difficulty": "hard",
+          "prompt": "What is the primary benefit of using containerization?",
+          "options": [
+            "Improved security",
+            "Improved scalability",
+            "Improved reliability",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "Containerization provides improved security, scalability, and reliability by packaging applications and their dependencies into a single container."
+        },
+        {
+          "id": "4c849f73-f9e3-45de-9d1b-1b07a7e235b7",
+          "topic": "Cloud Security",
+          "concept": "Cloud Security Frameworks",
+          "difficulty": "medium",
+          "prompt": "What is the primary purpose of a Cloud Security Framework?",
+          "options": [
+            "Provide a set of best practices",
+            "Provide a set of compliance requirements",
+            "Provide a set of security controls",
+            "Provide a set of incident response plans"
+          ],
+          "answer_index": 1,
+          "explanation": "Cloud Security Frameworks provide a set of best practices to help organizations implement a cloud security program."
+        },
+        {
+          "id": "df722e0f-cc53-4ffb-b0e8-4e6987ab9344",
+          "topic": "Cloud Computing",
+          "concept": "Cloud Migration",
+          "difficulty": "hard",
+          "prompt": "What is the primary challenge of migrating an on-premises application to the cloud?",
+          "options": [
+            "Lack of expertise",
+            "Lack of resources",
+            "Lack of visibility",
+            "All of the above"
+          ],
+          "answer_index": 0,
+          "explanation": "The primary challenge of migrating an on-premises application to the cloud is often a lack of expertise in cloud migration, as well as lack of resources and visibility into the migration process."
+        },
+        {
+          "id": "2043f5a1-10ac-4c1a-85fe-3ff7fb9bde3a",
+          "topic": "DevOps Tools",
+          "concept": "Agile Methodologies",
+          "difficulty": "easy",
+          "prompt": "What is the primary benefit of using Agile Methodologies?",
+          "options": [
+            "Improved productivity",
+            "Improved quality",
+            "Improved communication",
+            "All of the above"
+          ],
+          "answer_index": 2,
+          "explanation": "Agile Methodologies provide improved quality and communication by emphasizing iterative development and continuous improvement."
+        },
+        {
+          "id": "776bbcbe-748f-4c1d-8627-e7fa963ef341",
+          "topic": "Cloud Security",
+          "concept": "Cloud Security Monitoring",
+          "difficulty": "hard",
+          "prompt": "What is the primary purpose of Cloud Security Monitoring?",
+          "options": [
+            "Detect security threats",
+            "Respond to security incidents",
+            "Prevent security breaches",
+            "All of the above"
+          ],
+          "answer_index": 3,
+          "explanation": "Cloud Security Monitoring involves detecting security threats, responding to security incidents, and preventing security breaches to ensure the security of cloud resources."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:16:32.992577+00:00"
+    },
+    {
+      "id": "53efcbfc-9ed6-466e-9a06-d1ec305204d2",
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "career_target": "ML Engineer",
+      "kind": "initial",
+      "profile_version": 1,
+      "skill_state_version": 0,
+      "topic": null,
+      "questions": [
+        {
+          "id": "b9f50146-161b-4a94-bba8-964a35771e92",
+          "topic": "Machine Learning",
+          "concept": "Supervised Learning",
+          "difficulty": "easy",
+          "prompt": "What type of machine learning is used when the algorithm learns from labeled data?",
+          "options": [
+            "Unsupervised",
+            "Reinforcement",
+            "Supervised",
+            "Semi-supervised"
+          ],
+          "answer_index": 3,
+          "explanation": "Supervised learning involves training a model on labeled data to make predictions on new, unseen data."
+        },
+        {
+          "id": "69bd9d6d-a4d7-4488-8a0c-57a2022a7525",
+          "topic": "Deep Learning",
+          "concept": "Activation Functions",
+          "difficulty": "medium",
+          "prompt": "Which of the following activation functions is commonly used in neural networks for its non-linear properties?",
+          "options": [
+            "ReLU",
+            "Sigmoid",
+            "Tanh",
+            "Softmax"
+          ],
+          "answer_index": 0,
+          "explanation": "ReLU (Rectified Linear Unit) is a popular activation function in deep learning due to its simplicity and non-linear properties."
+        },
+        {
+          "id": "3c0800a5-169a-4d95-bd4b-b560d5457019",
+          "topic": "Python",
+          "concept": "Data Structures",
+          "difficulty": "hard",
+          "prompt": "What is the time complexity of the Python list data structure?",
+          "options": [
+            "O(1)",
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)"
+          ],
+          "answer_index": 1,
+          "explanation": "The time complexity of the Python list data structure is O(n) for append and insert operations."
+        },
+        {
+          "id": "35478c88-66e3-49e3-897d-119fc8749d44",
+          "topic": "TensorFlow",
+          "concept": "Autoencoders",
+          "difficulty": "medium",
+          "prompt": "What is the primary function of an autoencoder in deep learning?",
+          "options": [
+            "Dimensionality reduction",
+            "Feature learning",
+            "Anomaly detection",
+            "Generative modeling"
+          ],
+          "answer_index": 2,
+          "explanation": "Autoencoders are used for dimensionality reduction and feature learning in deep learning."
+        },
+        {
+          "id": "790d3d5f-6c95-4d3e-ae07-60ea85b52474",
+          "topic": "Python",
+          "concept": "Object-Oriented Programming",
+          "difficulty": "easy",
+          "prompt": "What is the main advantage of using object-oriented programming in Python?",
+          "options": [
+            "Easier code organization",
+            "Faster execution",
+            "Improved readability",
+            "Better performance"
+          ],
+          "answer_index": 0,
+          "explanation": "Object-oriented programming in Python provides easier code organization and improved readability."
+        },
+        {
+          "id": "f687db32-bde5-41e9-84a1-e227d40e233e",
+          "topic": "Keras",
+          "concept": "Convolutional Neural Networks",
+          "difficulty": "hard",
+          "prompt": "What is the primary difference between a convolutional neural network and a fully connected neural network?",
+          "options": [
+            "Number of layers",
+            "Type of layers",
+            "Activation functions",
+            "Output size"
+          ],
+          "answer_index": 1,
+          "explanation": "The primary difference between a convolutional neural network and a fully connected neural network is the type of layers used."
+        },
+        {
+          "id": "6ac19c19-d629-4847-b1aa-9d616bc3c052",
+          "topic": "Python",
+          "concept": "Regular Expressions",
+          "difficulty": "medium",
+          "prompt": "What is the purpose of the `^` character in regular expressions?",
+          "options": [
+            "To match the start of a string",
+            "To match the end of a string",
+            "To match any character",
+            "To match a specific character"
+          ],
+          "answer_index": 0,
+          "explanation": "The `^` character in regular expressions matches the start of a string."
+        },
+        {
+          "id": "718b4e2f-fd96-4feb-8591-fbb69329917a",
+          "topic": "Machine Learning",
+          "concept": "Overfitting",
+          "difficulty": "hard",
+          "prompt": "What is the primary cause of overfitting in machine learning models?",
+          "options": [
+            "Insufficient training data",
+            "Inadequate model complexity",
+            "Overparameterization",
+            "Lack of regularization"
+          ],
+          "answer_index": 3,
+          "explanation": "Overfitting in machine learning models is often caused by overparameterization, where the model is too complex and fits the training data too closely."
+        },
+        {
+          "id": "72cce482-42dd-4519-86e1-4a868d12f47b",
+          "topic": "Python",
+          "concept": "Error Handling",
+          "difficulty": "easy",
+          "prompt": "What is the purpose of the `try`-`except` block in Python?",
+          "options": [
+            "To handle user input",
+            "To handle file I/O",
+            "To handle errors and exceptions",
+            "To optimize code performance"
+          ],
+          "answer_index": 2,
+          "explanation": "The `try`-`except` block in Python is used to handle errors and exceptions in code."
+        }
+      ],
+      "submitted": false,
+      "created_at": "2026-09-19T19:18:41.847657+00:00"
+    },
+    {
+      "id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "career_target": "ML Engineer",
+      "kind": "initial",
+      "profile_version": 1,
+      "skill_state_version": 0,
+      "topic": null,
+      "questions": [
+        {
+          "id": "09df5692-91fe-426e-ba2d-052586251141",
+          "topic": "Deep Learning",
+          "concept": "Activation Functions",
+          "difficulty": "easy",
+          "prompt": "What is the primary function of the ReLU activation function?",
+          "options": [
+            "Non-linear activation function",
+            "Linear activation function",
+            "Identity function",
+            "Exponential function"
+          ],
+          "answer_index": 0,
+          "explanation": "ReLU stands for Rectified Linear Unit and is used to introduce non-linearity into a model."
+        },
+        {
+          "id": "4fdd1888-d601-4ff4-b923-6128ccb6306d",
+          "topic": "Machine Learning",
+          "concept": "Overfitting",
+          "difficulty": "medium",
+          "prompt": "What is the main cause of overfitting in a machine learning model?",
+          "options": [
+            "Model complexity",
+            "Data quality",
+            "Algorithm choice",
+            "Lack of regularization"
+          ],
+          "answer_index": 2,
+          "explanation": "Overfitting occurs when a model is too complex and fits the training data too closely, resulting in poor performance on unseen data."
+        },
+        {
+          "id": "6f42e893-f4ea-4611-be59-100c702ca0c5",
+          "topic": "Python",
+          "concept": "Data Structures",
+          "difficulty": "hard",
+          "prompt": "What is the time complexity of the Python list data structure?",
+          "options": [
+            "O(1)",
+            "O(n)",
+            "O(n log n)",
+            "O(n^2)"
+          ],
+          "answer_index": 1,
+          "explanation": "The time complexity of the Python list data structure is O(n) for append and insert operations."
+        },
+        {
+          "id": "fe7bf119-77d6-4c63-9d63-e04d02d8172f",
+          "topic": "TensorFlow",
+          "concept": "Autograd",
+          "difficulty": "medium",
+          "prompt": "What is the purpose of autograd in TensorFlow?",
+          "options": [
+            "Automatic differentiation for gradient calculation",
+            "Manual gradient calculation",
+            "Gradient descent optimization",
+            "Batch normalization"
+          ],
+          "answer_index": 0,
+          "explanation": "Autograd is a system in TensorFlow that automatically computes gradients of a loss function with respect to model parameters."
+        },
+        {
+          "id": "ff8c230a-f051-472b-94d5-5a322a83af8b",
+          "topic": "Data Preprocessing",
+          "concept": "Normalization",
+          "difficulty": "easy",
+          "prompt": "What is the purpose of normalization in data preprocessing?",
+          "options": [
+            "Scaling data to a specific range",
+            "Removing outliers from data",
+            "Converting categorical data to numerical data",
+            "Handling missing values in data"
+          ],
+          "answer_index": 0,
+          "explanation": "Normalization scales data to a specific range, usually between 0 and 1, to improve model performance and prevent feature dominance."
+        },
+        {
+          "id": "2780938a-d68a-4b8a-99a3-2c0d2b7b6c66",
+          "topic": "Keras",
+          "concept": "Layers",
+          "difficulty": "hard",
+          "prompt": "What is the difference between a Dense layer and a Convolutional layer in Keras?",
+          "options": [
+            "Dense layers are used for classification tasks while Convolutional layers are used for image classification",
+            "Dense layers are used for image classification while Convolutional layers are used for classification tasks",
+            "Dense layers are used for feature extraction while Convolutional layers are used for classification",
+            "Dense layers are used for feature extraction while Convolutional layers are used for regression"
+          ],
+          "answer_index": 1,
+          "explanation": "Dense layers are used for classification and regression tasks, while Convolutional layers are used for image classification tasks that require feature extraction."
+        },
+        {
+          "id": "4d2f9628-5b51-402a-a488-7a00d0da6a81",
+          "topic": "Scikit-Learn",
+          "concept": "Model Evaluation",
+          "difficulty": "medium",
+          "prompt": "What is the purpose of the cross-validation technique in Scikit-Learn?",
+          "options": [
+            "To evaluate the performance of a model on a single dataset",
+            "To evaluate the performance of a model on multiple datasets",
+            "To evaluate the performance of a model on unseen data",
+            "To evaluate the performance of a model on a specific feature"
+          ],
+          "answer_index": 2,
+          "explanation": "Cross-validation is a technique used to evaluate the performance of a model on multiple datasets, which helps to prevent overfitting and provides a more accurate estimate of model performance."
+        },
+        {
+          "id": "30951d2a-d218-4cd0-87c8-6eac2ec85312",
+          "topic": "PyTorch",
+          "concept": "Autograd",
+          "difficulty": "hard",
+          "prompt": "What is the difference between PyTorch's autograd system and TensorFlow's autograd system?",
+          "options": [
+            "PyTorch's autograd system is more complex and powerful than TensorFlow's autograd system",
+            "PyTorch's autograd system is less complex and less powerful than TensorFlow's autograd system",
+            "PyTorch's autograd system is designed for image classification tasks while TensorFlow's autograd system is designed for general-purpose tasks",
+            "PyTorch's autograd system is designed for general-purpose tasks while TensorFlow's autograd system is designed for image classification tasks"
+          ],
+          "answer_index": 1,
+          "explanation": "PyTorch's autograd system is designed for general-purpose tasks, while TensorFlow's autograd system is designed for image classification tasks. However, both systems provide automatic differentiation for gradient calculation."
+        },
+        {
+          "id": "0f7603a6-3d60-4c5e-a2d3-b09cc5980aeb",
+          "topic": "Data Visualization",
+          "concept": "Plotting Libraries",
+          "difficulty": "easy",
+          "prompt": "Which plotting library is commonly used for data visualization in Python?",
+          "options": [
+            "Matplotlib",
+            "Seaborn",
+            "Plotly",
+            "Bokeh"
+          ],
+          "answer_index": 0,
+          "explanation": "Matplotlib is a widely used plotting library for data visualization in Python, providing a wide range of visualization tools and customization options."
+        }
+      ],
+      "submitted": true,
+      "created_at": "2026-09-19T19:18:27.676248+00:00",
+      "submitted_at": "2026-09-19T19:19:01.914565+00:00"
+    }
+  ],
+  "users": [
+    {
+      "id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "name": "advitya",
+      "email": "123@gmail.com",
+      "password": "123456",
+      "career_target": "Full Stack Engineer"
+    },
+    {
+      "id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "name": "priyanshi",
+      "email": "798@gmail.com",
+      "password": "56784394376585467",
+      "career_target": "ML Engineer"
+    }
+  ],
+  "profiles": [
+    {
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "career_target": "Full Stack Engineer",
+      "skills": [
+        "JavaScript",
+        "React"
+      ],
+      "skill_profile": [
+        {
+          "name": "JavaScript",
+          "level": 8,
+          "evidence": [
+            "Used a freely available poki-api to fetch all the data in the Poki-stats project"
+          ]
+        },
+        {
+          "name": "React",
+          "level": 9,
+          "evidence": [
+            "Made a fully functional Pokemon stats page and a web3 based payment service in the Paychain project"
+          ]
+        }
+      ],
+      "technologies": [
+        "{'name': 'HTML', 'level': 1}",
+        "{'name': 'CSS', 'level': 1}",
+        "{'name': 'Solidity', 'level': 6}",
+        "{'name': 'React js', 'level': 9}",
+        "{'name': 'gsap', 'level': 1}",
+        "{'name': 'tailwind', 'level': 1}",
+        "{'name': 'locomotive.js', 'level': 1}",
+        "{'name': 'ether.js', 'level': 1}"
+      ],
+      "projects": [
+        {
+          "name": "Poki-stats",
+          "technologies": [
+            "{'name': 'React', 'level': 9}",
+            "{'name': 'JavaScript', 'level': 8}",
+            "{'name': 'HTML', 'level': 1}",
+            "{'name': 'CSS', 'level': 1}"
+          ]
+        },
+        {
+          "name": "Paychain",
+          "technologies": [
+            "{'name': 'React', 'level': 9}",
+            "{'name': 'JavaScript', 'level': 8}",
+            "{'name': 'Solidity', 'level': 6}",
+            "{'name': 'ether.js', 'level': 1}"
+          ]
+        }
+      ],
+      "relevant_experience": [],
+      "knowledge_areas": [
+        "{'name': 'Blockchain', 'level': 1}"
+      ],
+      "resume_hash": "8dc02a03f71c7477d0497580bf3c918c8cbc4edd966053670b69ac720b53c152",
+      "text_length": 1874,
+      "profile_version": 1,
+      "ai_status": "ready"
+    },
+    {
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "career_target": "ML Engineer",
+      "skills": [
+        "JavaScript",
+        "React"
+      ],
+      "skill_profile": [
+        {
+          "name": "JavaScript",
+          "level": 8,
+          "evidence": [
+            "Used in React framework for Poki-stats and Paychain projects"
+          ]
+        },
+        {
+          "name": "React",
+          "level": 9,
+          "evidence": [
+            "Used in Poki-stats and Paychain projects"
+          ]
+        }
+      ],
+      "technologies": [
+        "{'name': 'C', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'C++', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'HTML', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'CSS', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'Solidity', 'level': 6, 'evidence': 'Used in Paychain project'}",
+        "{'name': 'Js', 'level': 8, 'evidence': 'Used in React framework for Poki-stats and Paychain projects'}",
+        "{'name': 'Gsap', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'Tailwind', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'Locomotive.js', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}",
+        "{'name': 'Ether.js', 'level': 1, 'evidence': 'Mentioned in Technical Skills section'}"
+      ],
+      "projects": [
+        {
+          "name": "Poki-stats",
+          "technologies": [
+            "{'name': 'React', 'level': 9}",
+            "{'name': 'Js', 'level': 8}",
+            "{'name': 'Poki-api', 'level': 1}"
+          ]
+        },
+        {
+          "name": "Paychain",
+          "technologies": [
+            "{'name': 'React', 'level': 9}",
+            "{'name': 'Js', 'level': 8}",
+            "{'name': 'Solidity', 'level': 6}",
+            "{'name': 'Ether.js', 'level': 1}",
+            "{'name': 'Monad testnet blockchain', 'level': 1}"
+          ]
+        }
+      ],
+      "relevant_experience": [],
+      "knowledge_areas": [
+        "{'name': 'Web3', 'level': 1, 'evidence': 'Used in Paychain project'}"
+      ],
+      "resume_hash": "8dc02a03f71c7477d0497580bf3c918c8cbc4edd966053670b69ac720b53c152",
+      "text_length": 1874,
+      "profile_version": 1,
+      "ai_status": "ready"
+    }
+  ],
+  "skill_states": [
+    {
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "scores": {
+        "Containerization": 55.0,
+        "Agile Methodologies": 25.0,
+        "Cloud Computing": 21.5,
+        "Version Control": 50.0,
+        "DevOps Tools": 26.0,
+        "Cloud Security": 23.0,
+        "Frontend Development": 33.3,
+        "Full Stack Development": 35.3,
+        "Backend Development": 36.7,
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0
+      },
+      "history": {
+        "Front-end Development": [
+          {
+            "quiz_id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:12:28.093049+00:00"
+          }
+        ],
+        "Back-end Development": [
+          {
+            "quiz_id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+            "current": 80.0,
+            "cumulative": 80.0,
+            "assessed_at": "2026-09-19T19:12:28.093049+00:00"
+          }
+        ],
+        "Databases": [
+          {
+            "quiz_id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+            "current": 50.0,
+            "cumulative": 50.0,
+            "assessed_at": "2026-09-19T19:12:28.093049+00:00"
+          }
+        ],
+        "Full Stack Development": [
+          {
+            "quiz_id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+            "current": 50.0,
+            "cumulative": 35.3,
+            "assessed_at": "2026-09-19T19:12:28.093049+00:00"
+          }
+        ],
+        "Cloud Computing": [
+          {
+            "quiz_id": "b646fae1-17d0-4d69-882a-6fb7772eecd6",
+            "current": 22.5,
+            "cumulative": 21.5,
+            "assessed_at": "2026-09-19T19:16:31.718665+00:00"
+          }
+        ],
+        "DevOps Tools": [
+          {
+            "quiz_id": "b646fae1-17d0-4d69-882a-6fb7772eecd6",
+            "current": 30.0,
+            "cumulative": 26.0,
+            "assessed_at": "2026-09-19T19:16:31.718665+00:00"
+          }
+        ],
+        "Cloud Security": [
+          {
+            "quiz_id": "b646fae1-17d0-4d69-882a-6fb7772eecd6",
+            "current": 25.0,
+            "cumulative": 23.0,
+            "assessed_at": "2026-09-19T19:16:31.718665+00:00"
+          }
+        ]
+      },
+      "trends": {
+        "Cloud Computing": 1.5,
+        "DevOps Tools": 6.0,
+        "Cloud Security": 3.0
+      },
+      "last_assessed": "2026-09-19T19:16:31.718665+00:00",
+      "version": 2
+    },
+    {
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "scores": {
+        "Containerization": 55.0,
+        "Agile Methodologies": 25.0,
+        "Cloud Computing": 21.5,
+        "Version Control": 50.0,
+        "DevOps Tools": 26.0,
+        "Cloud Security": 23.0,
+        "Frontend Development": 33.3,
+        "Full Stack Development": 35.3,
+        "Backend Development": 36.7,
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0,
+        "Deep Learning": 20.0,
+        "Machine Learning": 90.0,
+        "Python": 20.0,
+        "TensorFlow": 10.0,
+        "Data Preprocessing": 80.0,
+        "Keras": 10.0,
+        "Scikit-Learn": 20.0,
+        "PyTorch": 20.0,
+        "Data Visualization": 20.0
+      },
+      "history": {
+        "Deep Learning": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Machine Learning": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 90.0,
+            "cumulative": 90.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Python": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "TensorFlow": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 10.0,
+            "cumulative": 10.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Data Preprocessing": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 80.0,
+            "cumulative": 80.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Keras": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 10.0,
+            "cumulative": 10.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Scikit-Learn": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "PyTorch": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ],
+        "Data Visualization": [
+          {
+            "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+            "current": 20.0,
+            "cumulative": 20.0,
+            "assessed_at": "2026-09-19T19:19:01.914565+00:00"
+          }
+        ]
+      },
+      "trends": {
+        "Deep Learning": 0,
+        "Machine Learning": 0,
+        "Python": 0,
+        "TensorFlow": 0,
+        "Data Preprocessing": 0,
+        "Keras": 0,
+        "Scikit-Learn": 0,
+        "PyTorch": 0,
+        "Data Visualization": 0
+      },
+      "last_assessed": "2026-09-19T19:19:01.914565+00:00",
+      "version": 1
+    }
+  ],
+  "progress": [
+    {
+      "id": "6c0012c3-8cbb-447c-81c8-f9d09f3af7a4",
+      "quiz_id": "5cbdcde6-52d7-424f-bbc6-be777d51acc0",
+      "overall": 46.3,
+      "current_topic_scores": {
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0,
+        "Full Stack Development": 50.0
+      },
+      "topic_scores": {
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0,
+        "Full Stack Development": 35.3
+      },
+      "details": [
+        {
+          "question_id": "569bd60d-1257-48d1-9d6b-7b61904df4de",
+          "topic": "Front-end Development",
+          "concept": "HTML5 Semantics",
+          "difficulty": "easy",
+          "selected_index": 1,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "ca502182-5f58-42e6-a1a1-5c0ca61df011",
+          "topic": "Back-end Development",
+          "concept": "API Design",
+          "difficulty": "medium",
+          "selected_index": 2,
+          "correct_index": 2,
+          "correct": true,
+          "user_rating": 3,
+          "evidence": 80
+        },
+        {
+          "question_id": "c1f10f4b-eba6-4129-845b-e0aeac743c99",
+          "topic": "Databases",
+          "concept": "SQL vs NoSQL",
+          "difficulty": "hard",
+          "selected_index": 1,
+          "correct_index": 1,
+          "correct": true,
+          "user_rating": 3,
+          "evidence": 80
+        },
+        {
+          "question_id": "cccb0a1c-0d1a-4288-a617-21bb437bbbec",
+          "topic": "Full Stack Development",
+          "concept": "Security Best Practices",
+          "difficulty": "medium",
+          "selected_index": 1,
+          "correct_index": 1,
+          "correct": true,
+          "user_rating": 3,
+          "evidence": 80
+        },
+        {
+          "question_id": "84168cfd-576e-4fdb-8136-591f829433a5",
+          "topic": "Front-end Development",
+          "concept": "CSS Preprocessors",
+          "difficulty": "hard",
+          "selected_index": 3,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "7f9bb437-1840-4f52-baa4-eecee76ed463",
+          "topic": "Back-end Development",
+          "concept": "Error Handling",
+          "difficulty": "medium",
+          "selected_index": 2,
+          "correct_index": 2,
+          "correct": true,
+          "user_rating": 3,
+          "evidence": 80
+        },
+        {
+          "question_id": "560fdf31-50a9-460e-9cc1-7f63e1db9ddf",
+          "topic": "Databases",
+          "concept": "Indexing",
+          "difficulty": "easy",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "134f0ec9-57b4-4919-9324-6bd253b9fdc9",
+          "topic": "Full Stack Development",
+          "concept": "Testing Frameworks",
+          "difficulty": "hard",
+          "selected_index": 3,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "b7535f8c-8e4d-4d24-af0f-d7d901e5c0a8",
+          "topic": "Front-end Development",
+          "concept": "Responsive Design",
+          "difficulty": "medium",
+          "selected_index": 1,
+          "correct_index": 2,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        }
+      ],
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "assessed_at": "2026-09-19T19:12:28.093049+00:00",
+      "skill_scores": {
+        "Containerization": 55.0,
+        "Agile Methodologies": 25.0,
+        "Cloud Computing": 20.0,
+        "Version Control": 50.0,
+        "DevOps Tools": 20.0,
+        "Cloud Security": 20.0,
+        "Frontend Development": 33.3,
+        "Full Stack Development": 35.3,
+        "Backend Development": 36.7,
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0
+      },
+      "skill_state_version": 1
+    },
+    {
+      "id": "9b30db73-21a2-4936-a45b-989f36371678",
+      "quiz_id": "b646fae1-17d0-4d69-882a-6fb7772eecd6",
+      "overall": 23.5,
+      "current_topic_scores": {
+        "Cloud Computing": 22.5,
+        "DevOps Tools": 30.0,
+        "Cloud Security": 25.0
+      },
+      "topic_scores": {
+        "Cloud Computing": 21.5,
+        "DevOps Tools": 26.0,
+        "Cloud Security": 23.0
+      },
+      "details": [
+        {
+          "question_id": "e4dbbe55-0116-410a-9e34-f1ed0683ca44",
+          "topic": "Cloud Computing",
+          "concept": "IaaS",
+          "difficulty": "easy",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "78a8a707-1182-4ab6-bd3b-5eab35ee44fb",
+          "topic": "Cloud Computing",
+          "concept": "Security",
+          "difficulty": "medium",
+          "selected_index": 2,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "1fc813d2-b5db-4106-b77a-b6c60db86e2a",
+          "topic": "DevOps Tools",
+          "concept": "CI/CD",
+          "difficulty": "hard",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 4,
+          "evidence": 10
+        },
+        {
+          "question_id": "fa597e2d-fd09-4771-881a-3b6e9303cf4f",
+          "topic": "Cloud Security",
+          "concept": "Compliance",
+          "difficulty": "easy",
+          "selected_index": 3,
+          "correct_index": 2,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "1bccf6cd-42fc-4e2d-9b85-b28b8e1128d3",
+          "topic": "Cloud Computing",
+          "concept": "PaaS",
+          "difficulty": "medium",
+          "selected_index": 3,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "9ab75775-471c-431f-8c7b-2004411be27a",
+          "topic": "DevOps Tools",
+          "concept": "Agile Methodologies",
+          "difficulty": "hard",
+          "selected_index": 2,
+          "correct_index": 2,
+          "correct": true,
+          "user_rating": 2,
+          "evidence": 70
+        },
+        {
+          "question_id": "63fa2292-7279-40a7-9874-8fee45072a4e",
+          "topic": "Cloud Security",
+          "concept": "Encryption",
+          "difficulty": "hard",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 2,
+          "evidence": 30
+        },
+        {
+          "question_id": "4022cf99-ab3f-4c49-a009-db8bbca665eb",
+          "topic": "Cloud Computing",
+          "concept": "SaaS",
+          "difficulty": "easy",
+          "selected_index": 1,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 2,
+          "evidence": 30
+        },
+        {
+          "question_id": "db8d8848-505b-4f18-b9c2-db479b5ac439",
+          "topic": "DevOps Tools",
+          "concept": "Version Control",
+          "difficulty": "medium",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 4,
+          "evidence": 10
+        }
+      ],
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "assessed_at": "2026-09-19T19:16:31.718665+00:00",
+      "skill_scores": {
+        "Containerization": 55.0,
+        "Agile Methodologies": 25.0,
+        "Cloud Computing": 21.5,
+        "Version Control": 50.0,
+        "DevOps Tools": 26.0,
+        "Cloud Security": 23.0,
+        "Frontend Development": 33.3,
+        "Full Stack Development": 35.3,
+        "Backend Development": 36.7,
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0
+      },
+      "skill_state_version": 2
+    },
+    {
+      "id": "12eefb55-cec9-45d7-9fc8-515163b70aed",
+      "quiz_id": "0eb155f6-a491-4300-b1da-f065dba815a6",
+      "overall": 32.2,
+      "current_topic_scores": {
+        "Deep Learning": 20.0,
+        "Machine Learning": 90.0,
+        "Python": 20.0,
+        "TensorFlow": 10.0,
+        "Data Preprocessing": 80.0,
+        "Keras": 10.0,
+        "Scikit-Learn": 20.0,
+        "PyTorch": 20.0,
+        "Data Visualization": 20.0
+      },
+      "topic_scores": {
+        "Deep Learning": 20.0,
+        "Machine Learning": 90.0,
+        "Python": 20.0,
+        "TensorFlow": 10.0,
+        "Data Preprocessing": 80.0,
+        "Keras": 10.0,
+        "Scikit-Learn": 20.0,
+        "PyTorch": 20.0,
+        "Data Visualization": 20.0
+      },
+      "details": [
+        {
+          "question_id": "09df5692-91fe-426e-ba2d-052586251141",
+          "topic": "Deep Learning",
+          "concept": "Activation Functions",
+          "difficulty": "easy",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "4fdd1888-d601-4ff4-b923-6128ccb6306d",
+          "topic": "Machine Learning",
+          "concept": "Overfitting",
+          "difficulty": "medium",
+          "selected_index": 2,
+          "correct_index": 2,
+          "correct": true,
+          "user_rating": 4,
+          "evidence": 90
+        },
+        {
+          "question_id": "6f42e893-f4ea-4611-be59-100c702ca0c5",
+          "topic": "Python",
+          "concept": "Data Structures",
+          "difficulty": "hard",
+          "selected_index": 3,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "fe7bf119-77d6-4c63-9d63-e04d02d8172f",
+          "topic": "TensorFlow",
+          "concept": "Autograd",
+          "difficulty": "medium",
+          "selected_index": 1,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 4,
+          "evidence": 10
+        },
+        {
+          "question_id": "ff8c230a-f051-472b-94d5-5a322a83af8b",
+          "topic": "Data Preprocessing",
+          "concept": "Normalization",
+          "difficulty": "easy",
+          "selected_index": 0,
+          "correct_index": 0,
+          "correct": true,
+          "user_rating": 3,
+          "evidence": 80
+        },
+        {
+          "question_id": "2780938a-d68a-4b8a-99a3-2c0d2b7b6c66",
+          "topic": "Keras",
+          "concept": "Layers",
+          "difficulty": "hard",
+          "selected_index": 0,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 4,
+          "evidence": 10
+        },
+        {
+          "question_id": "4d2f9628-5b51-402a-a488-7a00d0da6a81",
+          "topic": "Scikit-Learn",
+          "concept": "Model Evaluation",
+          "difficulty": "medium",
+          "selected_index": 3,
+          "correct_index": 2,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "30951d2a-d218-4cd0-87c8-6eac2ec85312",
+          "topic": "PyTorch",
+          "concept": "Autograd",
+          "difficulty": "hard",
+          "selected_index": 2,
+          "correct_index": 1,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        },
+        {
+          "question_id": "0f7603a6-3d60-4c5e-a2d3-b09cc5980aeb",
+          "topic": "Data Visualization",
+          "concept": "Plotting Libraries",
+          "difficulty": "easy",
+          "selected_index": 2,
+          "correct_index": 0,
+          "correct": false,
+          "user_rating": 3,
+          "evidence": 20
+        }
+      ],
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "assessed_at": "2026-09-19T19:19:01.914565+00:00",
+      "skill_scores": {
+        "Containerization": 55.0,
+        "Agile Methodologies": 25.0,
+        "Cloud Computing": 21.5,
+        "Version Control": 50.0,
+        "DevOps Tools": 26.0,
+        "Cloud Security": 23.0,
+        "Frontend Development": 33.3,
+        "Full Stack Development": 35.3,
+        "Backend Development": 36.7,
+        "Front-end Development": 20.0,
+        "Back-end Development": 80.0,
+        "Databases": 50.0,
+        "Deep Learning": 20.0,
+        "Machine Learning": 90.0,
+        "Python": 20.0,
+        "TensorFlow": 10.0,
+        "Data Preprocessing": 80.0,
+        "Keras": 10.0,
+        "Scikit-Learn": 20.0,
+        "PyTorch": 20.0,
+        "Data Visualization": 20.0
+      },
+      "skill_state_version": 1
+    }
+  ],
+  "roadmaps": [
+    {
+      "career_target": "Full Stack Engineer",
+      "nodes": [
+        {
+          "id": "javascript",
+          "topic": "JavaScript",
+          "mastery": 72.0,
+          "status": "in_progress",
+          "priority": "medium",
+          "position": {
+            "x": 70,
+            "y": 80
+          }
+        },
+        {
+          "id": "react",
+          "topic": "React",
+          "mastery": 72.0,
+          "status": "in_progress",
+          "priority": "medium",
+          "position": {
+            "x": 350,
+            "y": 80
+          }
+        },
+        {
+          "id": "apis",
+          "topic": "APIs",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 630,
+            "y": 80
+          }
+        },
+        {
+          "id": "sql",
+          "topic": "SQL",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 70,
+            "y": 310
+          }
+        },
+        {
+          "id": "docker",
+          "topic": "Docker",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 350,
+            "y": 310
+          }
+        },
+        {
+          "id": "system-design",
+          "topic": "System Design",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 630,
+            "y": 310
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-javascript-react",
+          "source": "javascript",
+          "target": "react",
+          "animated": true
+        },
+        {
+          "id": "e-react-apis",
+          "source": "react",
+          "target": "apis",
+          "animated": true
+        },
+        {
+          "id": "e-apis-sql",
+          "source": "apis",
+          "target": "sql",
+          "animated": false
+        },
+        {
+          "id": "e-sql-docker",
+          "source": "sql",
+          "target": "docker",
+          "animated": false
+        },
+        {
+          "id": "e-docker-system-design",
+          "source": "docker",
+          "target": "system-design",
+          "animated": false
+        }
+      ],
+      "completion": 52.0,
+      "roadmap_version": 2,
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "skill_state_version": 2,
+      "recommendations": {
+        "priority_skills": [
+          {
+            "skill": "Agile Methodologies",
+            "priority": "low",
+            "reason": "Lack of practice",
+            "next_topics": [
+              "Cloud Computing",
+              "Version Control",
+              "DevOps Tools"
+            ],
+            "practice": "Complete 5 Agile Methodologies quizzes",
+            "needs_reassessment": true
+          }
+        ],
+        "next_focus": [
+          "Cloud Security",
+          "Frontend Development",
+          "Backend Development",
+          "Databases"
+        ],
+        "reinforce": [
+          "Full Stack Development",
+          "Cloud Computing",
+          "DevOps Tools"
+        ],
+        "next_topics": [
+          "APIs",
+          "System Design",
+          "SQL"
+        ]
+      },
+      "updated_at": "2026-09-19T19:16:31.718665+00:00"
+    },
+    {
+      "career_target": "ML Engineer",
+      "nodes": [
+        {
+          "id": "python",
+          "topic": "Python",
+          "mastery": 20.0,
+          "status": "weak_gap",
+          "priority": "medium",
+          "position": {
+            "x": 70,
+            "y": 80
+          },
+          "recommended_concepts": [
+            "Python",
+            "Data Visualization",
+            "Machine Learning",
+            "Deep Learning"
+          ],
+          "practice": "Practice Python programming",
+          "needs_reassessment": false
+        },
+        {
+          "id": "sql",
+          "topic": "SQL",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 350,
+            "y": 80
+          }
+        },
+        {
+          "id": "machine-learning",
+          "topic": "Machine Learning",
+          "mastery": 90.0,
+          "status": "completed",
+          "priority": "low",
+          "position": {
+            "x": 630,
+            "y": 80
+          }
+        },
+        {
+          "id": "pytorch",
+          "topic": "PyTorch",
+          "mastery": 20.0,
+          "status": "weak_gap",
+          "priority": "medium",
+          "position": {
+            "x": 70,
+            "y": 310
+          },
+          "recommended_concepts": [
+            "Keras",
+            "Scikit-Learn",
+            "Machine Learning",
+            "Deep Learning"
+          ],
+          "practice": "Review PyTorch concepts",
+          "needs_reassessment": false
+        },
+        {
+          "id": "mlops",
+          "topic": "MLOps",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 350,
+            "y": 310
+          }
+        },
+        {
+          "id": "system-design",
+          "topic": "System Design",
+          "mastery": 42.0,
+          "status": "weak_gap",
+          "priority": "high",
+          "position": {
+            "x": 630,
+            "y": 310
+          }
+        }
+      ],
+      "edges": [
+        {
+          "id": "e-python-sql",
+          "source": "python",
+          "target": "sql",
+          "animated": false
+        },
+        {
+          "id": "e-sql-machine-learning",
+          "source": "sql",
+          "target": "machine-learning",
+          "animated": false
+        },
+        {
+          "id": "e-machine-learning-pytorch",
+          "source": "machine-learning",
+          "target": "pytorch",
+          "animated": false
+        },
+        {
+          "id": "e-pytorch-mlops",
+          "source": "pytorch",
+          "target": "mlops",
+          "animated": false
+        },
+        {
+          "id": "e-mlops-system-design",
+          "source": "mlops",
+          "target": "system-design",
+          "animated": false
+        }
+      ],
+      "completion": 42.7,
+      "roadmap_version": 1,
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "skill_state_version": 1,
+      "recommendations": {
+        "priority_skills": [
+          {
+            "skill": "Agile Methodologies",
+            "priority": "low",
+            "reason": "Lack of experience",
+            "next_topics": [
+              "Containerization",
+              "Cloud Computing"
+            ],
+            "practice": "Take an Agile Methodologies course",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Frontend Development",
+            "priority": "low",
+            "reason": "Insufficient practice",
+            "next_topics": [
+              "Front-end Development",
+              "Full Stack Development"
+            ],
+            "practice": "Practice building web applications",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Cloud Security",
+            "priority": "low",
+            "reason": "Limited knowledge",
+            "next_topics": [
+              "Cloud Computing",
+              "DevOps Tools"
+            ],
+            "practice": "Take a Cloud Security course",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Deep Learning",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Machine Learning",
+              "Python",
+              "TensorFlow",
+              "Data Preprocessing"
+            ],
+            "practice": "Review Deep Learning concepts",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Front-end Development",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Front-end Development",
+              "Full Stack Development"
+            ],
+            "practice": "Practice building web applications",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Python",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Python",
+              "Data Visualization",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Practice Python programming",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Data Visualization",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Data Visualization",
+              "Data Preprocessing",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Practice data visualization",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Scikit-Learn",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Keras",
+              "PyTorch",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Review Scikit-Learn concepts",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "PyTorch",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Keras",
+              "Scikit-Learn",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Review PyTorch concepts",
+            "needs_reassessment": false
+          }
+        ],
+        "next_focus": [
+          "Frontend Development",
+          "Cloud Security",
+          "Deep Learning",
+          "Python",
+          "Data Visualization",
+          "Scikit-Learn",
+          "PyTorch"
+        ],
+        "reinforce": [
+          "Machine Learning",
+          "Data Preprocessing",
+          "Keras",
+          "TensorFlow"
+        ],
+        "next_topics": [
+          "Containerization",
+          "Cloud Computing",
+          "Agile Methodologies",
+          "Front-end Development",
+          "Full Stack Development",
+          "Back-end Development",
+          "Databases",
+          "MLOps",
+          "System Design"
+        ]
+      },
+      "updated_at": "2026-09-19T19:19:01.914565+00:00"
+    }
+  ],
+  "recommendations": [
+    {
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "skill_state_version": 2,
+      "recommendations": {
+        "priority_skills": [
+          {
+            "skill": "Agile Methodologies",
+            "priority": "low",
+            "reason": "Lack of practice",
+            "next_topics": [
+              "Cloud Computing",
+              "Version Control",
+              "DevOps Tools"
+            ],
+            "practice": "Complete 5 Agile Methodologies quizzes",
+            "needs_reassessment": true
+          }
+        ],
+        "next_focus": [
+          "Cloud Security",
+          "Frontend Development",
+          "Backend Development",
+          "Databases"
+        ],
+        "reinforce": [
+          "Full Stack Development",
+          "Cloud Computing",
+          "DevOps Tools"
+        ],
+        "next_topics": [
+          "APIs",
+          "System Design",
+          "SQL"
+        ]
+      },
+      "updated_at": "2026-09-19T19:16:31.718665+00:00"
+    },
+    {
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "skill_state_version": 1,
+      "recommendations": {
+        "priority_skills": [
+          {
+            "skill": "Agile Methodologies",
+            "priority": "low",
+            "reason": "Lack of experience",
+            "next_topics": [
+              "Containerization",
+              "Cloud Computing"
+            ],
+            "practice": "Take an Agile Methodologies course",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Frontend Development",
+            "priority": "low",
+            "reason": "Insufficient practice",
+            "next_topics": [
+              "Front-end Development",
+              "Full Stack Development"
+            ],
+            "practice": "Practice building web applications",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Cloud Security",
+            "priority": "low",
+            "reason": "Limited knowledge",
+            "next_topics": [
+              "Cloud Computing",
+              "DevOps Tools"
+            ],
+            "practice": "Take a Cloud Security course",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Deep Learning",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Machine Learning",
+              "Python",
+              "TensorFlow",
+              "Data Preprocessing"
+            ],
+            "practice": "Review Deep Learning concepts",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Front-end Development",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Front-end Development",
+              "Full Stack Development"
+            ],
+            "practice": "Practice building web applications",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Python",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Python",
+              "Data Visualization",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Practice Python programming",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Data Visualization",
+            "priority": "medium",
+            "reason": "Need to improve skills",
+            "next_topics": [
+              "Data Visualization",
+              "Data Preprocessing",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Practice data visualization",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "Scikit-Learn",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Keras",
+              "PyTorch",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Review Scikit-Learn concepts",
+            "needs_reassessment": false
+          },
+          {
+            "skill": "PyTorch",
+            "priority": "medium",
+            "reason": "Need to review fundamentals",
+            "next_topics": [
+              "Keras",
+              "Scikit-Learn",
+              "Machine Learning",
+              "Deep Learning"
+            ],
+            "practice": "Review PyTorch concepts",
+            "needs_reassessment": false
+          }
+        ],
+        "next_focus": [
+          "Frontend Development",
+          "Cloud Security",
+          "Deep Learning",
+          "Python",
+          "Data Visualization",
+          "Scikit-Learn",
+          "PyTorch"
+        ],
+        "reinforce": [
+          "Machine Learning",
+          "Data Preprocessing",
+          "Keras",
+          "TensorFlow"
+        ],
+        "next_topics": [
+          "Containerization",
+          "Cloud Computing",
+          "Agile Methodologies",
+          "Front-end Development",
+          "Full Stack Development",
+          "Back-end Development",
+          "Databases",
+          "MLOps",
+          "System Design"
+        ]
+      },
+      "updated_at": "2026-09-19T19:19:01.914565+00:00"
+    }
+  ],
+  "chat_history": [
+    {
+      "id": "e8f054be-8d98-47ba-8ecf-c6ff753e25a4",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "hello",
+      "reply": "Hello! It's great to chat with you. How's your learning journey going so far? Are you feeling stuck or do you have any specific questions about APIs or any other topic you're currently exploring?",
+      "created_at": "2026-09-19T19:12:42.427657+00:00"
+    },
+    {
+      "id": "41140a6e-76b4-484f-b8c6-652a5e51f879",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "im fine",
+      "reply": "It's great that you're feeling fine! Now that we've caught up, how about we dive back into APIs? You've been focusing on this topic, and I noticed that your scores for Front-end Development and Back-end Development are a bit lower than the others. Would you like to explore some resources to help improve those skills, or do you have any specific questions about APIs that you'd like to discuss?",
+      "created_at": "2026-09-19T19:12:47.471167+00:00"
+    },
+    {
+      "id": "f0e39ab0-d103-4bdb-9dd7-2f7654d648b4",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "what are apis",
+      "reply": "APIs, or Application Programming Interfaces, are sets of defined rules that enable different software systems to communicate with each other. They allow different applications, services, or systems to exchange data, request services, or perform actions, without having to know the details of how the other system works.\n\nThink of APIs like messengers who help different systems talk to each other. When you use a service like Google Maps, you're interacting with an API that provides the location data and routing information. APIs can be used to build a wide range of applications, from simple web services to complex enterprise systems.\n\nIn the context of your current focus on APIs, understanding what APIs are and how they work is a great foundation for building robust and scalable applications. Do you have any specific questions about how APIs are used in practice, or would you like to explore some resources to learn more about API design and development?",
+      "created_at": "2026-09-19T19:12:57.425412+00:00"
+    },
+    {
+      "id": "f610ada4-0f49-4361-949e-9b42066bcdb6",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "what things are important in backend",
+      "reply": "When it comes to backend development, there are several key areas to focus on. First and foremost, understanding databases is crucial, as it's often the backbone of any backend application. You've already scored well in this area, but it's worth reviewing to ensure you have a solid grasp.\n\nAnother important aspect of backend development is backend development itself. This includes understanding how to design and implement backend APIs, as well as how to integrate them with frontend applications. Since you've scored well in backend development, you can build on this strength.\n\nAdditionally, cloud security is a critical consideration for backend development, as it can have a significant impact on the overall security and reliability of the application. You've already identified this as an area for improvement, but it's worth exploring further to ensure you're taking the necessary steps to protect your applications.\n\nFinally, understanding how to use DevOps tools is also essential for backend development. This includes tools like Docker, which can help you manage and deploy your applications more efficiently.\n\nConsidering your current focus on APIs, these areas are all closely tied to the development of robust and scalable backend applications. By focusing on these areas, you can build a strong foundation for your backend development skills.",
+      "created_at": "2026-09-19T19:14:58.354532+00:00"
+    },
+    {
+      "id": "08697128-6cda-49cb-b1ae-29c3c48e0b06",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "hello",
+      "reply": "It's great to see you again! How are you feeling about your progress on APIs so far?",
+      "created_at": "2026-09-19T19:17:04.388599+00:00"
+    },
+    {
+      "id": "5c364757-0881-4db2-a403-8fb463b7c510",
+      "user_id": "aca3f938-7d23-4836-abc2-339a0a1ad0db",
+      "role": "user",
+      "message": "how are you",
+      "reply": "I'm doing great, thanks for asking! It's wonderful to see you're diving deep into the world of APIs. How about you? How's your experience been so far? Are you finding it engaging and challenging?",
+      "created_at": "2026-09-19T19:17:10.655491+00:00"
+    },
+    {
+      "id": "ab33c828-3f75-4746-85cd-e8a1956ca354",
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "role": "user",
+      "message": "what is linear regression\\",
+      "reply": "Linear regression is a fundamental concept in Machine Learning. It's a supervised learning algorithm that predicts a continuous output variable based on one or more input features. The goal is to find the best-fitting linear line that minimizes the difference between predicted and actual values.\n\nIn essence, linear regression is a linear model that learns the relationship between the input features and the target variable. It's widely used in many fields, such as predictive modeling, forecasting, and data analysis.\n\nTo get started with linear regression, I recommend reviewing the basics of linear algebra and understanding the concept of regression. You can also explore popular libraries like scikit-learn in Python, which provides an implementation of linear regression.\n\nConsidering your current focus on SQL, I'd suggest taking a break from SQL for now and exploring linear regression. You can start with some online resources or tutorials that cover the basics of linear regression. Once you have a solid grasp of the concept, you can come back to SQL.\n\nHow does that sound? Would you like some recommendations for online resources or tutorials on linear regression?",
+      "created_at": "2026-09-19T19:19:36.645109+00:00"
+    },
+    {
+      "id": "65702341-b9b9-4fb3-985d-b3c2486e38bd",
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "role": "user",
+      "message": "on which llm are you based on",
+      "reply": "I'm based on the LLaMA 2 model, which is a large language model developed by Meta AI. It's designed to generate human-like responses to a wide range of questions and topics, and I'm happy to be your learning mentor and guide as you work through your EduPath journey!",
+      "created_at": "2026-09-19T19:20:11.020469+00:00"
+    },
+    {
+      "id": "8f517ede-5f52-4180-b876-056d1b0fad07",
+      "user_id": "5d463676-979c-4d38-be30-0c64cea18aeb",
+      "role": "user",
+      "message": "hello",
+      "reply": "Hello! It's great to see you again. How's your learning journey going so far? Are you feeling stuck or ready to dive into something new?",
+      "created_at": "2026-09-19T19:20:42.352056+00:00"
+    }
+  ]
+}
