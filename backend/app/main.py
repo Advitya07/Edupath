@@ -15,7 +15,17 @@ async def lifespan(_: FastAPI):
 
 
 app = FastAPI(title="EduPath API", version="0.1.0", lifespan=lifespan)
-app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173"], allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
+# Vite selects the next available port (for example 5174) when 5173 is busy.
+# Permit only local browser origins across those development ports; deployed
+# applications should replace this with their explicit production origin.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origin_regex=r"^https?://(localhost|127\.0\.0\.1):\d+$",
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 for router in (auth.router, assessment.router, roadmap.router, chat.router, admin.router):
     app.include_router(router, prefix="/api")
 
