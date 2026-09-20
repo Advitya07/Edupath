@@ -30,3 +30,4 @@ Open `http://localhost:5173`. Or run both services with `docker compose up`.
 
 Set `OLLAMA_BASE_URL=http://localhost:11434`, `OLLAMA_MODEL=llama3.2`, and optionally `OLLAMA_TIMEOUT_SECONDS=45` in `.env`. For Docker Compose, it uses `host.docker.internal` by default; override it with `OLLAMA_DOCKER_BASE_URL` only if Ollama runs elsewhere. The React app never receives this configuration or contacts Ollama directly. The compact demo tokens are intentionally not production authentication; replace them with signed JWTs, password hashing, RBAC, storage, and virus scanning before deployment.
 # edupath
+# Edu-Path
