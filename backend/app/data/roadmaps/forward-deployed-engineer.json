@@ -1,0 +1,2048 @@
+{
+  "id": "forward-deployed-engineer",
+  "slug": "forward-deployed-engineer",
+  "role_id": "forward-deployed-engineer",
+  "role_name": "Forward Deployed Engineer",
+  "career_target": "Forward Deployed Engineer",
+  "title": "Forward Deployed Engineer",
+  "description": "Step-by-step guide to becoming a Forward Deployed Engineer in @currentYear@",
+  "source": "roadmap.sh",
+  "source_url": "https://roadmap.sh/forward-deployed-engineer",
+  "roadmap_slug": "forward-deployed-engineer",
+  "last_synced_at": "2026-09-20T06:40:35.550457+00:00",
+  "dimensions": {
+    "height": 1482,
+    "width": 1130
+  },
+  "nodes": [
+    {
+      "id": "-jhJbNIZbAha6Lm1RJ9ma",
+      "type": "vertical",
+      "position": {
+        "x": -20,
+        "y": -165
+      },
+      "data": {
+        "id": "-jhJbNIZbAha6Lm1RJ9ma",
+        "label": "",
+        "topic": "",
+        "oldId": null,
+        "style": {
+          "stroke": "#2b78e4",
+          "strokeWidth": 3.5,
+          "strokeLinecap": "round",
+          "strokeLinejoin": "round",
+          "strokeDasharray": "0.8 8"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "-jhJbNIZbAha6Lm1RJ9ma"
+      },
+      "width": 20,
+      "height": 100,
+      "style": {
+        "width": 20,
+        "height": 100
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "9yG3qY_gwr77Uz2XN5wQO",
+      "type": "title",
+      "position": {
+        "x": -123,
+        "y": -65
+      },
+      "data": {
+        "id": "9yG3qY_gwr77Uz2XN5wQO",
+        "label": "FDE Roadmap",
+        "topic": "FDE Roadmap",
+        "oldId": null,
+        "style": {
+          "fontSize": 28,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "9yG3qY_gwr77Uz2XN5wQO"
+      },
+      "width": 226,
+      "height": 68,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "XMksIsrFfHP899uom5BQJ",
+      "type": "label",
+      "position": {
+        "x": -159.5,
+        "y": 726.3883182685636
+      },
+      "data": {
+        "id": "XMksIsrFfHP899uom5BQJ",
+        "label": "Customer Delivery & Field Skills",
+        "topic": "Customer Delivery & Field Skills",
+        "oldId": null,
+        "style": {
+          "fontSize": 20,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "XMksIsrFfHP899uom5BQJ"
+      },
+      "width": 299,
+      "height": 42,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "s4Kooj99igkE02P-D-dAU",
+      "type": "subtopic",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 728.6330467909938
+      },
+      "data": {
+        "id": "s4Kooj99igkE02P-D-dAU",
+        "label": "Requirements Gathering",
+        "topic": "Requirements Gathering",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Project requirements come from observation as much as from conversation. You watch how teams actually work, not just how they describe their work, because those two things are often different. The goal is to surface the undocumented workflow, the data source people actually trust, and the edge cases that would break an agent in its first week of production. Written requirements are useful, but the real requirements live in the room with the people doing the work.",
+        "resources": [
+          {
+            "title": "Requirements Gathering in Business Analysis",
+            "type": "Course",
+            "url": "https://www.coursera.org/learn/requirements-gathering-in-business-analysis",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Requirements Gathering in Software Engineering",
+            "type": "Article",
+            "url": "https://www.jamasoftware.com/requirements-management-guide/requirements-gathering-and-management-processes/what-is-requirements-gathering/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Requirement Gathering Techniques For A Business Analyst",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=8EBWxW5Cn1g",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "s4Kooj99igkE02P-D-dAU"
+      },
+      "width": 304.5,
+      "height": 49,
+      "style": {
+        "width": 304.5,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "KqQHfy1Z8w-v8p73QkvG5",
+      "type": "subtopic",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 781.6330467909938
+      },
+      "data": {
+        "id": "KqQHfy1Z8w-v8p73QkvG5",
+        "label": "Technical Scoping & Sequencing",
+        "topic": "Technical Scoping & Sequencing",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Technical scoping involves breaking a project into discrete tasks, estimating their complexity, and identifying dependencies. Sequencing means ordering those tasks logically, starting with the highest-risk or most uncertain parts. A well-scoped and sequenced project is easier to track and deliver on time, and gives the customer visibility into what is being built and in what order.",
+        "resources": [
+          {
+            "title": "How to effectively scope your software projects",
+            "type": "Article",
+            "url": "https://medium.com/free-code-camp/how-to-effectively-scope-your-software-projects-from-planning-to-execution-e96cbcac54b9",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "KqQHfy1Z8w-v8p73QkvG5"
+      },
+      "width": 304.5,
+      "height": 49,
+      "style": {
+        "width": 304.5,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "eKUy2q5cGskmcg-sAAtYW",
+      "type": "subtopic",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 834.6330467909938
+      },
+      "data": {
+        "id": "eKUy2q5cGskmcg-sAAtYW",
+        "label": "Tradeoffs: Scope, Speed, Quality",
+        "topic": "Tradeoffs: Scope, Speed, Quality",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Every project involves tradeoffs between scope (how much is built), speed (how fast it is delivered), and quality (how well it holds up over time). Reducing scope can speed things up without sacrificing quality. Cutting corners on quality can speed things up in the short term but creates problems later. FDEs need to understand and communicate these tradeoffs clearly, helping customers make informed decisions rather than just agreeing to everything and delivering less than expected.",
+        "resources": [
+          {
+            "title": "Project management triangle: Triple constraint guide",
+            "type": "Article",
+            "url": "https://asana.com/resources/project-management-triangle",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What is the Iron Triangle? Time, Cost, Quality, Scope?",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=JHSHOAfV-uw",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "eKUy2q5cGskmcg-sAAtYW"
+      },
+      "width": 304.5,
+      "height": 49,
+      "style": {
+        "width": 304.5,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "hO7BCDFmbvQVcgM7W2t9S",
+      "type": "topic",
+      "position": {
+        "x": -160,
+        "y": 834.6330467909938
+      },
+      "data": {
+        "id": "hO7BCDFmbvQVcgM7W2t9S",
+        "label": "Discovery & Scoping",
+        "topic": "Discovery & Scoping",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Discovery and scoping is the phase of a customer engagement where the team identifies the problem to solve, understands the current state of the customer's systems and processes, and defines what success looks like. It involves asking the right questions, identifying constraints, and setting realistic expectations before any building begins. Getting this phase right determines whether the rest of the engagement goes smoothly or runs into avoidable problems.",
+        "resources": [
+          {
+            "title": "AI Techniques (Production): Use Case Discovery & System Scoping",
+            "type": "Article",
+            "url": "https://academy.openai.com/public/clubs/builders-etkn1/videos/ai-techniques-production-use-case-discovery-and-system-scoping-2025-12-11",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "AI Discovery & Scoping Session",
+            "type": "Article",
+            "url": "https://www.elevatecorporatetraining.com.au/ai-discovery-scoping/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "hO7BCDFmbvQVcgM7W2t9S"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "ir0uv9E3flgBz_cHntOf4",
+      "type": "subtopic",
+      "position": {
+        "x": -546.3097604934172,
+        "y": 940.6330467909938
+      },
+      "data": {
+        "id": "ir0uv9E3flgBz_cHntOf4",
+        "label": "Technical Writing",
+        "topic": "Technical Writing",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Technical writing is the practice of producing clear, accurate, and useful documentation for software systems. This includes API docs, architecture decision records, runbooks, onboarding guides, and design documents. Technical writing is especially important because good documentation is often what allows a customer to operate and extend a system after the engagement ends, without needing to call the FDE back for every question.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated Technical Writer Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/technical-writer",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "ir0uv9E3flgBz_cHntOf4"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "iaNbLDFrEDYEKwpkGFWts",
+      "type": "topic",
+      "position": {
+        "x": -160,
+        "y": 940.6330467909938
+      },
+      "data": {
+        "id": "iaNbLDFrEDYEKwpkGFWts",
+        "label": "Communication",
+        "topic": "Communication",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "If you cannot explain what AI can and cannot do to a non-technical VP, you cannot be an FDE. Communication in this role is about translating between two different worlds: the technical reality of what you are building and the business reality of what the customer needs to justify the investment. That means being able to speak about token costs and latency in the same conversation where you are explaining ROI to an executive. It also means knowing when to say AI is not the right answer.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "iaNbLDFrEDYEKwpkGFWts"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "c8dBwWaKLiW6X2HWfmVJt",
+      "type": "subtopic",
+      "position": {
+        "x": 237.222125453836,
+        "y": 807.2549230445202
+      },
+      "data": {
+        "id": "c8dBwWaKLiW6X2HWfmVJt",
+        "label": "Enterprise Workflow",
+        "topic": "Enterprise Workflow",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Enterprise workflows are the processes and systems through which large organizations operate, including approvals, handoffs, integrations with existing tools, and compliance requirements. Building for enterprise environments requires understanding these workflows and designing solutions that fit within them.",
+        "resources": [
+          {
+            "title": "What is enterprise workflow management?",
+            "type": "Article",
+            "url": "https://www.manageengine.com/appcreator/enterprise-workflow-management.html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "c8dBwWaKLiW6X2HWfmVJt"
+      },
+      "width": 265,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "kyHwTMFBQxbHrGBcv3q0O",
+      "type": "subtopic",
+      "position": {
+        "x": 237.222125453836,
+        "y": 860.2549230445202
+      },
+      "data": {
+        "id": "kyHwTMFBQxbHrGBcv3q0O",
+        "label": "ROI & AI Impact",
+        "topic": "ROI & AI Impact",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Understanding return on investment (ROI) for AI projects means being able to quantify how an AI system creates value, whether through cost savings, productivity improvements, revenue growth, or risk reduction. It also means being honest about what AI can realistically deliver. FDEs who can frame AI work in business terms help customers build confidence in the investment and avoid overselling what the technology can do.",
+        "resources": [
+          {
+            "title": "How to maximize AI ROI in 2026",
+            "type": "Article",
+            "url": "https://www.ibm.com/think/insights/ai-roi",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What is ROI and How to Calculate Return on Investment",
+            "type": "Article",
+            "url": "https://www.esade.edu/beyond/en/what-is-roi-and-how-to-calculate-return-on-investment/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kyHwTMFBQxbHrGBcv3q0O"
+      },
+      "width": 265,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "L76T2X7AFpVtpMF9CjBJo",
+      "type": "subtopic",
+      "position": {
+        "x": 237.222125453836,
+        "y": 913.2549230445202
+      },
+      "data": {
+        "id": "L76T2X7AFpVtpMF9CjBJo",
+        "label": "Stakeholder Management",
+        "topic": "Stakeholder Management",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Stakeholder management in FDE work is less about keeping people happy and more about making sure the right people know what is happening before it becomes a problem. This means identifying who the skeptics are early, giving them the evidence they need to trust the system (usually evals), managing expectations before a demo rather than after it goes wrong, and escalating blockers fast rather than letting them quietly slow the engagement. The technical work can be excellent, and the engagement can still fail if the people who need to approve, adopt, or fund the system never get bought in.",
+        "resources": [
+          {
+            "title": "Stakeholder Management Guide: Definitions, Processes & More",
+            "type": "Article",
+            "url": "https://simplystakeholders.com/resources/guides/stakeholder-management/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "L76T2X7AFpVtpMF9CjBJo"
+      },
+      "width": 265,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "bE7j2U28V8Vf9OKHBqLwW",
+      "type": "topic",
+      "position": {
+        "x": -160,
+        "y": 887.6330467909938
+      },
+      "data": {
+        "id": "bE7j2U28V8Vf9OKHBqLwW",
+        "label": "Business Acumen",
+        "topic": "Business Acumen",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Business acumen is the ability to understand how an organization operates, what its priorities are, how it makes money, and where technology can create real value. Being able to connect engineering decisions to business outcomes is what makes FDEs different from traditional software engineers.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "bE7j2U28V8Vf9OKHBqLwW"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "DoQwnxlPrx8suV2GRbF17",
+      "type": "paragraph",
+      "position": {
+        "x": 184.20279171516415,
+        "y": -150.2674474525378
+      },
+      "data": {
+        "id": "DoQwnxlPrx8suV2GRbF17",
+        "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "topic": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "oldId": "yHmHXymPNWwu8p1vvqD3o",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "left",
+          "borderColor": "#ffffff",
+          "backgroundColor": "#FFFFFf"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "DoQwnxlPrx8suV2GRbF17"
+      },
+      "width": 355,
+      "height": 143,
+      "style": {
+        "width": 355,
+        "height": 143
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "VtqrDBk_y5m5UsknaxVv-",
+      "type": "button",
+      "position": {
+        "x": 196.70279171516415,
+        "y": -71.2674474525378
+      },
+      "data": {
+        "id": "VtqrDBk_y5m5UsknaxVv-",
+        "label": "roadmap.sh",
+        "topic": "roadmap.sh",
+        "oldId": "2zqZkyVgigifcRS1H7F_b",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "VtqrDBk_y5m5UsknaxVv-"
+      },
+      "width": 330,
+      "height": 49,
+      "style": {
+        "width": 330,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "F9qB_OgCXZyTjepJUagfX",
+      "type": "linksgroup",
+      "position": {
+        "x": -528.6484375,
+        "y": -152
+      },
+      "data": {
+        "id": "F9qB_OgCXZyTjepJUagfX",
+        "label": "Related Roadmaps",
+        "topic": "Related Roadmaps",
+        "oldId": "LdhFo8UrT6EBs6IE42uLx",
+        "style": {},
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "F9qB_OgCXZyTjepJUagfX"
+      },
+      "width": 288,
+      "height": 193,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "PBtnaTE_5AMOa5mxbhoT2",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 115.24238458506656
+      },
+      "data": {
+        "id": "PBtnaTE_5AMOa5mxbhoT2",
+        "label": "Introduction",
+        "topic": "Introduction",
+        "oldId": "LRBwP7EQj4byox7yKdPAj",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "A Forward Deployed Engineer is a software engineer who works directly inside a customer's environment to build, deploy, and stabilize AI systems. The role originated at Palantir, where engineers called Deltas would embed with clients, sometimes on military bases, to ship code overnight based on feedback from the field that same day. That same idea is now at the center of how companies like OpenAI and Anthropic are bringing AI into large enterprises. The job requires technical depth, the ability to read an unfamiliar codebase quickly, and the communication skills to explain what AI can and cannot do to a non-technical decision maker.",
+        "resources": [
+          {
+            "title": "Forward deployed engineer is AI\u2019s hottest job",
+            "type": "Article",
+            "url": "https://thenewstack.io/forward-deployed-engineer-fde-openai-google/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Forward-deployed engineer: The complete guide",
+            "type": "Article",
+            "url": "https://www.rocketlane.com/blogs/forward-deployed-engineer",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "PBtnaTE_5AMOa5mxbhoT2"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "YNaf7swqsvYaXRK6uevdv",
+      "type": "subtopic",
+      "position": {
+        "x": 208.9222883579663,
+        "y": 138.21343772948302
+      },
+      "data": {
+        "id": "YNaf7swqsvYaXRK6uevdv",
+        "label": "Roles & Responsabilities",
+        "topic": "Roles & Responsabilities",
+        "oldId": "E7o6LDxng5zNFg_mgltg6",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "The FDE job has three phases: audit, evals, and deployment. In the audit phase, you embed with different teams inside the customer's organization, map their workflows, identify bottlenecks, and decide where AI can create real value and where it cannot. In the evals phase, you build systems to measure whether the AI is actually working, not just whether it produces an answer, but whether it reasons through problems the way a skilled human would. In the deployment phase, you ship the system into production, starting with the smallest possible unit of autonomy and layering on capabilities only after each step is proven to work.",
+        "resources": [
+          {
+            "title": "Forward-deployed engineer: The complete guide",
+            "type": "Article",
+            "url": "https://www.rocketlane.com/blogs/forward-deployed-engineer",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "YNaf7swqsvYaXRK6uevdv"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "PTv5RMrw7S8IsJauhuKUJ",
+      "type": "paragraph",
+      "position": {
+        "x": 184.20279171516415,
+        "y": 515.5318083035643
+      },
+      "data": {
+        "id": "PTv5RMrw7S8IsJauhuKUJ",
+        "label": "FDE are fluent in least one major cloud platform and know how to deploy infrastructure as code..",
+        "topic": "FDE are fluent in least one major cloud platform and know how to deploy infrastructure as code..",
+        "oldId": "abbIOx7vou14eU7kJD81O",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "PTv5RMrw7S8IsJauhuKUJ"
+      },
+      "width": 337,
+      "height": 109,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "U2mQX5_XwmW74HFEM1Uzw",
+      "type": "subtopic",
+      "position": {
+        "x": 237.222125453836,
+        "y": 966.2549230445202
+      },
+      "data": {
+        "id": "U2mQX5_XwmW74HFEM1Uzw",
+        "label": "Product Feedback Loop",
+        "topic": "Product Feedback Loop",
+        "oldId": "L76T2X7AFpVtpMF9CjBJo",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "A product feedback loop is the cycle of shipping something, collecting feedback from users or stakeholders, and using that input to improve future iterations. This usually means working closely with the customer to observe how the delivered product is actually being used, identifying gaps between expectation and reality, and feeding those observations back into the build process while still on the engagement.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "U2mQX5_XwmW74HFEM1Uzw"
+      },
+      "width": 265,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "position": {
+        "x": -21.043373365319894,
+        "y": 1172.7106048174264
+      },
+      "data": {
+        "id": "Ju00mr0KLGN2BV6yEQGPt",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#4136D4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Ju00mr0KLGN2BV6yEQGPt"
+      },
+      "width": 21,
+      "height": 104,
+      "style": {
+        "width": 21,
+        "height": 104
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "paragraph",
+      "position": {
+        "x": -333.0433733653199,
+        "y": 1082.7568306723178
+      },
+      "data": {
+        "id": "sVXZrBCsiSzWBBYWTm-nQ",
+        "label": "Continue Learning with following relevant tracks",
+        "topic": "Continue Learning with following relevant tracks",
+        "oldId": "0vLaVNJaJSHZ_bHli6Qzs",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "borderColor": "#000000",
+          "backgroundColor": "#ffffff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "sVXZrBCsiSzWBBYWTm-nQ"
+      },
+      "width": 645,
+      "height": 122,
+      "style": {
+        "width": 454,
+        "height": 124
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "sQsxo9QyLKZyhMnFUcxhS",
+      "type": "button",
+      "position": {
+        "x": -315.15349569628484,
+        "y": 1141.741471538509
+      },
+      "data": {
+        "id": "sQsxo9QyLKZyhMnFUcxhS",
+        "label": "Frontend",
+        "topic": "Frontend",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "sQsxo9QyLKZyhMnFUcxhS"
+      },
+      "width": 150,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "DezWXw5LWeP1S5Sosj90S",
+      "type": "button",
+      "position": {
+        "x": -161.15349569628484,
+        "y": 1141.741471538509
+      },
+      "data": {
+        "id": "DezWXw5LWeP1S5Sosj90S",
+        "label": "Backend",
+        "topic": "Backend",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "DezWXw5LWeP1S5Sosj90S"
+      },
+      "width": 150,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "DsvdvpHWD0FgTjdkSJ9Uu",
+      "type": "button",
+      "position": {
+        "x": 148.7990479026342,
+        "y": 1141.741471538509
+      },
+      "data": {
+        "id": "DsvdvpHWD0FgTjdkSJ9Uu",
+        "label": "AI Engineer",
+        "topic": "AI Engineer",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "DsvdvpHWD0FgTjdkSJ9Uu"
+      },
+      "width": 150,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "uSLzfLPXxS5-P7ozscvjZ",
+      "type": "button",
+      "position": {
+        "x": -6.561388814004474,
+        "y": 1141.741471538509
+      },
+      "data": {
+        "id": "uSLzfLPXxS5-P7ozscvjZ",
+        "label": "DevOps",
+        "topic": "DevOps",
+        "oldId": "PkhQdVms2TGgnPrytCBPZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "uSLzfLPXxS5-P7ozscvjZ"
+      },
+      "width": 150,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "jUTeDug6FX6ed0L9IKU25",
+      "type": "paragraph",
+      "position": {
+        "x": -539.6430938267506,
+        "y": 93
+      },
+      "data": {
+        "id": "jUTeDug6FX6ed0L9IKU25",
+        "label": "FDE is not a beginner role, you will most probably be already a Full-Stack Developer stepping into an FDE role.",
+        "topic": "FDE is not a beginner role, you will most probably be already a Full-Stack Developer stepping into an FDE role.",
+        "oldId": "KCELYacsw67zl1-htKLhu",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "jUTeDug6FX6ed0L9IKU25"
+      },
+      "width": 337,
+      "height": 109,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "XjxnVjO0fR2XNzBUSzA4L",
+      "type": "subtopic",
+      "position": {
+        "x": 208.9222883579663,
+        "y": 85.21343772948302
+      },
+      "data": {
+        "id": "XjxnVjO0fR2XNzBUSzA4L",
+        "label": "From X to FDE",
+        "topic": "From X to FDE",
+        "oldId": "414WIX6TuK2h1jEtzRG2H",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Three backgrounds tend to transition well into the FDE role: software engineers, consultants, and product managers. Software engineers already have the technical foundation but often need to develop the ability to communicate AI tradeoffs to non-technical stakeholders and build a portfolio that shows they can own a full deployment, not just write code. Consultants and PMs can already translate data into business outcomes, which is half the job, but need to close the gap on engineering by building real agents, RAG pipelines, and eval frameworks from scratch.",
+        "resources": [
+          {
+            "title": "The Definitive Guide to Forward Deployed Engineer Interviews in 2026",
+            "type": "Article",
+            "url": "https://www.sundeepteki.org/advice/the-definitive-guide-to-forward-deployed-engineer-interviews-in-2026",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "XjxnVjO0fR2XNzBUSzA4L"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "cb67_B_KzR89lpYM292Q1",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 275.01854796492194
+      },
+      "data": {
+        "id": "cb67_B_KzR89lpYM292Q1",
+        "label": "Frontend Roadmap",
+        "topic": "Frontend Roadmap",
+        "oldId": "wGWfChyM1wjKO6e--NhC3",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "cb67_B_KzR89lpYM292Q1"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "j8UBiuflu5tWiOWDJnA-U",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 328.01854796492194
+      },
+      "data": {
+        "id": "j8UBiuflu5tWiOWDJnA-U",
+        "label": "Backend Roadmap",
+        "topic": "Backend Roadmap",
+        "oldId": "wGWfChyM1wjKO6e--NhC3",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "j8UBiuflu5tWiOWDJnA-U"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "snDv-9nuGy5mkeOl-_S42",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 221.53180830356422
+      },
+      "data": {
+        "id": "snDv-9nuGy5mkeOl-_S42",
+        "label": "Linux Roadmap",
+        "topic": "Linux Roadmap",
+        "oldId": "wGWfChyM1wjKO6e--NhC3",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "snDv-9nuGy5mkeOl-_S42"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "90TU702898q1eQ9X-tVfd",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 533.6390904684349
+      },
+      "data": {
+        "id": "90TU702898q1eQ9X-tVfd",
+        "label": "AI Engineer Roadmap",
+        "topic": "AI Engineer Roadmap",
+        "oldId": "wGWfChyM1wjKO6e--NhC3",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "90TU702898q1eQ9X-tVfd"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "CNTtsgHntKdMsM7FgrrB8",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 275.01854796492194
+      },
+      "data": {
+        "id": "CNTtsgHntKdMsM7FgrrB8",
+        "label": "Frontend Skills",
+        "topic": "Frontend Skills",
+        "oldId": "LRBwP7EQj4byox7yKdPAj",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Frontend development refers to the part of web development concerned with what users see and interact with in a browser. It covers HTML for structure, CSS for styling, and JavaScript for interactivity. FDEs who can build functional frontends are more self-sufficient in customer engagements, able to deliver end-to-end demos and working prototypes without depending on a separate frontend team.",
+        "resources": [
+          {
+            "title": "Frontend Development Handbook",
+            "type": "Book",
+            "url": "https://github.com/FrontendMasters/front-end-handbook-2019/blob/master/exports/Front-end%20Developer%20Handbook%202019.pdf",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Frontend web development - a complete overview",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=WG5ikvJ2TKA",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "CNTtsgHntKdMsM7FgrrB8"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "kK16boEALRDQdRmFRphso",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 328.01854796492194
+      },
+      "data": {
+        "id": "kK16boEALRDQdRmFRphso",
+        "label": "Backend Skills",
+        "topic": "Backend Skills",
+        "oldId": "LRBwP7EQj4byox7yKdPAj",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Backend development refers to the server-side logic of a web application, including handling requests, running business logic, interacting with databases, and returning responses. Backend systems are typically built with Python, Node.js, Java, or Go, connected to databases and external services. FDEs who can build solid backend systems can own the full delivery of a feature rather than handing off at the API boundary.",
+        "resources": [
+          {
+            "title": "What is backend? A comprehensive intro to server-side development",
+            "type": "Article",
+            "url": "https://alokai.com/blog/what-is-backend",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "How The Backend Works",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=4r6WdaY3SOA",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kK16boEALRDQdRmFRphso"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "CruESa0Ir9fSbxyX3ny13",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 222.01854796492194
+      },
+      "data": {
+        "id": "CruESa0Ir9fSbxyX3ny13",
+        "label": "Linux Skills",
+        "topic": "Linux Skills",
+        "oldId": "LRBwP7EQj4byox7yKdPAj",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Linux is an open-source operating system used widely in servers, cloud environments, and developer workstations. Most production software runs on Linux, so being comfortable navigating a Linux system, managing processes, reading logs, and configuring services is a practical necessity for anyone building and deploying in real customer environments.",
+        "resources": [
+          {
+            "title": "Linux for Noobs",
+            "type": "Course",
+            "url": "https://labex.io/courses/linux-for-noobs",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Practice Linux Fundamentals",
+            "type": "Article",
+            "url": "https://labex.io/linuxjourney",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Linux Fundamentals",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=kPylihJRG70",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "CruESa0Ir9fSbxyX3ny13"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "tTTDizQfuACFUoAAsTCt1",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 533.6390904684349
+      },
+      "data": {
+        "id": "tTTDizQfuACFUoAAsTCt1",
+        "label": "AI Engineering Skills",
+        "topic": "AI Engineering Skills",
+        "oldId": "LRBwP7EQj4byox7yKdPAj",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "AI Engineering\n\nAI engineering involves building software systems that use machine learning models and large language models (LLMs) as components. This includes selecting models, integrating them via APIs, engineering prompts, managing context, and deploying AI features in production. AI engineering is at the core of the job of FDEs. It's what turns an AI model into a product that runs reliably inside a company's infrastructure.",
+        "resources": [
+          {
+            "title": "What Is an AI Engineer? (And How to Become One)",
+            "type": "Article",
+            "url": "https://www.coursera.org/articles/ai-engineer",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "tTTDizQfuACFUoAAsTCt1"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "wGWfChyM1wjKO6e--NhC3",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 629.2866840740372
+      },
+      "data": {
+        "id": "wGWfChyM1wjKO6e--NhC3",
+        "label": "DevOps Roadmap",
+        "topic": "DevOps Roadmap",
+        "oldId": null,
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "wGWfChyM1wjKO6e--NhC3"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "abbIOx7vou14eU7kJD81O",
+      "type": "paragraph",
+      "position": {
+        "x": 184.20279171516415,
+        "y": 210.53180830356422
+      },
+      "data": {
+        "id": "abbIOx7vou14eU7kJD81O",
+        "label": "FDEs need to be proficient in full-stack development, have high agency and be able to deliver full apps for customers.",
+        "topic": "FDEs need to be proficient in full-stack development, have high agency and be able to deliver full apps for customers.",
+        "oldId": "KCELYacsw67zl1-htKLhu",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "abbIOx7vou14eU7kJD81O"
+      },
+      "width": 337,
+      "height": 109,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "aqrK4e6B8LFvFimKoqCNF",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 440.51854796492194
+      },
+      "data": {
+        "id": "aqrK4e6B8LFvFimKoqCNF",
+        "label": "DSA & System Design",
+        "topic": "DSA & System Design",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Data structures are ways of organizing data in memory, such as arrays, linked lists, trees, graphs, and hash maps. Algorithms are step-by-step procedures for solving problems, like sorting, searching, or traversal. Knowing these well means being able to evaluate performance characteristics of code, debug inefficiencies in customer systems, and reason clearly about solutions to technical problems.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated Data Structures & Algorithms Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/datastructures-and-algorithms",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Data Structures and Algorithms (DSA) Tutorial",
+            "type": "Article",
+            "url": "https://www.tutorialspoint.com/data_structures_algorithms/index.htm",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What Are Data Structures?",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=bum_19loj9A",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "aqrK4e6B8LFvFimKoqCNF"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {
+        "width": 300,
+        "height": 54.5
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "zS0JXpULjSu4SWO741zVp",
+      "type": "paragraph",
+      "position": {
+        "x": 184.20279171516415,
+        "y": 320.5318083035642
+      },
+      "data": {
+        "id": "zS0JXpULjSu4SWO741zVp",
+        "label": "DSA is the first gate in FDE interviews. You won't get to show your AI skills if you don't pass this round.",
+        "topic": "DSA is the first gate in FDE interviews. You won't get to show your AI skills if you don't pass this round.",
+        "oldId": "jUTeDug6FX6ed0L9IKU25",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "zS0JXpULjSu4SWO741zVp"
+      },
+      "width": 337,
+      "height": 109,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "cm5mtbXDu0_LRGHJC49cd",
+      "type": "button",
+      "position": {
+        "x": -550.8097604934172,
+        "y": 440.51854796492194
+      },
+      "data": {
+        "id": "cm5mtbXDu0_LRGHJC49cd",
+        "label": "DSA Roadmap",
+        "topic": "DSA Roadmap",
+        "oldId": "lN5Z_UILjs_ahEwsBcjXZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "cm5mtbXDu0_LRGHJC49cd"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "7cX-avJHMV55wf2wAs6mn",
+      "type": "paragraph",
+      "position": {
+        "x": 193.20279171516415,
+        "y": 650.5318083035643
+      },
+      "data": {
+        "id": "7cX-avJHMV55wf2wAs6mn",
+        "label": "FDEs are responsible for proving to customers that what they built won't break or go rogue in production.",
+        "topic": "FDEs are responsible for proving to customers that what they built won't break or go rogue in production.",
+        "oldId": "PTv5RMrw7S8IsJauhuKUJ",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "7cX-avJHMV55wf2wAs6mn"
+      },
+      "width": 337,
+      "height": 109,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "lN5Z_UILjs_ahEwsBcjXZ",
+      "type": "button",
+      "position": {
+        "x": 208.9222883579663,
+        "y": 440.51854796492194
+      },
+      "data": {
+        "id": "lN5Z_UILjs_ahEwsBcjXZ",
+        "label": "System Design Roadmap",
+        "topic": "System Design Roadmap",
+        "oldId": "90TU702898q1eQ9X-tVfd",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "lN5Z_UILjs_ahEwsBcjXZ"
+      },
+      "width": 300,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "EvX8GhFrPtsZVc_kAHs6Z",
+      "type": "topic",
+      "position": {
+        "x": -135,
+        "y": 629.2866840740372
+      },
+      "data": {
+        "id": "EvX8GhFrPtsZVc_kAHs6Z",
+        "label": "DevOps Skills",
+        "topic": "DevOps Skills",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "EvX8GhFrPtsZVc_kAHs6Z"
+      },
+      "width": 250,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    }
+  ],
+  "edges": [
+    {
+      "id": "t9VzgLcT4oXDqE6kNJklJ",
+      "source": "XMksIsrFfHP899uom5BQJ",
+      "target": "hO7BCDFmbvQVcgM7W2t9S",
+      "sourceHandle": "x2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "9PfasPxPvKzVSJtQoTCzp",
+      "source": "hO7BCDFmbvQVcgM7W2t9S",
+      "target": "s4Kooj99igkE02P-D-dAU",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "rEH63Hce3NOf-jhF1zeO6",
+      "source": "hO7BCDFmbvQVcgM7W2t9S",
+      "target": "KqQHfy1Z8w-v8p73QkvG5",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "LQSlkqxlYb0amo9xhGvlI",
+      "source": "hO7BCDFmbvQVcgM7W2t9S",
+      "target": "eKUy2q5cGskmcg-sAAtYW",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__9yG3qY_gwr77Uz2XN5wQOx2-LRBwP7EQj4byox7yKdPAjw1",
+      "source": "9yG3qY_gwr77Uz2XN5wQO",
+      "target": "PBtnaTE_5AMOa5mxbhoT2",
+      "sourceHandle": "x2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__LRBwP7EQj4byox7yKdPAjz2-E7o6LDxng5zNFg_mgltg6y1",
+      "source": "PBtnaTE_5AMOa5mxbhoT2",
+      "target": "YNaf7swqsvYaXRK6uevdv",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "msV2f1KI4GhIwKOBsTT5B",
+      "source": "bE7j2U28V8Vf9OKHBqLwW",
+      "target": "c8dBwWaKLiW6X2HWfmVJt",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "yCCwElPVRYPjKDzBiiN7n",
+      "source": "bE7j2U28V8Vf9OKHBqLwW",
+      "target": "kyHwTMFBQxbHrGBcv3q0O",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "8nc1gF788UjrDTH38XYZg",
+      "source": "bE7j2U28V8Vf9OKHBqLwW",
+      "target": "L76T2X7AFpVtpMF9CjBJo",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "171fAzxQRD8WYBGeGOvlK",
+      "source": "bE7j2U28V8Vf9OKHBqLwW",
+      "target": "U2mQX5_XwmW74HFEM1Uzw",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "6luU4DB_hnhoB8EmKkFTa",
+      "source": "iaNbLDFrEDYEKwpkGFWts",
+      "target": "ir0uv9E3flgBz_cHntOf4",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__iaNbLDFrEDYEKwpkGFWtsx2-sVXZrBCsiSzWBBYWTm-nQw1",
+      "source": "iaNbLDFrEDYEKwpkGFWts",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "sourceHandle": "x2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__LRBwP7EQj4byox7yKdPAjz2-414WIX6TuK2h1jEtzRG2Hy1",
+      "source": "PBtnaTE_5AMOa5mxbhoT2",
+      "target": "XjxnVjO0fR2XNzBUSzA4L",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__CNTtsgHntKdMsM7FgrrB8y2-cb67_B_KzR89lpYM292Q1z1",
+      "source": "CNTtsgHntKdMsM7FgrrB8",
+      "target": "cb67_B_KzR89lpYM292Q1",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__kK16boEALRDQdRmFRphsoy2-j8UBiuflu5tWiOWDJnA-Uz1",
+      "source": "kK16boEALRDQdRmFRphso",
+      "target": "j8UBiuflu5tWiOWDJnA-U",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__CruESa0Ir9fSbxyX3ny13y2-snDv-9nuGy5mkeOl-_S42z2",
+      "source": "CruESa0Ir9fSbxyX3ny13",
+      "target": "snDv-9nuGy5mkeOl-_S42",
+      "sourceHandle": "y2",
+      "targetHandle": "z2",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__LRBwP7EQj4byox7yKdPAjy2-wGWfChyM1wjKO6e--NhC3z1",
+      "source": "tTTDizQfuACFUoAAsTCt1",
+      "target": "90TU702898q1eQ9X-tVfd",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__aqrK4e6B8LFvFimKoqCNFx2-tTTDizQfuACFUoAAsTCt1w2",
+      "source": "aqrK4e6B8LFvFimKoqCNF",
+      "target": "tTTDizQfuACFUoAAsTCt1",
+      "sourceHandle": "x2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__lN5Z_UILjs_ahEwsBcjXZz2-aqrK4e6B8LFvFimKoqCNFy1",
+      "source": "cm5mtbXDu0_LRGHJC49cd",
+      "target": "aqrK4e6B8LFvFimKoqCNF",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__aqrK4e6B8LFvFimKoqCNFz2-lN5Z_UILjs_ahEwsBcjXZy2",
+      "source": "aqrK4e6B8LFvFimKoqCNF",
+      "target": "lN5Z_UILjs_ahEwsBcjXZ",
+      "sourceHandle": "z2",
+      "targetHandle": "y2",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__PBtnaTE_5AMOa5mxbhoT2x2-CruESa0Ir9fSbxyX3ny13w2",
+      "source": "PBtnaTE_5AMOa5mxbhoT2",
+      "target": "CruESa0Ir9fSbxyX3ny13",
+      "sourceHandle": "x2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__kK16boEALRDQdRmFRphsox2-aqrK4e6B8LFvFimKoqCNFw2",
+      "source": "kK16boEALRDQdRmFRphso",
+      "target": "aqrK4e6B8LFvFimKoqCNF",
+      "sourceHandle": "x2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__tTTDizQfuACFUoAAsTCt1x2-EvX8GhFrPtsZVc_kAHs6Zw2",
+      "source": "tTTDizQfuACFUoAAsTCt1",
+      "target": "EvX8GhFrPtsZVc_kAHs6Z",
+      "sourceHandle": "x2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__EvX8GhFrPtsZVc_kAHs6Zy2-wGWfChyM1wjKO6e--NhC3z1",
+      "source": "EvX8GhFrPtsZVc_kAHs6Z",
+      "target": "wGWfChyM1wjKO6e--NhC3",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    },
+    {
+      "id": "xy-edge__EvX8GhFrPtsZVc_kAHs6Zx2-XMksIsrFfHP899uom5BQJw2",
+      "source": "EvX8GhFrPtsZVc_kAHs6Z",
+      "target": "XMksIsrFfHP899uom5BQJ",
+      "sourceHandle": "x2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    }
+  ],
+  "completion": 0
+}

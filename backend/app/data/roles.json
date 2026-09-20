@@ -1,0 +1,206 @@
+[
+  {
+    "id": "frontend",
+    "name": "Frontend",
+    "slug": "frontend",
+    "roadmap_slug": "frontend",
+    "source_url": "https://roadmap.sh/frontend"
+  },
+  {
+    "id": "backend",
+    "name": "Backend",
+    "slug": "backend",
+    "roadmap_slug": "backend",
+    "source_url": "https://roadmap.sh/backend"
+  },
+  {
+    "id": "full-stack",
+    "name": "Full Stack",
+    "slug": "full-stack",
+    "roadmap_slug": "full-stack",
+    "source_url": "https://roadmap.sh/full-stack"
+  },
+  {
+    "id": "android",
+    "name": "Android",
+    "slug": "android",
+    "roadmap_slug": "android",
+    "source_url": "https://roadmap.sh/android"
+  },
+  {
+    "id": "devops",
+    "name": "DevOps",
+    "slug": "devops",
+    "roadmap_slug": "devops",
+    "source_url": "https://roadmap.sh/devops"
+  },
+  {
+    "id": "devsecops",
+    "name": "DevSecOps",
+    "slug": "devsecops",
+    "roadmap_slug": "devsecops",
+    "source_url": "https://roadmap.sh/devsecops"
+  },
+  {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "slug": "data-analyst",
+    "roadmap_slug": "data-analyst",
+    "source_url": "https://roadmap.sh/data-analyst"
+  },
+  {
+    "id": "ai-engineer",
+    "name": "AI Engineer",
+    "slug": "ai-engineer",
+    "roadmap_slug": "ai-engineer",
+    "source_url": "https://roadmap.sh/ai-engineer"
+  },
+  {
+    "id": "ai-and-data-scientist",
+    "name": "AI and Data Scientist",
+    "slug": "ai-and-data-scientist",
+    "roadmap_slug": "ai-data-scientist",
+    "source_url": "https://roadmap.sh/ai-data-scientist"
+  },
+  {
+    "id": "data-engineer",
+    "name": "Data Engineer",
+    "slug": "data-engineer",
+    "roadmap_slug": "data-engineer",
+    "source_url": "https://roadmap.sh/data-engineer"
+  },
+  {
+    "id": "machine-learning",
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "roadmap_slug": "machine-learning",
+    "source_url": "https://roadmap.sh/machine-learning"
+  },
+  {
+    "id": "product-design",
+    "name": "Product Design",
+    "slug": "product-design",
+    "roadmap_slug": "product-design",
+    "source_url": "https://roadmap.sh/product-design"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "roadmap_slug": "postgresql-dba",
+    "source_url": "https://roadmap.sh/postgresql-dba"
+  },
+  {
+    "id": "ios",
+    "name": "iOS",
+    "slug": "ios",
+    "roadmap_slug": "ios",
+    "source_url": "https://roadmap.sh/ios"
+  },
+  {
+    "id": "blockchain",
+    "name": "Blockchain",
+    "slug": "blockchain",
+    "roadmap_slug": "blockchain",
+    "source_url": "https://roadmap.sh/blockchain"
+  },
+  {
+    "id": "qa",
+    "name": "QA",
+    "slug": "qa",
+    "roadmap_slug": "qa",
+    "source_url": "https://roadmap.sh/qa"
+  },
+  {
+    "id": "software-architect",
+    "name": "Software Architect",
+    "slug": "software-architect",
+    "roadmap_slug": "software-architect",
+    "source_url": "https://roadmap.sh/software-architect"
+  },
+  {
+    "id": "cyber-security",
+    "name": "Cyber Security",
+    "slug": "cyber-security",
+    "roadmap_slug": "cyber-security",
+    "source_url": "https://roadmap.sh/cyber-security"
+  },
+  {
+    "id": "ux-design",
+    "name": "UX Design",
+    "slug": "ux-design",
+    "roadmap_slug": "ux-design",
+    "source_url": "https://roadmap.sh/ux-design"
+  },
+  {
+    "id": "technical-writer",
+    "name": "Technical Writer",
+    "slug": "technical-writer",
+    "roadmap_slug": "technical-writer",
+    "source_url": "https://roadmap.sh/technical-writer"
+  },
+  {
+    "id": "game-developer",
+    "name": "Game Developer",
+    "slug": "game-developer",
+    "roadmap_slug": "game-developer",
+    "source_url": "https://roadmap.sh/game-developer"
+  },
+  {
+    "id": "server-side-game-developer",
+    "name": "Server Side Game Developer",
+    "slug": "server-side-game-developer",
+    "roadmap_slug": "server-side-game-developer",
+    "source_url": "https://roadmap.sh/server-side-game-developer"
+  },
+  {
+    "id": "mlops",
+    "name": "MLOps",
+    "slug": "mlops",
+    "roadmap_slug": "mlops",
+    "source_url": "https://roadmap.sh/mlops"
+  },
+  {
+    "id": "product-manager",
+    "name": "Product Manager",
+    "slug": "product-manager",
+    "roadmap_slug": "product-manager",
+    "source_url": "https://roadmap.sh/product-manager"
+  },
+  {
+    "id": "engineering-manager",
+    "name": "Engineering Manager",
+    "slug": "engineering-manager",
+    "roadmap_slug": "engineering-manager",
+    "source_url": "https://roadmap.sh/engineering-manager"
+  },
+  {
+    "id": "developer-relations",
+    "name": "Developer Relations",
+    "slug": "developer-relations",
+    "roadmap_slug": "devrel",
+    "source_url": "https://roadmap.sh/devrel"
+  },
+  {
+    "id": "bi-analyst",
+    "name": "BI Analyst",
+    "slug": "bi-analyst",
+    "roadmap_slug": "bi-analyst",
+    "source_url": "https://roadmap.sh/bi-analyst"
+  },
+  {
+    "id": "network-engineer",
+    "name": "Network Engineer",
+    "slug": "network-engineer",
+    "roadmap_slug": "network-engineer",
+    "source_url": "https://roadmap.sh/network-engineer"
+  },
+  {
+    "id": "forward-deployed-engineer",
+    "name": "Forward Deployed Engineer",
+    "slug": "forward-deployed-engineer",
+    "roadmap_slug": "forward-deployed-engineer",
+    "source_url": "https://roadmap.sh/forward-deployed-engineer"
+  }
+]
+

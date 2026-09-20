@@ -3,16 +3,46 @@
 @tailwind utilities;
 
 @layer base {
-  * { box-sizing: border-box; }
-  body { @apply m-0 min-h-screen bg-ink text-slate-100 antialiased; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+  * { box-sizing: border-box; scrollbar-width: thin; scrollbar-color: #284163 transparent; }
+  html { scroll-behavior: auto; }
+  body {
+    @apply m-0 min-h-screen bg-ink text-slate-100 antialiased;
+    background-image:
+      radial-gradient(circle at 85% -10%, rgba(56, 189, 248, 0.13), transparent 34rem),
+      radial-gradient(circle at 12% 95%, rgba(99, 102, 241, 0.08), transparent 30rem),
+      linear-gradient(145deg, #0e1b30, #13243d 52%, #0f1c32);
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  }
   button, input, select, textarea { font: inherit; }
+  button, a, input, select, textarea { -webkit-tap-highlight-color: transparent; }
+  :focus-visible { outline: 2px solid #7dd3fc; outline-offset: 3px; }
 }
 @layer components {
-  .card { @apply rounded-2xl border border-line bg-panel/80 shadow-lg shadow-black/10; }
+  .card { @apply rounded-2xl border border-line/90 bg-panel/85 shadow-lg shadow-slate-950/20 backdrop-blur-sm; }
   .btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition hover:brightness-110 disabled:cursor-not-allowed disabled:opacity-50; }
-  .btn-primary { @apply btn bg-sky-400 text-slate-950 hover:bg-sky-300; }
-  .btn-ghost { @apply btn border border-line bg-slate-900/40 text-slate-200 hover:border-sky-400/60; }
-  .field { @apply w-full rounded-xl border border-line bg-slate-950/60 px-3 py-2.5 text-slate-100 outline-none placeholder:text-slate-500 focus:border-sky-400; }
+  .btn-primary { @apply btn bg-sky-400 text-slate-950 hover:bg-sky-300 shadow-md shadow-sky-500/20; }
+  .btn-ghost { @apply btn border border-line/80 bg-slate-800/50 text-slate-200 hover:border-sky-400/60 hover:bg-slate-800/80; }
+  .field { @apply w-full rounded-xl border border-line/80 bg-slate-900/70 px-3 py-2.5 text-slate-100 outline-none placeholder:text-slate-500 focus:border-sky-400; }
   .eyebrow { @apply text-xs font-bold uppercase tracking-[.16em] text-sky-300; }
+  .safe-wrap { overflow-wrap: anywhere; word-break: break-word; min-width: 0; }
 }
 .react-flow__attribution { display: none; }
+.react-flow__node { cursor: default; }
+.react-flow__node-topic, .react-flow__node-subtopic, .react-flow__node-todo, .react-flow__node-skill { cursor: pointer; }
+.react-flow__edge path { transition: stroke .18s ease, stroke-width .18s ease, opacity .26s ease; }
+.learning-edge__halo { opacity: .22; }
+.learning-edge__line--active { animation: learning-edge-flow 1.25s linear infinite; }
+.learning-node--reveal { opacity: 0; transform: translateY(5px); }
+.learning-node--reveal.learning-node--ready { animation: learning-node-enter .34s cubic-bezier(.2, .8, .2, 1) forwards; }
+.resource-drawer { animation: resource-overlay-in .2s ease-out both; }
+.resource-drawer__panel { animation: resource-panel-in .24s cubic-bezier(.2, .8, .2, 1) both; }
+
+@keyframes learning-node-enter { to { opacity: 1; transform: translateY(0); } }
+@keyframes learning-edge-flow { to { stroke-dashoffset: -28; } }
+@keyframes resource-overlay-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes resource-panel-in { from { opacity: 0; transform: translateX(18px); } to { opacity: 1; transform: translateX(0); } }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}

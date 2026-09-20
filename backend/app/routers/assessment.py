@@ -1,4 +1,6 @@
+import asyncio
 from datetime import datetime, timezone
+import logging
 from uuid import uuid4
 from fastapi import APIRouter
 from fastapi.responses import JSONResponse
@@ -10,11 +12,16 @@ from app.ai.chains.quiz_chain import generate_quiz
 from app.ai.chains.roadmap_chain import apply_recommendations, make_roadmap
 from app.services.scoring_service import score_submission
 
+logger = logging.getLogger(__name__)
+
 router = APIRouter(prefix="/assessment", tags=["assessment"])
 
+# In-flight request tracking to prevent concurrent duplicate Ollama calls
+_in_flight_generations: dict[tuple[str, str | None], asyncio.Task] = {}
+_in_flight_submissions: dict[str, asyncio.Task] = {}
 
-@router.post("/generate")
-async def generate(payload: QuizRequest):
+
+async def _perform_generate(payload: QuizRequest) -> dict | JSONResponse:
     profile = await db.find_one("profiles", {"user_id": payload.user_id}) if payload.user_id else None
     profile = profile or {
         "career_target": payload.career_target,
@@ -25,16 +32,11 @@ async def generate(payload: QuizRequest):
     reassessment = bool(payload.topic or (skill_state or {}).get("scores"))
     kind = "reassessment" if reassessment else "initial"
     profile_version = profile.get("profile_version", 0)
-    if payload.user_id and not reassessment:
-        cached = await db.find_one(
-            "quizzes",
-            {"user_id": payload.user_id, "kind": kind, "profile_version": profile_version, "submitted": False},
-        )
-        if cached:
-            return cached
+
     progress = await db.find_all("progress") if payload.user_id else []
     recent = next((item for item in reversed(progress) if item.get("user_id") == payload.user_id), {})
     try:
+        logger.info("[QUIZ] Generating questions via Ollama for career=%s topic=%s", payload.career_target, payload.topic)
         questions = await generate_quiz(
             payload.career_target,
             profile.get("skills", payload.skills),
@@ -45,6 +47,7 @@ async def generate(payload: QuizRequest):
         )
     except AIServiceError as exc:
         return JSONResponse(status_code=503, content=exc.as_dict())
+
     quiz = {
         "id": str(uuid4()),
         "user_id": payload.user_id,
@@ -58,14 +61,44 @@ async def generate(payload: QuizRequest):
         "created_at": datetime.now(timezone.utc).isoformat(),
     }
     await db.insert("quizzes", quiz)
+    logger.info("[QUIZ] Generated quiz %s with %d questions", quiz["id"], len(questions))
     return quiz
 
 
-@router.post("/submit")
-async def submit(payload: QuizSubmission):
-    quiz = await db.find_one("quizzes", {"id": payload.quiz_id})
-    if not quiz:
-        return {"overall": 0, "topic_scores": {}, "details": [], "error": "Quiz expired; generate a new quiz."}
+@router.post("/generate")
+async def generate(payload: QuizRequest):
+    if payload.user_id:
+        gen_key = (payload.user_id, payload.topic)
+        # 1. Deduplicate concurrent in-flight generation requests for same user and topic
+        existing_task = _in_flight_generations.get(gen_key)
+        if existing_task and not existing_task.done():
+            logger.info("[QUIZ] Reusing in-flight quiz generation for user=%s topic=%s", payload.user_id, payload.topic)
+            return await existing_task
+
+        # 2. Check for active unsubmitted quiz for this user and topic
+        all_quizzes = await db.find_all("quizzes")
+        unsubmitted = [
+            q for q in all_quizzes
+            if q.get("user_id") == payload.user_id
+            and q.get("topic") == payload.topic
+            and not q.get("submitted")
+        ]
+        if unsubmitted:
+            unsubmitted.sort(key=lambda x: x.get("created_at", ""), reverse=True)
+            logger.info("[QUIZ] Returning active unsubmitted quiz %s for user=%s topic=%s", unsubmitted[0].get("id"), payload.user_id, payload.topic)
+            return unsubmitted[0]
+
+        task = asyncio.create_task(_perform_generate(payload))
+        _in_flight_generations[gen_key] = task
+        try:
+            return await task
+        finally:
+            _in_flight_generations.pop(gen_key, None)
+
+    return await _perform_generate(payload)
+
+
+async def _perform_submit(payload: QuizSubmission, quiz: dict) -> dict:
     user_id = payload.user_id or quiz.get("user_id")
     previous_state = await db.find_one("skill_states", {"user_id": user_id}) if user_id else None
     previous_scores = (previous_state or {}).get("scores") or payload.previous_scores
@@ -120,6 +153,7 @@ async def submit(payload: QuizSubmission):
             if topic in result["current_topic_scores"]
         }
         try:
+            logger.info("[QUIZ] Analyzing post-quiz performance via Ollama for quiz_id=%s", payload.quiz_id)
             recommendations = await ai_service.analyze_post_quiz_performance(
                 profile,
                 state["scores"],
@@ -160,3 +194,30 @@ async def submit(payload: QuizSubmission):
             await db.upsert("roadmaps", {"user_id": user_id}, updated_roadmap)
             result["roadmap"] = updated_roadmap
     return result
+
+
+@router.post("/submit")
+async def submit(payload: QuizSubmission):
+    sub_key = payload.quiz_id
+    existing_task = _in_flight_submissions.get(sub_key)
+    if existing_task and not existing_task.done():
+        logger.info("[QUIZ] Reusing in-flight submission task for quiz_id=%s", payload.quiz_id)
+        return await existing_task
+
+    quiz = await db.find_one("quizzes", {"id": payload.quiz_id})
+    if not quiz:
+        return {"overall": 0, "topic_scores": {}, "details": [], "error": "Quiz expired; generate a new quiz."}
+
+    if quiz.get("submitted"):
+        all_progress = await db.find_all("progress")
+        existing_progress = next((p for p in reversed(all_progress) if p.get("quiz_id") == payload.quiz_id), None)
+        if existing_progress:
+            logger.info("[QUIZ] Quiz %s already submitted, returning existing progress", payload.quiz_id)
+            return existing_progress
+
+    task = asyncio.create_task(_perform_submit(payload, quiz))
+    _in_flight_submissions[sub_key] = task
+    try:
+        return await task
+    finally:
+        _in_flight_submissions.pop(sub_key, None)

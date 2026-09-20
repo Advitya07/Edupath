@@ -1,0 +1,3627 @@
+{
+  "id": "full-stack",
+  "slug": "full-stack",
+  "role_id": "full-stack",
+  "role_name": "Full Stack",
+  "career_target": "Full Stack",
+  "title": "Full Stack",
+  "description": "Step by step guide to becoming a modern full stack developer in @currentYear@",
+  "source": "roadmap.sh",
+  "source_url": "https://roadmap.sh/full-stack",
+  "roadmap_slug": "full-stack",
+  "last_synced_at": "2026-09-20T06:40:11.221338+00:00",
+  "dimensions": {
+    "height": 2224,
+    "width": 1003
+  },
+  "nodes": [
+    {
+      "id": "yrZUjoNj7mjOHaZVRiFJV",
+      "type": "horizontal",
+      "position": {
+        "x": -502.08230823147517,
+        "y": 497.90458777290166
+      },
+      "data": {
+        "id": "yrZUjoNj7mjOHaZVRiFJV",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "yrZUjoNj7mjOHaZVRiFJV"
+      },
+      "width": 63,
+      "height": 20,
+      "style": {
+        "width": 63,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "kPPgIGhyoDoJoUJnP-vOY",
+      "type": "section",
+      "position": {
+        "x": 44.659212053078704,
+        "y": -125.50228984395414
+      },
+      "data": {
+        "id": "kPPgIGhyoDoJoUJnP-vOY",
+        "label": "",
+        "topic": "",
+        "oldId": null,
+        "style": {
+          "width": 150,
+          "height": 100,
+          "fontSize": 17,
+          "backgroundColor": "#ffffff",
+          "borderColor": "#ffffff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kPPgIGhyoDoJoUJnP-vOY"
+      },
+      "width": 356,
+      "height": 103,
+      "style": {
+        "width": 356,
+        "height": 103
+      },
+      "zIndex": -999
+    },
+    {
+      "id": "tmRyxL2cIei7PVHdOvmuJ",
+      "type": "horizontal",
+      "position": {
+        "x": 253.00948964805815,
+        "y": 1215.2210153640276
+      },
+      "data": {
+        "id": "tmRyxL2cIei7PVHdOvmuJ",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "zh4DYU0QpAolXJ6wE0CEe",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "tmRyxL2cIei7PVHdOvmuJ"
+      },
+      "width": 85,
+      "height": 20,
+      "style": {
+        "width": 85,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Ju00mr0KLGN2BV6yEQGPt",
+      "type": "vertical",
+      "position": {
+        "x": -45.86972326342038,
+        "y": 1834.052389726952
+      },
+      "data": {
+        "id": "Ju00mr0KLGN2BV6yEQGPt",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#4136D4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Ju00mr0KLGN2BV6yEQGPt"
+      },
+      "width": 21,
+      "height": 104,
+      "style": {
+        "width": 21,
+        "height": 104
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "sVXZrBCsiSzWBBYWTm-nQ",
+      "type": "paragraph",
+      "position": {
+        "x": -253.28332913299596,
+        "y": 1746.0147859609992
+      },
+      "data": {
+        "id": "sVXZrBCsiSzWBBYWTm-nQ",
+        "label": "Continue Learning with following relevant tracks",
+        "topic": "Continue Learning with following relevant tracks",
+        "oldId": "0vLaVNJaJSHZ_bHli6Qzs",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "borderColor": "#000000",
+          "backgroundColor": "#ffffff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "sVXZrBCsiSzWBBYWTm-nQ"
+      },
+      "width": 454,
+      "height": 124,
+      "style": {
+        "width": 454,
+        "height": 124
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "iogwMmOvub2ZF4zgg6WyF",
+      "type": "title",
+      "position": {
+        "x": -584.5823082314752,
+        "y": -192.89091544360696
+      },
+      "data": {
+        "id": "iogwMmOvub2ZF4zgg6WyF",
+        "label": "Full Stack",
+        "topic": "Full Stack",
+        "oldId": "9nxw2PEl-_eQPW0FHNPq2",
+        "style": {
+          "fontSize": 28,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "iogwMmOvub2ZF4zgg6WyF"
+      },
+      "width": 162,
+      "height": 68,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "sQsxo9QyLKZyhMnFUcxhS",
+      "type": "button",
+      "position": {
+        "x": -235.86972326342038,
+        "y": 1802.4845433334572
+      },
+      "data": {
+        "id": "sQsxo9QyLKZyhMnFUcxhS",
+        "label": "Frontend",
+        "topic": "Frontend",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "sQsxo9QyLKZyhMnFUcxhS"
+      },
+      "width": 104,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "LEijbLyxg4RyutKEM2Y5g",
+      "type": "vertical",
+      "position": {
+        "x": -514.0823082314752,
+        "y": -273.89091544360696
+      },
+      "data": {
+        "id": "LEijbLyxg4RyutKEM2Y5g",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "xD07fJ1NmNeAarVCEfubU",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#0A33FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "LEijbLyxg4RyutKEM2Y5g"
+      },
+      "width": 21,
+      "height": 81,
+      "style": {
+        "width": 21,
+        "height": 81
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "B0kARTODvCBi0iOF8iiqI",
+      "type": "topic",
+      "position": {
+        "x": -395.56446376179997,
+        "y": 43.404587772901664
+      },
+      "data": {
+        "id": "B0kARTODvCBi0iOF8iiqI",
+        "label": "HTML",
+        "topic": "HTML",
+        "oldId": "mGgx_QTEPmVKf6AijX9fi",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "HTML stands for HyperText Markup Language. It is used on the frontend and gives the structure to the webpage which you can style using CSS and make interactive using JavaScript.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated HTML Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "HTML Full Course for Beginners",
+            "type": "Video",
+            "url": "https://youtu.be/mJgBOIoGihA",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "HTML Full Course - Build a Website Tutorial",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=pQN-pnXPaVg",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "B0kARTODvCBi0iOF8iiqI"
+      },
+      "width": 105,
+      "height": 49,
+      "style": {
+        "width": 105,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "dAJHWmGeiYdzZ1ZjrWz1S",
+      "type": "topic",
+      "position": {
+        "x": -251.56446376179997,
+        "y": 43.404587772901664
+      },
+      "data": {
+        "id": "dAJHWmGeiYdzZ1ZjrWz1S",
+        "label": "CSS",
+        "topic": "CSS",
+        "oldId": "mGgx_QTEPmVKf6AijX9fi",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated CSS Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/css",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Web.dev by Google \u2014 Learn CSS",
+            "type": "Article",
+            "url": "https://web.dev/learn/css/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "CSS Complete Course",
+            "type": "Video",
+            "url": "https://youtu.be/n4R2E7O-Ngo",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "HTML and CSS Tutorial",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=D-h8L5hgW-w",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "dAJHWmGeiYdzZ1ZjrWz1S"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "T9PB6WQf-Fa9NXKKvVOy_",
+      "type": "topic",
+      "position": {
+        "x": 28.00948964805815,
+        "y": 43.404587772901664
+      },
+      "data": {
+        "id": "T9PB6WQf-Fa9NXKKvVOy_",
+        "label": "JavaScript",
+        "topic": "JavaScript",
+        "oldId": "khoUtTUxdf8udAzN9_CAb",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.",
+        "resources": [
+          {
+            "title": "Visit Dedicated JavaScript Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/javascript",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "The Modern JavaScript Tutorial",
+            "type": "Article",
+            "url": "https://javascript.info/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Build 30 Javascript projects in 30 days",
+            "type": "Article",
+            "url": "https://javascript30.com/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "JavaScript Crash Course for Beginners",
+            "type": "Video",
+            "url": "https://youtu.be/hdI2bqOjy3c?t=2",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "T9PB6WQf-Fa9NXKKvVOy_"
+      },
+      "width": 125,
+      "height": 49,
+      "style": {
+        "width": 125,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "mGgx_QTEPmVKf6AijX9fi",
+      "type": "topic",
+      "position": {
+        "x": 298.1821043313223,
+        "y": 133.40458777290166
+      },
+      "data": {
+        "id": "mGgx_QTEPmVKf6AijX9fi",
+        "label": "npm",
+        "topic": "npm",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js.",
+        "resources": [
+          {
+            "title": "How to NPM",
+            "type": "Open Source",
+            "url": "https://github.com/workshopper/how-to-npm",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Modern JavaScript for Dinosaurs",
+            "type": "Article",
+            "url": "https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "An Absolute Beginners Guide to Using npm",
+            "type": "Article",
+            "url": "https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "NPM Crash Course",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=jHDhaSSKmB0",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "mGgx_QTEPmVKf6AijX9fi"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "WsdUAEaI7FX6DKKhPXUHp",
+      "type": "subtopic",
+      "position": {
+        "x": -351.97806963137555,
+        "y": 133.40458777290166
+      },
+      "data": {
+        "id": "WsdUAEaI7FX6DKKhPXUHp",
+        "label": "Checkpoint - Static Webpages",
+        "topic": "Checkpoint - Static Webpages",
+        "oldId": "7JU1cVggMDoZUV-adGsf-",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "Now that you have learnt HTML and CSS, you should be able to build static webpages. I recommend you to build as many test projects at each yellow step of the roadmap as possible to solidify what you learn.\n\nThe practice that I used to follow when I was learning was this:\n\n*   While you are watching a course or reading a book, make sure to code along with the instructor/author \u2014 pause the video at regular intervals and code what you are being taught.\n*   Search on YouTube and watch a few project based tutorials on the topic that you are learning. Apart from coding along with the instructor:\n    *   Try to build the same project at least 2 to 3 times on your own without looking at the video. If you get stuck, refer to the section of the video where the instructor builds that part of the project.\n    *   Build something else that is similar to the project that you just built. For example, if you just built a todo app, try to build a notes app or a reminder app.\n\nProject Ideas\n-------------\n\nNow that you have learnt HTML and CSS, here are a few ideas for you to build:\n\n*   Try to copy the design of a website that you like.\n    *   Here is a [simple blog design in figma](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1) that you can try to copy.\n    *   Or try to rebuild the [webpages of this website](https://cs.fyi/).\n*   Take some inspiration from [personal portfolios of others](https://astro.build/showcase/) and build your own personal portfolio",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "WsdUAEaI7FX6DKKhPXUHp"
+      },
+      "width": 291,
+      "height": 49,
+      "style": {
+        "width": 291,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "arAWBttFmMY6g99PcEaeA",
+      "type": "vertical",
+      "position": {
+        "x": -117.38142186176219,
+        "y": 69.40458777290166
+      },
+      "data": {
+        "id": "arAWBttFmMY6g99PcEaeA",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "8MhESAMICF6j7X3RL9bFE",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "arAWBttFmMY6g99PcEaeA"
+      },
+      "width": 21,
+      "height": 64,
+      "style": {
+        "width": 21,
+        "height": 64
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2DFzoIUjKdAKGjfu_SCfa",
+      "type": "subtopic",
+      "position": {
+        "x": -23.99051035194185,
+        "y": 133.40458777290166
+      },
+      "data": {
+        "id": "2DFzoIUjKdAKGjfu_SCfa",
+        "label": "Checkpoint - Interactivity",
+        "topic": "Checkpoint - Interactivity",
+        "oldId": "YVMyHFSCVF-GgXydq-SFJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "At this point you should be able to add interactivity to your web pages using JavaScript. You should make sure that you have learnt the following:\n\n*   Know about variables, loops, data types, conditionals, functions.\n*   Know about arrays and objects and different ways to access their data.\n*   Know how to select DOM elements.\n*   Add event listeners to DOM elements (e.g. click, focus, form submission).\n*   Use JavaScript to add and remove DOM elements\n*   Add and remove classes from DOM elements\n*   Use JavaScript to make HTTP requests to external APIs (i.e. `fetch`)\n*   Use JavaScript to store data in the browser's local storage\n\nHere are few ideas to practice your skills:\n\n*   Create a simple to-do list app that allows users to search, add, edit, and delete items. Use local storage to store the data.\n*   Create a simple webpage where user can put in anyone's GitHub username and see their profile information. You can use GitHub's API to fetch the data. For example, here is the [sample URL to fetch my data](https://api.github.com/users/nilbuild). Make sure to add validation and error handling.\n*   Create a basic calculator app that allows users to perform basic arithmetic operations.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2DFzoIUjKdAKGjfu_SCfa"
+      },
+      "width": 287,
+      "height": 49,
+      "style": {
+        "width": 287,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "CVVeXklBu8uEr7oyiSEhQ",
+      "type": "vertical",
+      "position": {
+        "x": 191.6185781382378,
+        "y": 71.40458777290166
+      },
+      "data": {
+        "id": "CVVeXklBu8uEr7oyiSEhQ",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "8MhESAMICF6j7X3RL9bFE",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "CVVeXklBu8uEr7oyiSEhQ"
+      },
+      "width": 21,
+      "height": 62,
+      "style": {
+        "width": 21,
+        "height": 62
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "We2APJpOPTr-VNfowG0kI",
+      "type": "topic",
+      "position": {
+        "x": 162.00948964805815,
+        "y": 316.40458777290166
+      },
+      "data": {
+        "id": "We2APJpOPTr-VNfowG0kI",
+        "label": "Git",
+        "topic": "Git",
+        "oldId": "khoUtTUxdf8udAzN9_CAb",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Git & GitHub Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/git-github",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Why use Git? (Interactive Lesson)",
+            "type": "Course",
+            "url": "https://inter-git.com/lessons/introduction",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Tutorial: Git for Absolutely Everyone",
+            "type": "Article",
+            "url": "https://thenewstack.io/tutorial-git-for-absolutely-everyone/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Git & GitHub Crash Course For Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=SWYqp7iY_Tc",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "We2APJpOPTr-VNfowG0kI"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "8sPXL8iClpPqje03ksses",
+      "type": "topic",
+      "position": {
+        "x": -19.56446376179997,
+        "y": 316.40458777290166
+      },
+      "data": {
+        "id": "8sPXL8iClpPqje03ksses",
+        "label": "GitHub",
+        "topic": "GitHub",
+        "oldId": "khoUtTUxdf8udAzN9_CAb",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.",
+        "resources": [
+          {
+            "title": "GitHub Documentation",
+            "type": "Documentation",
+            "url": "https://docs.github.com/en/get-started/quickstart",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "How to Use Git in a Professional Dev Team",
+            "type": "Article",
+            "url": "https://ooloo.io/project/github-flow",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Git vs. GitHub: What's the difference?",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=wpISo9TNjfU",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Git and GitHub for Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=RGOj5yH7evk",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "8sPXL8iClpPqje03ksses"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "R4aeJNOrfWyVp3ea-qF4H",
+      "type": "subtopic",
+      "position": {
+        "x": -26.978069631375547,
+        "y": 215.40458777290166
+      },
+      "data": {
+        "id": "R4aeJNOrfWyVp3ea-qF4H",
+        "label": "Checkpoint - External Packages",
+        "topic": "Checkpoint - External Packages",
+        "oldId": "YVMyHFSCVF-GgXydq-SFJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "At this point, you should be able to install and use external packages using `npm`. You probably know about [npmjs.com](https://npmjs.com/) where you can search for packages and read their documentation. You should also be familiar with the `package.json` file and how to use it to manage your project dependencies.\n\nYou don't need to get into the module bundlers and build tools just yet. Just make sure that you are able to use the dependencies installed in the `node_modules` folder using simple link and script tags in your HTML.\n\nRegarding projects, here are a few ideas that you can try:\n\n*   Create a simple webpage that shows the current time of user. You can use [dayjs](https://day.js.org/) to get the current time and display it on the page. Here is the [sample design for homepage](https://i.imgur.com/yGIMGkr.png).\n*   Install the [micromodal](https://micromodal.vercel.app/#introduction) library. Create a button on the page clicking which should open a modal and let the user select a timezone from a dropdown. Once the user selects a timezone, the modal should close and the time on the page should be updated to show the time in the selected timezone. Here is the [sample design for the modal](https://imgur.com/a/vFY6Sdl).",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "R4aeJNOrfWyVp3ea-qF4H"
+      },
+      "width": 290,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "PW10DTLV-5U2ue770SXtM",
+      "type": "horizontal",
+      "position": {
+        "x": 262.02193036862445,
+        "y": 229.90458777290166
+      },
+      "data": {
+        "id": "PW10DTLV-5U2ue770SXtM",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "BfadoWcewEUb5PQ_itqK-",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "PW10DTLV-5U2ue770SXtM"
+      },
+      "width": 85,
+      "height": 20,
+      "style": {
+        "width": 85,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "CVCqdPkq_hGQfI8EEi5RC",
+      "type": "topic",
+      "position": {
+        "x": -329.47806963137555,
+        "y": 315.40458777290166
+      },
+      "data": {
+        "id": "CVCqdPkq_hGQfI8EEi5RC",
+        "label": "Tailwind CSS",
+        "topic": "Tailwind CSS",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "CSS Framework that provides atomic CSS classes to help you style components e.g. `flex`, `pt-4`, `text-center` and `rotate-90` that can be composed to build any design, directly in your markup.",
+        "resources": [
+          {
+            "title": "Tailwind CSS",
+            "type": "Documentation",
+            "url": "https://tailwindcss.com",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Tailwind CSS Full Course for Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Tailwind CSS Crash Course",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=UBOj6rqRUME",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Should You Use Tailwind CSS?",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=hdGsFpZ0J2E",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "CVCqdPkq_hGQfI8EEi5RC"
+      },
+      "width": 146,
+      "height": 49,
+      "style": {
+        "width": 146,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "khoUtTUxdf8udAzN9_CAb",
+      "type": "topic",
+      "position": {
+        "x": -444.8178956686777,
+        "y": 315.40458777290166
+      },
+      "data": {
+        "id": "khoUtTUxdf8udAzN9_CAb",
+        "label": "React",
+        "topic": "React",
+        "oldId": "mGgx_QTEPmVKf6AijX9fi",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "React is the most popular front-end JavaScript library for building user interfaces. React can also render on the server using Node and power mobile apps using React Native.",
+        "resources": [
+          {
+            "title": "Visit Dedicated React Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/react",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Getting Started with React",
+            "type": "Documentation",
+            "url": "https://react.dev/learn/tutorial-tic-tac-toe",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "React JS Course for Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=nTeuhbP7wdE",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "React Course - Beginners Tutorial for React",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "khoUtTUxdf8udAzN9_CAb"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "zFGWxgLPcZoW7KIzlnSV9",
+      "type": "subtopic",
+      "position": {
+        "x": -350.97806963137555,
+        "y": 215.40458777290166
+      },
+      "data": {
+        "id": "zFGWxgLPcZoW7KIzlnSV9",
+        "label": "Checkpoint - Collaborative Work",
+        "topic": "Checkpoint - Collaborative Work",
+        "oldId": "7JU1cVggMDoZUV-adGsf-",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "Now that you have learnt git and GitHub you should be ready to work with others. You should now setup your GitHub profile and push all the projects that you have built so far to your GitHub profile. Here are some of my recommendations for your GitHub profile:\n\n*   Keep the repository names lowercase and use hyphens to separate words e.g. `todo-app` instead of `TodoApp` or `Todo-App`.\n*   Add a `README.md` file to each repository that you create. This file should contain a description of the project. Put some effort into the readme and make sure it clearly details what the project is about and how anyone can run it locally.\n*   Add snapshots of your project to the readme file so that anyone can see what the project looks like without having to run it locally.\n*   Add a `LICENSE` file to each repository that you create. This file should contain the license that you want to use for the project. You can use [choosealicense.com](https://choosealicense.com/) to help you choose a license.\n\nYou can have a look at [my GitHub profile](https://github.com/nilbuild) and see how I have structured my repositories and how [some of my readme files look like](https://github.com/nilbuild/aws-cost-cli).",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "zFGWxgLPcZoW7KIzlnSV9"
+      },
+      "width": 290,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "8MhESAMICF6j7X3RL9bFE",
+      "type": "vertical",
+      "position": {
+        "x": -117.38142186176219,
+        "y": 265.40458777290166
+      },
+      "data": {
+        "id": "8MhESAMICF6j7X3RL9bFE",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "8MhESAMICF6j7X3RL9bFE"
+      },
+      "width": 21,
+      "height": 73,
+      "style": {
+        "width": 21,
+        "height": 73
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "H63WyNiiJ2Yr9HWs98EjR",
+      "type": "paragraph",
+      "position": {
+        "x": -459.47806963137555,
+        "y": 396.90458777290166
+      },
+      "data": {
+        "id": "H63WyNiiJ2Yr9HWs98EjR",
+        "label": "Feel free to skip these and revisit after learning Backend",
+        "topic": "Feel free to skip these and revisit after learning Backend",
+        "oldId": "fKzuMTsf6XL_0Ik6t8SAX",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "TRANSPARENT",
+          "color": "#000000",
+          "textAlign": "center",
+          "justifyContent": "center",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "H63WyNiiJ2Yr9HWs98EjR"
+      },
+      "width": 276,
+      "height": 63,
+      "style": {
+        "width": 276,
+        "height": 63
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "QfW-odmDYknm_qXNcDu5o",
+      "type": "paragraph",
+      "position": {
+        "x": -482.08230823147517,
+        "y": 575.9045877729017
+      },
+      "data": {
+        "id": "QfW-odmDYknm_qXNcDu5o",
+        "label": "Start Backend Development",
+        "topic": "Start Backend Development",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "#ffffff",
+          "color": "#000000",
+          "textAlign": "center",
+          "justifyContent": "center",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "QfW-odmDYknm_qXNcDu5o"
+      },
+      "width": 265,
+      "height": 48,
+      "style": {
+        "width": 265,
+        "height": 48
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "7JU1cVggMDoZUV-adGsf-",
+      "type": "subtopic",
+      "position": {
+        "x": -443.47806963137555,
+        "y": 483.40458777290166
+      },
+      "data": {
+        "id": "7JU1cVggMDoZUV-adGsf-",
+        "label": "Checkpoint - Frontend Apps",
+        "topic": "Checkpoint - Frontend Apps",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "At this point you should be able to build a complete frontend application including:\n\n*   Structuring your webpages with HTML\n*   Styling your webpages with CSS\n*   Adding interactivity to your webpages with JavaScript\n*   Using the DOM API to manipulate your webpages\n*   Using the Fetch API to make HTTP requests\n*   Understand promises and use `async`/`await` syntax to write asynchronous code\n*   Installing and using external libraries with npm\n*   Version controlling your code with Git\n*   Pushing your code to GitHub\n\nIf you decided to skip React and Tailwind for now, that is fine also but you should be able to build a complete frontend application using vanilla HTML, CSS, and JavaScript. However, keep in mind that the modern frontend applications are mostly built with frameworks like React, Vue, and Angular. So, you should learn at least one of them at any point of time.\n\nThis marks the end of frontend basics that you needed, we will now be moving to the backend development. While you continue with the backend development, know that there is more to frontend development and remember to checkout the [frontend roadmap](/frontend) later in your journey.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "7JU1cVggMDoZUV-adGsf-"
+      },
+      "width": 260,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "_aA6Hp4KkgJeptqo8oKTg",
+      "type": "topic",
+      "position": {
+        "x": 7.00948964805815,
+        "y": 574.9045877729017
+      },
+      "data": {
+        "id": "_aA6Hp4KkgJeptqo8oKTg",
+        "label": "Node.js",
+        "topic": "Node.js",
+        "oldId": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project! Node.js runs the V8 JavaScript engine, Google Chrome's core, outside the browser. This allows Node.js to be very performant. A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking and generally, libraries in Node.js are written using non-blocking paradigms, making blocking behavior the exception rather than the norm.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Node.js Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/nodejs",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Node.js Website",
+            "type": "Documentation",
+            "url": "https://nodejs.org/en/about/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Learn Node.js Official Website",
+            "type": "Documentation",
+            "url": "https://nodejs.org/en/learn/getting-started/introduction-to-nodejs",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Node.js and Express.js Full Course",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "_aA6Hp4KkgJeptqo8oKTg"
+      },
+      "width": 146,
+      "height": 49,
+      "style": {
+        "width": 146,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "qCV1wiNSXj4OSHyMqxRIK",
+      "type": "paragraph",
+      "position": {
+        "x": -26.978069631375547,
+        "y": 431.40458777290166
+      },
+      "data": {
+        "id": "qCV1wiNSXj4OSHyMqxRIK",
+        "label": "You can pick any backend programming language. My recommendation is Node.js because you are already familiar with JavaScript and it's easier to pick.",
+        "topic": "You can pick any backend programming language. My recommendation is Node.js because you are already familiar with JavaScript and it's easier to pick.",
+        "oldId": "fKzuMTsf6XL_0Ik6t8SAX",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "TRANSPARENT",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "center",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "qCV1wiNSXj4OSHyMqxRIK"
+      },
+      "width": 445,
+      "height": 101,
+      "style": {
+        "width": 445,
+        "height": 101
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "0QKpvDD33C3WCmNGtRanp",
+      "type": "vertical",
+      "position": {
+        "x": -104.20433957685361,
+        "y": 531.9045877729017
+      },
+      "data": {
+        "id": "0QKpvDD33C3WCmNGtRanp",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "stroke": "#000000"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "0QKpvDD33C3WCmNGtRanp"
+      },
+      "width": 21,
+      "height": 130,
+      "style": {
+        "width": 21,
+        "height": 130
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "WqNcVZ8IkyqEubdd9JCa1",
+      "type": "label",
+      "position": {
+        "x": -283.06446376179997,
+        "y": 630.9045877729017
+      },
+      "data": {
+        "id": "WqNcVZ8IkyqEubdd9JCa1",
+        "label": "Backend Starts here",
+        "topic": "Backend Starts here",
+        "oldId": "Dj2QhtEuuIgKc2CvgFGyK",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "WqNcVZ8IkyqEubdd9JCa1"
+      },
+      "width": 174,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "JGu0TKwAw-ieiG92BytYI",
+      "type": "subtopic",
+      "position": {
+        "x": -47.99051035194185,
+        "y": 651.9045877729017
+      },
+      "data": {
+        "id": "JGu0TKwAw-ieiG92BytYI",
+        "label": "Checkpoint \u2014 CLI Apps",
+        "topic": "Checkpoint \u2014 CLI Apps",
+        "oldId": "YVMyHFSCVF-GgXydq-SFJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "At this point you should be able to build CLI applications using Node.js or whatever backend programming language you picked.\n\nYou should be able to build a CLI application that can:\n\n*   Read and write files\n*   Parse command line arguments\n*   Make HTTP requests\n*   Parse JSON\n*   Use a third-party library (e.g. a library for parsing CSV files)\n*   Use a third-party API\n\nHere are some ideas for CLI applications you can build:\n\n*   Create a CLI application that takes a URL and a CSS selector arguments and prints the text content of the element that matches the selector. **Hint** you can use [cheerio](https://github.com/cheeriojs/cheerio)\n*   An application that optionally takes two dates and prints the most starred GitHub projects in that date range. **Hint** you can use [GitHub's search API](https://developer.github.com/v3/search/#search-repositories)\n*   Bulk rename files in a directory. **Hint** you can use [fs](https://nodejs.org/api/fs.html) and [path](https://nodejs.org/api/path.html)\n*   Write a CLI application that takes a path as input and compresses all the images in that directory. It should accept an option for output path; if the output path is not given it should compress images in place otherwise write the compressed images to the output path. **Hint** you can use [sharp](https://github.com/lovell/sharp).",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "JGu0TKwAw-ieiG92BytYI"
+      },
+      "width": 302,
+      "height": 49,
+      "style": {
+        "width": 302,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "o72NM00uoHXswkadhqVVW",
+      "type": "horizontal",
+      "position": {
+        "x": 253.00948964805815,
+        "y": 666.4045877729017
+      },
+      "data": {
+        "id": "o72NM00uoHXswkadhqVVW",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "BfadoWcewEUb5PQ_itqK-",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "o72NM00uoHXswkadhqVVW"
+      },
+      "width": 85,
+      "height": 20,
+      "style": {
+        "width": 85,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "vmHbWdmMHF53otXIrqzRV",
+      "type": "topic",
+      "position": {
+        "x": -117.38142186176219,
+        "y": 847.9045877729017
+      },
+      "data": {
+        "id": "vmHbWdmMHF53otXIrqzRV",
+        "label": "RESTful APIs",
+        "topic": "RESTful APIs",
+        "oldId": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated API Design Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/api-design",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What is a REST API?",
+            "type": "Article",
+            "url": "https://www.redhat.com/en/topics/api/what-is-a-rest-api",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Learn REST: A RESTful Tutorial",
+            "type": "Article",
+            "url": "https://restapitutorial.com/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What Is A RESTful API? Explanation of REST & HTTP",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=Q-BpqyOT3a8",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "vmHbWdmMHF53otXIrqzRV"
+      },
+      "width": 151,
+      "height": 49,
+      "style": {
+        "width": 151,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "3EtGLO6cwkLc1-o9gwFNk",
+      "type": "subtopic",
+      "position": {
+        "x": -49.99051035194191,
+        "y": 779.7210153640276
+      },
+      "data": {
+        "id": "3EtGLO6cwkLc1-o9gwFNk",
+        "label": "Checkpoint \u2014 Simple CRUD Apps",
+        "topic": "Checkpoint \u2014 Simple CRUD Apps",
+        "oldId": "sO_9-l4FECbaqiaFnyeXO",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "**CRUD** stands for **Create, Read, Update, and Delete**. These are the four basic operations you can perform on any data when working with web applications, databases, and APIs.\n\nNow that you know about programming language and the databases, you should be able to build a simple CLI application that interacts with database. We haven't talked about the APIs yet but you don't need an API to practice CRUD operations. Here are some of the CLI applications you can build to practice CRUD operations:\n\n*   A simple todo list application for the CLI with the following options:\n    *   `--new` to add a new todo item\n    *   `--list [all|pending|done]` to list the todo items\n    *   `--done [id]` to update a todo item\n    *   `--delete [id]` to delete a todo item\n    *   `--help` to list all the available options\n    *   `--version` to print the version of the application",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "3EtGLO6cwkLc1-o9gwFNk"
+      },
+      "width": 304,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "BQV2ycD-EnmssO1idTgx9",
+      "type": "horizontal",
+      "position": {
+        "x": 253.00948964805815,
+        "y": 794.2210153640276
+      },
+      "data": {
+        "id": "BQV2ycD-EnmssO1idTgx9",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "zh4DYU0QpAolXJ6wE0CEe",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "BQV2ycD-EnmssO1idTgx9"
+      },
+      "width": 85,
+      "height": 20,
+      "style": {
+        "width": 85,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "vHojhJYjiN0IwruEqi1Dv",
+      "type": "topic",
+      "position": {
+        "x": -257.06446376179997,
+        "y": 847.9045877729017
+      },
+      "data": {
+        "id": "vHojhJYjiN0IwruEqi1Dv",
+        "label": "JWT Auth",
+        "topic": "JWT Auth",
+        "oldId": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "JWT stands for JSON Web Token is a token-based encryption open standard/methodology that is used to transfer information securely as a JSON object. Clients and Servers use JWT to securely share information, with the JWT containing encoded JSON objects and claims. JWTs are designed to be compact, safe to use within URLs, and ideal for SSO contexts.",
+        "resources": [
+          {
+            "title": "Introduction to JSON Web Tokens",
+            "type": "Documentation",
+            "url": "https://jwt.io/introduction",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What is JWT?",
+            "type": "Article",
+            "url": "https://www.akana.com/blog/what-is-jwt",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "What Is JWT and Why Should You Use JWT",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=7Q17ubqLfaM",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "JWT Authentication Tutorial - Node.js",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=mbsmsi7l3r4",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "vHojhJYjiN0IwruEqi1Dv"
+      },
+      "width": 123,
+      "height": 49,
+      "style": {
+        "width": 123,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Onfd7Sl8LG2sjh2aQY7gb",
+      "type": "topic",
+      "position": {
+        "x": -460.08230823147517,
+        "y": 847.9045877729017
+      },
+      "data": {
+        "id": "Onfd7Sl8LG2sjh2aQY7gb",
+        "label": "Redis",
+        "topic": "Redis",
+        "oldId": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Redis is an open source (BSD licensed), in-memory data structure store used as a database, cache, message broker, and streaming engine. Redis provides data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs, geospatial indexes, and streams. Redis has built-in replication, Lua scripting, LRU eviction, transactions, and different levels of on-disk persistence, and provides high availability via Redis Sentinel and automatic partitioning with Redis Cluster.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Redis Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/redis",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Redis Documentation",
+            "type": "Documentation",
+            "url": "https://redis.io/docs/latest/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Redis in 100 Seconds",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Redis Caching in Node.js",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=oaJq1mQ3dFI",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Onfd7Sl8LG2sjh2aQY7gb"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "SHTSvMDqI7X1_ZT7-m--n",
+      "type": "topic",
+      "position": {
+        "x": -576.5823082314752,
+        "y": 1145.3143775154215
+      },
+      "data": {
+        "id": "SHTSvMDqI7X1_ZT7-m--n",
+        "label": "Linux Basics",
+        "topic": "Linux Basics",
+        "oldId": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Knowledge of UNIX is a must for almost all kind of development as most of the code that you write is most likely going to be finally deployed on a UNIX/Linux machine. Linux has been the backbone of the free and open source software movement, providing a simple and elegant operating system for almost all your needs.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Linux Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/linux",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Coursera - Unix Courses",
+            "type": "Course",
+            "url": "https://www.coursera.org/courses?query=unix",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Unix / Linux Tutorial",
+            "type": "Article",
+            "url": "https://www.tutorialspoint.com/unix/index.htm",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Linux Operating System - Crash Course",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=ROjZy1WbCIA",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "SHTSvMDqI7X1_ZT7-m--n"
+      },
+      "width": 146,
+      "height": 49,
+      "style": {
+        "width": 146,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "gSUWhfd0DQoJjDpHEkk0i",
+      "type": "horizontal",
+      "position": {
+        "x": -504.47806963137555,
+        "y": 970.0850398450953
+      },
+      "data": {
+        "id": "gSUWhfd0DQoJjDpHEkk0i",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "b7EdI-25v_eVMkqTBa0se",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "gSUWhfd0DQoJjDpHEkk0i"
+      },
+      "width": 100,
+      "height": 20,
+      "style": {
+        "width": 100,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "v4NF25lJElAtkU0Rm6Fob",
+      "type": "subtopic",
+      "position": {
+        "x": -459.47806963137555,
+        "y": 955.5850398450953
+      },
+      "data": {
+        "id": "v4NF25lJElAtkU0Rm6Fob",
+        "label": "Checkpoint \u2014 Complete App",
+        "topic": "Checkpoint \u2014 Complete App",
+        "oldId": "YVMyHFSCVF-GgXydq-SFJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "At this point, you should have everything that you need to build a complete application that:\n\n*   Has a responsive frontend that users can interact with\n*   Has a backend API that is secured with JWT authentication\n*   Has a database that stores data\n\nAt this point you should practice building as much as you can on your own to solidify your knowledge. If you need inspiration, here are some ideas:\n\n*   Build a simple blogging application where users can register, login, setup their blog and write posts.\n*   A single page site builder where users can pick a template, modify it and publish it. **Hint** you will need filesystem to store the design templates. Template files will have placeholders that you will need to replace with user data.\n*   Build a simple e-commerce application which will have two types of users i.e. **Sellers** who can: Register as Seller, Login, Setup their store, Add products, Edit products, Delete products, View Received Orders, Update Order Status (Pending, Shipped, Delivered), **Buyers** who can register, Login, Browse products by all sellers, Add products to cart, Checkout, View order history, View order status, Cancel order, View seller profile, View seller products\n\nThese are just some ideas to get you started. You can build anything you want. The goal is to practice building a complete application from scratch.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "v4NF25lJElAtkU0Rm6Fob"
+      },
+      "width": 265,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "Oav7YPRBmsE1gVhEURckg",
+      "type": "horizontal",
+      "position": {
+        "x": -560.0823082314752,
+        "y": 1037.8143775154215
+      },
+      "data": {
+        "id": "Oav7YPRBmsE1gVhEURckg",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "rQozP_4g0XSRR4l5-OGsI",
+        "style": {
+          "stroke": "#000000"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Oav7YPRBmsE1gVhEURckg"
+      },
+      "width": 243,
+      "height": 20,
+      "style": {
+        "width": 243,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Dj2QhtEuuIgKc2CvgFGyK",
+      "type": "label",
+      "position": {
+        "x": -473.2578102157039,
+        "y": 1051.3143775154215
+      },
+      "data": {
+        "id": "Dj2QhtEuuIgKc2CvgFGyK",
+        "label": "DevOps starts here",
+        "topic": "DevOps starts here",
+        "oldId": null,
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Dj2QhtEuuIgKc2CvgFGyK"
+      },
+      "width": 166,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "cUOfvOlQ_0Uu1VX3i67kJ",
+      "type": "topic",
+      "position": {
+        "x": -241.7043395768536,
+        "y": 1145.3143775154215
+      },
+      "data": {
+        "id": "cUOfvOlQ_0Uu1VX3i67kJ",
+        "label": "Basic AWS Services",
+        "topic": "Basic AWS Services",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "AWS has several services but you don't need to know all of them. Some common ones that you can start with are EC2, VPC, S3, Route 53, and SES.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated AWS Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/aws",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "VPC Basics",
+            "type": "Article",
+            "url": "https://cloudcasts.io/course/vpc-basics",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "EC2 Essentials",
+            "type": "Article",
+            "url": "https://cloudcasts.io/course/ec2-essentials",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Deploy Node App on AWS EC2",
+            "type": "Video",
+            "url": "https://youtu.be/oHAQ3TzUTro",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "cUOfvOlQ_0Uu1VX3i67kJ"
+      },
+      "width": 210,
+      "height": 49,
+      "style": {
+        "width": 210,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "6oBIxYj8WPcUHidQ99tus",
+      "type": "subtopic",
+      "position": {
+        "x": -239.56446376179997,
+        "y": 1087.3143775154215
+      },
+      "data": {
+        "id": "6oBIxYj8WPcUHidQ99tus",
+        "label": "EC2",
+        "topic": "EC2",
+        "oldId": "B-cphY7Imnv6JBMujVIF7",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Amazon Elastic Compute Cloud (EC2) is a web service that provides resizable compute capacity in the form of virtual servers, known as instances. With EC2, you can quickly scale your infrastructure up or down as your computing requirements change. This service effectively reduces the time required to obtain and boot new server instances, allowing you to easily adjust capacity according to the needs of your application.",
+        "resources": [
+          {
+            "title": "Amazon AWS EC2",
+            "type": "Documentation",
+            "url": "https://aws.amazon.com/ec2/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Up and Running with AWS EC2",
+            "type": "Article",
+            "url": "https://cs.fyi/guide/up-and-running-with-aws-ec2",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "EC2 Essentials",
+            "type": "Article",
+            "url": "https://cloudcasts.io/course/ec2-essentials",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Deploy Node App on AWS EC2",
+            "type": "Video",
+            "url": "https://youtu.be/oHAQ3TzUTro",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "6oBIxYj8WPcUHidQ99tus"
+      },
+      "width": 71,
+      "height": 51,
+      "style": {
+        "width": 71,
+        "height": 51
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "QtL-bLKtWIdH00K6k_PdC",
+      "type": "subtopic",
+      "position": {
+        "x": -165.56446376179997,
+        "y": 1087.3143775154215
+      },
+      "data": {
+        "id": "QtL-bLKtWIdH00K6k_PdC",
+        "label": "VPC",
+        "topic": "VPC",
+        "oldId": "n2Xp_ijJ2OS8xhE7xMWxk",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "c"
+        },
+        "description": "VPC stands for **Virtual Private Cloud** and is an essential service provided by AWS that allows you to create a private, isolated section within the AWS cloud, where you can define your own virtual network. It offers a more secure and controlled environment, enabling you to easily launch and manage your resources within your personal network.",
+        "resources": [
+          {
+            "title": "Amazon AWS VPC",
+            "type": "Documentation",
+            "url": "https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Up and Running with AWS VPC",
+            "type": "Article",
+            "url": "https://cs.fyi/guide/up-and-running-with-aws-vpc",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "VPC Basics",
+            "type": "Article",
+            "url": "https://cloudcasts.io/course/vpc-basics",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "AWS VPC & Subnets For Beginners",
+            "type": "Video",
+            "url": "https://youtu.be/TUTqYEZZUdc",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "QtL-bLKtWIdH00K6k_PdC"
+      },
+      "width": 71,
+      "height": 51,
+      "style": {
+        "width": 71,
+        "height": 51
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "5zyYpu9cyuTFwQCjTbHpS",
+      "type": "subtopic",
+      "position": {
+        "x": -239.56446376179997,
+        "y": 1032.3143775154215
+      },
+      "data": {
+        "id": "5zyYpu9cyuTFwQCjTbHpS",
+        "label": "Route53",
+        "topic": "Route53",
+        "oldId": "B-cphY7Imnv6JBMujVIF7",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Route53 is AWS's Domain Name System (DNS) service that plays a critical role in connecting user requests to your web application or other resources within your infrastructure. With Route53, you can easily manage domains, redirect traffic, and configure domain-related settings. It has several advantages, including high availability, low latency, and integration with other AWS resources.",
+        "resources": [
+          {
+            "title": "Route53",
+            "type": "Documentation",
+            "url": "https://aws.amazon.com/route53/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Amazon Route 53",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=RGWgfhZByAI",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "AWS Route 53 Domain Name",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=jDz4j_kkyLA",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "DNS with AWS Route 53",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=yRIY7BJohfo&t=2s",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "5zyYpu9cyuTFwQCjTbHpS"
+      },
+      "width": 104,
+      "height": 51,
+      "style": {
+        "width": 104,
+        "height": 51
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "B-cphY7Imnv6JBMujVIF7",
+      "type": "subtopic",
+      "position": {
+        "x": -133.7043395768536,
+        "y": 1032.3143775154215
+      },
+      "data": {
+        "id": "B-cphY7Imnv6JBMujVIF7",
+        "label": "SES",
+        "topic": "SES",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Amazon SES (Simple Email Service) is a scalable, flexible, and cost-effective cloud-based email service that is specifically designed for developers, marketers, and businesses to send and receive marketing, transactional, and notification emails. SES is useful, especially when you need to send a large volume of emails, as it offers high deliverability, reliability, and ease of use.",
+        "resources": [
+          {
+            "title": "Amazon AWS SES",
+            "type": "Documentation",
+            "url": "https://aws.amazon.com/ses/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Contact Form Submission With AWS SES",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=HiHflLTqiwU",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "B-cphY7Imnv6JBMujVIF7"
+      },
+      "width": 101,
+      "height": 51,
+      "style": {
+        "width": 101,
+        "height": 51
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "n2Xp_ijJ2OS8xhE7xMWxk",
+      "type": "subtopic",
+      "position": {
+        "x": -91.56446376179997,
+        "y": 1087.3143775154215
+      },
+      "data": {
+        "id": "n2Xp_ijJ2OS8xhE7xMWxk",
+        "label": "S3",
+        "topic": "S3",
+        "oldId": "B-cphY7Imnv6JBMujVIF7",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "S3 is a service that allows you to store files in the cloud. It's a simple service that you can use to store files and serve them to your users.",
+        "resources": [
+          {
+            "title": "Amazon AWS S3",
+            "type": "Documentation",
+            "url": "https://aws.amazon.com/s3/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Upload Images to S3 from Node Back End",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=NZElg91l_ms",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "S3 Bucket Hosting a Static Website",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=RoY3ekCCxKc&list=PL0X6fGhFFNTcU-_MCPe9dkH6sqmgfhy_M",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "n2Xp_ijJ2OS8xhE7xMWxk"
+      },
+      "width": 60,
+      "height": 51,
+      "style": {
+        "width": 60,
+        "height": 51
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "fKzuMTsf6XL_0Ik6t8SAX",
+      "type": "paragraph",
+      "position": {
+        "x": 58.49718479195076,
+        "y": 923.8143775154215
+      },
+      "data": {
+        "id": "fKzuMTsf6XL_0Ik6t8SAX",
+        "label": "Use the checkpoints and do not forget to practice what you learn. There are project ideas at each checkpoint that you can build to solidify your knowledge.",
+        "topic": "Use the checkpoints and do not forget to practice what you learn. There are project ideas at each checkpoint that you can build to solidify your knowledge.",
+        "oldId": "QfW-odmDYknm_qXNcDu5o",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "#000000",
+          "backgroundColor": "#ffffff",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "center",
+          "padding": 16
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "fKzuMTsf6XL_0Ik6t8SAX"
+      },
+      "width": 342,
+      "height": 139,
+      "style": {
+        "width": 342
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "y1SFX7uvWaCy4OYBnECLu",
+      "type": "topic",
+      "position": {
+        "x": 290.52193036862445,
+        "y": 1266.5238331844262
+      },
+      "data": {
+        "id": "y1SFX7uvWaCy4OYBnECLu",
+        "label": "Monit",
+        "topic": "Monit",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "When it comes to monitoring the health of your applications, there are several different options available. My favorite monitoring stack is Prometheus and Grafana, but it can be a bit overwhelming to set up and configure. If you're looking for a simpler solution, **Monit** is a great alternative that can be utilized to monitor and manage system resources such as services, processes, files, directories, devices, and network connections, making your application more reliable and resilient to issues like crashes, unresponsiveness, or resource exhaustion.",
+        "resources": [
+          {
+            "title": "Monit Documentation",
+            "type": "Documentation",
+            "url": "https://mmonit.com/monit/documentation/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "y1SFX7uvWaCy4OYBnECLu"
+      },
+      "width": 89,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "HGhnbMg6jh6cAmUH4DtOx",
+      "type": "topic",
+      "position": {
+        "x": 262.02193036862445,
+        "y": 716.9045877729017
+      },
+      "data": {
+        "id": "HGhnbMg6jh6cAmUH4DtOx",
+        "label": "PostgreSQL",
+        "topic": "PostgreSQL",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "PostgreSQL, also known as Postgres, is a free and open-source relational database management system emphasizing extensibility and SQL compliance.",
+        "resources": [
+          {
+            "title": "Visit Dedicated PostgreSQL DBA Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/postgresql-dba",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "PostgreSQL Website",
+            "type": "Documentation",
+            "url": "https://www.postgresql.org/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Learn PostgreSQL - Full Tutorial for Beginners",
+            "type": "Article",
+            "url": "https://www.postgresqltutorial.com/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Postgres tutorial for Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=eMIxuk0nOkU",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "HGhnbMg6jh6cAmUH4DtOx"
+      },
+      "width": 146,
+      "height": 49,
+      "style": {
+        "width": 146,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "J2_IWAb1s9zZcxOY3NXm2",
+      "type": "subtopic",
+      "position": {
+        "x": 16.00948964805815,
+        "y": 1200.7210153640276
+      },
+      "data": {
+        "id": "J2_IWAb1s9zZcxOY3NXm2",
+        "label": "Checkpoint \u2014 Deployment",
+        "topic": "Checkpoint \u2014 Deployment",
+        "oldId": "sO_9-l4FECbaqiaFnyeXO",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "Now that you know the basics of AWS, you should be able to deploy your application to AWS. You don't need to use all the AWS services, here is what you can probably get started with:\n\n*   Setup an EC2 instance using any AMI (e.g. latest version of Ubuntu)\n*   SSH into the EC2 instance using the key pair you created\n*   Install Node.js on the EC2 instance\n*   Install Git on the EC2 instance\n*   Clone your application from GitHub\n*   Install and configure database on the EC2 instance (e.g. PostgreSQL)\n*   Make sure that the security group of the EC2 instance allows HTTP and HTTPS traffic\n*   Try to access your application using the public IP address of the EC2 instance\n*   Purchase or setup a domain name using Route53 (or any other domain name provider) and point it to the public IP address of the EC2 instance\n*   Setup HTTPs using [certbot](https://roadmap.sh/guides/setup-and-auto-renew-ssl-certificates)\n*   And voilla! You have deployed your application to AWS!",
+        "resources": [
+          {
+            "title": "Deploy Node App on AWS EC2",
+            "type": "Video",
+            "url": "https://youtu.be/oHAQ3TzUTro",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "J2_IWAb1s9zZcxOY3NXm2"
+      },
+      "width": 248,
+      "height": 49,
+      "style": {
+        "width": 248,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "863KMXcFJzInvTp_-Ldmz",
+      "type": "topic",
+      "position": {
+        "x": 103.00948964805815,
+        "y": 1392.5238331844262
+      },
+      "data": {
+        "id": "863KMXcFJzInvTp_-Ldmz",
+        "label": "GitHub Actions",
+        "topic": "GitHub Actions",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "GitHub Actions is a workflow automation tool provided by GitHub that can be used to automate various tasks in the app development process.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Git & GitHub Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/git-github",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "GitHub Actions Documentation",
+            "type": "Documentation",
+            "url": "https://docs.github.com/en/actions",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "5 Ways to DevOps-ify your App",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=eB0nUzAI7M8",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "DevOps CI/CD Explained in 100 Seconds",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=scEDHsr3APg",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "863KMXcFJzInvTp_-Ldmz"
+      },
+      "width": 160,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "zh4DYU0QpAolXJ6wE0CEe",
+      "type": "horizontal",
+      "position": {
+        "x": 253.00948964805815,
+        "y": 1340.2210153640276
+      },
+      "data": {
+        "id": "zh4DYU0QpAolXJ6wE0CEe",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "BfadoWcewEUb5PQ_itqK-",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "zh4DYU0QpAolXJ6wE0CEe"
+      },
+      "width": 85,
+      "height": 20,
+      "style": {
+        "width": 85,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "NQmEl27eBPYhivcXdOEz3",
+      "type": "subtopic",
+      "position": {
+        "x": 16.00948964805815,
+        "y": 1325.7210153640276
+      },
+      "data": {
+        "id": "NQmEl27eBPYhivcXdOEz3",
+        "label": "Checkpoint \u2014 Monitoring",
+        "topic": "Checkpoint \u2014 Monitoring",
+        "oldId": "sO_9-l4FECbaqiaFnyeXO",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "You should now implement monitoring and autorestarts for your application using monit. Regarding autorestarts, you can also use [pm2](https://pm2.keymetrics.io/).\n\nHere are some of the monitors you should implement for the application.\n\n*   CPU Usage\n*   Memory Usage\n*   Disk Usage\n*   Network Usage\n*   Service Availability\n*   Process Availability\n\nMonit comes with existing configurations for many services. You can find them in `/etc/monit/conf-available`. You can copy them (and modify if required) to `/etc/monit/conf-enabled` to enable them.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "NQmEl27eBPYhivcXdOEz3"
+      },
+      "width": 248,
+      "height": 49,
+      "style": {
+        "width": 248,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "rFXupYpUFfp7vZO8zh614",
+      "type": "topic",
+      "position": {
+        "x": -327.56446376179997,
+        "y": 1392.5238331844262
+      },
+      "data": {
+        "id": "rFXupYpUFfp7vZO8zh614",
+        "label": "Ansible",
+        "topic": "Ansible",
+        "oldId": "2kKHuQZScu7hCDgQWxl5u",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Ansible is an open-source configuration management, application deployment and provisioning tool that uses its own declarative language in YAML. Ansible is agentless, meaning you only need remote connections via SSH or Windows Remote Management via Powershell in order to function",
+        "resources": [
+          {
+            "title": "Ansible Documentation",
+            "type": "Documentation",
+            "url": "https://docs.ansible.com/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Ansible Getting Started Guide",
+            "type": "Documentation",
+            "url": "https://www.ansible.com/resources/get-started",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Ansible Full Course for Beginners",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=9Ua2b06oAr4",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "rFXupYpUFfp7vZO8zh614"
+      },
+      "width": 102,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "WJIx6JGqxoNT-vKk4LMQp",
+      "type": "vertical",
+      "position": {
+        "x": -128.06446376179997,
+        "y": 1366
+      },
+      "data": {
+        "id": "WJIx6JGqxoNT-vKk4LMQp",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "gJhoy4tQwP4Gtwh0wL343",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "WJIx6JGqxoNT-vKk4LMQp"
+      },
+      "width": 21,
+      "height": 50,
+      "style": {
+        "width": 21,
+        "height": 50
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "liaY1GnlOateB_ZKBjNpY",
+      "type": "subtopic",
+      "position": {
+        "x": -226.56446376179997,
+        "y": 1325.7210153640276
+      },
+      "data": {
+        "id": "liaY1GnlOateB_ZKBjNpY",
+        "label": "Checkpoint \u2014 CI / CD",
+        "topic": "Checkpoint \u2014 CI / CD",
+        "oldId": "sO_9-l4FECbaqiaFnyeXO",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "Now that you have the infrastructure setup, it's time to automate the deployment process. This is where CI / CD comes in. If you don't know what CI/CD are, you should watch [DevOps CI/CD Explained in 100 Seconds](https://www.youtube.com/watch?v=scEDHsr3APg).\n\nThe next step at this point is to implement CI/CD for your application using GitHub actions. Setup a GitHub action that, whenever you push to master, will automatically:\n\n*   Run your tests (ignore this step if you haven't learnt it yet)\n*   Deploy your application to AWS\n\nRegarding the deployment to AWS you can use `rsync` to copy the files to the server. Here's a [sample GitHub workflow](https://gist.github.com/nilbuild/1e94b412006040f38e24b9443b2da41a) using `rsync`.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "liaY1GnlOateB_ZKBjNpY"
+      },
+      "width": 218,
+      "height": 49,
+      "style": {
+        "width": 218,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2kKHuQZScu7hCDgQWxl5u",
+      "type": "topic",
+      "position": {
+        "x": -560.0823082314752,
+        "y": 1468.728630371825
+      },
+      "data": {
+        "id": "2kKHuQZScu7hCDgQWxl5u",
+        "label": "Terraform",
+        "topic": "Terraform",
+        "oldId": "khoUtTUxdf8udAzN9_CAb",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Terraform is an extremely popular open source Infrastructure as Code (IaC) tool that can be used with many different cloud and service provider APIs. Terraform focuses on an immutable approach to infrastructure, with a terraform state file center to tracking the status of your real world infrastructure.",
+        "resources": [
+          {
+            "title": "Visit Dedicated Terraform Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/terraform",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Terraform Documentation",
+            "type": "Documentation",
+            "url": "https://www.terraform.io/docs",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Terraform Tutorials",
+            "type": "Documentation",
+            "url": "https://learn.hashicorp.com/terraform",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Intro to Terraform",
+            "type": "Video",
+            "url": "https://www.youtube.com/watch?v=h970ZBgKINg&ab_channel=HashiCorp",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2kKHuQZScu7hCDgQWxl5u"
+      },
+      "width": 121,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "gJhoy4tQwP4Gtwh0wL343",
+      "type": "vertical",
+      "position": {
+        "x": -473.2578102157039,
+        "y": 1365.182006288024
+      },
+      "data": {
+        "id": "gJhoy4tQwP4Gtwh0wL343",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "gJhoy4tQwP4Gtwh0wL343"
+      },
+      "width": 21,
+      "height": 50,
+      "style": {
+        "width": 21,
+        "height": 50
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "sO_9-l4FECbaqiaFnyeXO",
+      "type": "subtopic",
+      "position": {
+        "x": -571.7578102157039,
+        "y": 1324.9030216520516
+      },
+      "data": {
+        "id": "sO_9-l4FECbaqiaFnyeXO",
+        "label": "Checkpoint \u2014 Automation",
+        "topic": "Checkpoint \u2014 Automation",
+        "oldId": "YVMyHFSCVF-GgXydq-SFJ",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "Now that you have learnt ansible, you can use it to automate the deployment of your application.\n\nA task for you at this point would be to automate the steps that you manually performed earlier when setting up the EC2 instance i.e. SSH into the server, install Node.js, Git, PostgreSQL, Running the application etc. Write an ansible playbook that automates these and see if you can spin up a new EC2 instance without SSHing into it and manually installing all the dependencies.",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "sO_9-l4FECbaqiaFnyeXO"
+      },
+      "width": 252,
+      "height": 49,
+      "style": {
+        "width": 252,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "b7EdI-25v_eVMkqTBa0se",
+      "type": "horizontal",
+      "position": {
+        "x": -498,
+        "y": 1552.5384432996068
+      },
+      "data": {
+        "id": "b7EdI-25v_eVMkqTBa0se",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "b7EdI-25v_eVMkqTBa0se"
+      },
+      "width": 100,
+      "height": 20,
+      "style": {
+        "width": 100,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "YVMyHFSCVF-GgXydq-SFJ",
+      "type": "subtopic",
+      "position": {
+        "x": -415.56446376179997,
+        "y": 1538.0384432996068
+      },
+      "data": {
+        "id": "YVMyHFSCVF-GgXydq-SFJ",
+        "label": "Checkpoint \u2014 Infrastructure",
+        "topic": "Checkpoint \u2014 Infrastructure",
+        "oldId": "7JU1cVggMDoZUV-adGsf-",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "colorType": "a"
+        },
+        "description": "If you remember, earlier in the roadmap, you manually logged into the AWS console and had to setup the services. Now that you know terraform, go ahead and automate the process of creating the infrastructure for your application using terraform and with that your deployments will be fully automated i.e., you should have:\n\n*   Infrastructure setup using terraform\n*   Provisioning using Ansible\n*   CI/CD using GitHub Actions\n*   Monitoring using Monit\n\nAnd that is it! You have successfully completed the roadmap and are now a full-stack developer. Congratulations! \ud83c\udf89\n\nWhat's next?\n------------\n\nGo ahead and build something cool! Share your learnings with the community and help others learn as well. If you have any questions, feel free to join our [discord server](https://roadmap.sh/discord) and ask away!",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "YVMyHFSCVF-GgXydq-SFJ"
+      },
+      "width": 260,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "DezWXw5LWeP1S5Sosj90S",
+      "type": "button",
+      "position": {
+        "x": -128.86972326342038,
+        "y": 1802.4845433334572
+      },
+      "data": {
+        "id": "DezWXw5LWeP1S5Sosj90S",
+        "label": "Backend",
+        "topic": "Backend",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "DezWXw5LWeP1S5Sosj90S"
+      },
+      "width": 104,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "DsvdvpHWD0FgTjdkSJ9Uu",
+      "type": "button",
+      "position": {
+        "x": -21.869723263420383,
+        "y": 1802.4845433334572
+      },
+      "data": {
+        "id": "DsvdvpHWD0FgTjdkSJ9Uu",
+        "label": "DevOps",
+        "topic": "DevOps",
+        "oldId": "uSLzfLPXxS5-P7ozscvjZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "DsvdvpHWD0FgTjdkSJ9Uu"
+      },
+      "width": 104,
+      "height": 49,
+      "style": {
+        "width": 104,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "uSLzfLPXxS5-P7ozscvjZ",
+      "type": "button",
+      "position": {
+        "x": 85.13027673657962,
+        "y": 1802.4845433334572
+      },
+      "data": {
+        "id": "uSLzfLPXxS5-P7ozscvjZ",
+        "label": "AWS",
+        "topic": "AWS",
+        "oldId": "PkhQdVms2TGgnPrytCBPZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "uSLzfLPXxS5-P7ozscvjZ"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {
+        "width": 101,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2bi7EWaC5QIWX6_Vl6988",
+      "type": "paragraph",
+      "position": {
+        "x": 72.1182771963982,
+        "y": -101.66069241448308
+      },
+      "data": {
+        "id": "2bi7EWaC5QIWX6_Vl6988",
+        "label": "",
+        "topic": "",
+        "oldId": "kvS4x6z7YWJjMpkpU01yh",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "#000000",
+          "backgroundColor": "#fcff00",
+          "color": "#ffffff",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 3
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2bi7EWaC5QIWX6_Vl6988"
+      },
+      "width": 26,
+      "height": 25,
+      "style": {
+        "width": 26,
+        "height": 25
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "aaWX__NQvUofoN1VzwgD0",
+      "type": "label",
+      "position": {
+        "x": 102.99749010787673,
+        "y": -107.16069241448308
+      },
+      "data": {
+        "id": "aaWX__NQvUofoN1VzwgD0",
+        "label": "Key topics to learn",
+        "topic": "Key topics to learn",
+        "oldId": "7HLG5FTMmOWGS-mOpqnQh",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "aaWX__NQvUofoN1VzwgD0"
+      },
+      "width": 158,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "kvS4x6z7YWJjMpkpU01yh",
+      "type": "paragraph",
+      "position": {
+        "x": 72.1182771963982,
+        "y": -68.28925019287855
+      },
+      "data": {
+        "id": "kvS4x6z7YWJjMpkpU01yh",
+        "label": "",
+        "topic": "",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "borderColor": "#000000",
+          "backgroundColor": "#000000",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 3
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kvS4x6z7YWJjMpkpU01yh"
+      },
+      "width": 26,
+      "height": 25,
+      "style": {
+        "width": 26,
+        "height": 25
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "7HLG5FTMmOWGS-mOpqnQh",
+      "type": "label",
+      "position": {
+        "x": 102.99749010787673,
+        "y": -71.16069241448308
+      },
+      "data": {
+        "id": "7HLG5FTMmOWGS-mOpqnQh",
+        "label": "Project ideas and suggestions",
+        "topic": "Project ideas and suggestions",
+        "oldId": null,
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "7HLG5FTMmOWGS-mOpqnQh"
+      },
+      "width": 249,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "9mrs26igEG0D9GpMv2NZc",
+      "type": "section",
+      "position": {
+        "x": -317.516084034493,
+        "y": -278.10767016925365
+      },
+      "data": {
+        "id": "9mrs26igEG0D9GpMv2NZc",
+        "label": "",
+        "topic": "",
+        "oldId": null,
+        "style": {
+          "width": 150,
+          "height": 100,
+          "fontSize": 17,
+          "backgroundColor": "#ffffff",
+          "borderColor": "#ffffff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "9mrs26igEG0D9GpMv2NZc"
+      },
+      "width": 346,
+      "height": 259,
+      "style": {
+        "width": 346,
+        "height": 259
+      },
+      "zIndex": -999
+    },
+    {
+      "id": "X8Gvqj2h4wkfA1Cx2d1iW",
+      "type": "paragraph",
+      "position": {
+        "x": -297.06446376179997,
+        "y": -251.15106699547107
+      },
+      "data": {
+        "id": "X8Gvqj2h4wkfA1Cx2d1iW",
+        "label": "If you are already a full-stack developer you should visit the following tracks.",
+        "topic": "If you are already a full-stack developer you should visit the following tracks.",
+        "oldId": "7cbUuhyNE2SoZbm2Zh_t7",
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "X8Gvqj2h4wkfA1Cx2d1iW"
+      },
+      "width": 311,
+      "height": 55,
+      "style": {
+        "width": 311
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "7cbUuhyNE2SoZbm2Zh_t7",
+      "type": "paragraph",
+      "position": {
+        "x": -297.06446376179997,
+        "y": -122.15106699547107
+      },
+      "data": {
+        "id": "7cbUuhyNE2SoZbm2Zh_t7",
+        "label": "Target audience for this roadmap is absolute beginners wanting to get into full-stack development.",
+        "topic": "Target audience for this roadmap is absolute beginners wanting to get into full-stack development.",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "borderColor": "transparent",
+          "backgroundColor": "transparent",
+          "color": "#000000",
+          "textAlign": "left",
+          "justifyContent": "flex-start",
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "7cbUuhyNE2SoZbm2Zh_t7"
+      },
+      "width": 311,
+      "height": 80,
+      "style": {
+        "width": 311
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "p1nlhjqz_BiKFFop2yHpJ",
+      "type": "button",
+      "position": {
+        "x": -293.3007174828185,
+        "y": -187.42126760749414
+      },
+      "data": {
+        "id": "p1nlhjqz_BiKFFop2yHpJ",
+        "label": "Frontend",
+        "topic": "Frontend",
+        "oldId": "x1j-a82XiCX3bNIgLFryZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "p1nlhjqz_BiKFFop2yHpJ"
+      },
+      "width": 99,
+      "height": 49,
+      "style": {
+        "width": 99,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "bt_V8XXqg8XDAJCzHrbWt",
+      "type": "button",
+      "position": {
+        "x": -192.09195631976291,
+        "y": -187.42126760749414
+      },
+      "data": {
+        "id": "bt_V8XXqg8XDAJCzHrbWt",
+        "label": "Backend",
+        "topic": "Backend",
+        "oldId": "x1j-a82XiCX3bNIgLFryZ",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "bt_V8XXqg8XDAJCzHrbWt"
+      },
+      "width": 99,
+      "height": 49,
+      "style": {
+        "width": 99,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "x1j-a82XiCX3bNIgLFryZ",
+      "type": "button",
+      "position": {
+        "x": -89.5180029099048,
+        "y": -187.42126760749414
+      },
+      "data": {
+        "id": "x1j-a82XiCX3bNIgLFryZ",
+        "label": "DevOps",
+        "topic": "DevOps",
+        "oldId": null,
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "x1j-a82XiCX3bNIgLFryZ"
+      },
+      "width": 89,
+      "height": 49,
+      "style": {
+        "width": 89,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "position": {
+        "x": 44.49718479195076,
+        "y": -286.15106699547107
+      },
+      "data": {
+        "id": "yHmHXymPNWwu8p1vvqD3o",
+        "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "topic": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "left",
+          "borderColor": "#ffffff",
+          "backgroundColor": "#FFFFFf"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "yHmHXymPNWwu8p1vvqD3o"
+      },
+      "width": 355,
+      "height": 143,
+      "style": {
+        "width": 355,
+        "height": 143
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2zqZkyVgigifcRS1H7F_b",
+      "type": "button",
+      "position": {
+        "x": 57.7005592047509,
+        "y": -204.1655035777258
+      },
+      "data": {
+        "id": "2zqZkyVgigifcRS1H7F_b",
+        "label": "roadmap.sh",
+        "topic": "roadmap.sh",
+        "oldId": null,
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2zqZkyVgigifcRS1H7F_b"
+      },
+      "width": 330,
+      "height": 49,
+      "style": {
+        "width": 330,
+        "height": 49
+      },
+      "zIndex": 999
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-iogwMmOvub2ZF4zgg6WyFx2-mGgx_QTEPmVKf6AijX9fiy2",
+      "source": "iogwMmOvub2ZF4zgg6WyF",
+      "target": "B0kARTODvCBi0iOF8iiqI",
+      "sourceHandle": "x2",
+      "targetHandle": "y2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-B0kARTODvCBi0iOF8iiqIz2-mGgx_QTEPmVKf6AijX9fiy2",
+      "source": "B0kARTODvCBi0iOF8iiqI",
+      "target": "dAJHWmGeiYdzZ1ZjrWz1S",
+      "sourceHandle": "z2",
+      "targetHandle": "y2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-khoUtTUxdf8udAzN9_CAbz2-mGgx_QTEPmVKf6AijX9fiw1",
+      "source": "T9PB6WQf-Fa9NXKKvVOy_",
+      "target": "mGgx_QTEPmVKf6AijX9fi",
+      "sourceHandle": "z2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-dAJHWmGeiYdzZ1ZjrWz1Sz2-khoUtTUxdf8udAzN9_CAby2",
+      "source": "dAJHWmGeiYdzZ1ZjrWz1S",
+      "target": "T9PB6WQf-Fa9NXKKvVOy_",
+      "sourceHandle": "z2",
+      "targetHandle": "y2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-mGgx_QTEPmVKf6AijX9fix2-We2APJpOPTr-VNfowG0kIz2",
+      "source": "mGgx_QTEPmVKf6AijX9fi",
+      "target": "We2APJpOPTr-VNfowG0kI",
+      "sourceHandle": "x2",
+      "targetHandle": "z2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-We2APJpOPTr-VNfowG0kIy2-khoUtTUxdf8udAzN9_CAbz1",
+      "source": "We2APJpOPTr-VNfowG0kI",
+      "target": "8sPXL8iClpPqje03ksses",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-8sPXL8iClpPqje03kssesy2-khoUtTUxdf8udAzN9_CAbz1",
+      "source": "8sPXL8iClpPqje03ksses",
+      "target": "CVCqdPkq_hGQfI8EEi5RC",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-2kKHuQZScu7hCDgQWxl5uy2-khoUtTUxdf8udAzN9_CAbz2",
+      "source": "CVCqdPkq_hGQfI8EEi5RC",
+      "target": "khoUtTUxdf8udAzN9_CAb",
+      "sourceHandle": "y2",
+      "targetHandle": "z2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-khoUtTUxdf8udAzN9_CAby2-QfW-odmDYknm_qXNcDu5oy1",
+      "source": "khoUtTUxdf8udAzN9_CAb",
+      "target": "QfW-odmDYknm_qXNcDu5o",
+      "sourceHandle": "y2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-QfW-odmDYknm_qXNcDu5oz2-2kKHuQZScu7hCDgQWxl5uy1",
+      "source": "QfW-odmDYknm_qXNcDu5o",
+      "target": "_aA6Hp4KkgJeptqo8oKTg",
+      "sourceHandle": "z2",
+      "targetHandle": "y1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-2kKHuQZScu7hCDgQWxl5ux2-cUOfvOlQ_0Uu1VX3i67kJz1",
+      "source": "HGhnbMg6jh6cAmUH4DtOx",
+      "target": "vmHbWdmMHF53otXIrqzRV",
+      "sourceHandle": "x2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-vmHbWdmMHF53otXIrqzRVy2-cUOfvOlQ_0Uu1VX3i67kJz2",
+      "source": "vmHbWdmMHF53otXIrqzRV",
+      "target": "vHojhJYjiN0IwruEqi1Dv",
+      "sourceHandle": "y2",
+      "targetHandle": "z2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-vHojhJYjiN0IwruEqi1Dvy2-cUOfvOlQ_0Uu1VX3i67kJz1",
+      "source": "vHojhJYjiN0IwruEqi1Dv",
+      "target": "Onfd7Sl8LG2sjh2aQY7gb",
+      "sourceHandle": "y2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-Onfd7Sl8LG2sjh2aQY7gby2-cUOfvOlQ_0Uu1VX3i67kJw1",
+      "source": "Onfd7Sl8LG2sjh2aQY7gb",
+      "target": "SHTSvMDqI7X1_ZT7-m--n",
+      "sourceHandle": "y2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-SHTSvMDqI7X1_ZT7-m--nz2-cUOfvOlQ_0Uu1VX3i67kJy2",
+      "source": "SHTSvMDqI7X1_ZT7-m--n",
+      "target": "cUOfvOlQ_0Uu1VX3i67kJ",
+      "sourceHandle": "z2",
+      "targetHandle": "y2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-cUOfvOlQ_0Uu1VX3i67kJz2-2kKHuQZScu7hCDgQWxl5uw2",
+      "source": "cUOfvOlQ_0Uu1VX3i67kJ",
+      "target": "y1SFX7uvWaCy4OYBnECLu",
+      "sourceHandle": "z2",
+      "targetHandle": "w2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-_aA6Hp4KkgJeptqo8oKTgz2-HGhnbMg6jh6cAmUH4DtOxw1",
+      "source": "_aA6Hp4KkgJeptqo8oKTg",
+      "target": "HGhnbMg6jh6cAmUH4DtOx",
+      "sourceHandle": "z2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-y1SFX7uvWaCy4OYBnECLux2-2kKHuQZScu7hCDgQWxl5uz1",
+      "source": "y1SFX7uvWaCy4OYBnECLu",
+      "target": "863KMXcFJzInvTp_-Ldmz",
+      "sourceHandle": "x2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-863KMXcFJzInvTp_-Ldmzy2-2kKHuQZScu7hCDgQWxl5uz2",
+      "source": "863KMXcFJzInvTp_-Ldmz",
+      "target": "rFXupYpUFfp7vZO8zh614",
+      "sourceHandle": "y2",
+      "targetHandle": "z2",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-rFXupYpUFfp7vZO8zh614y2-2kKHuQZScu7hCDgQWxl5uw1",
+      "source": "rFXupYpUFfp7vZO8zh614",
+      "target": "2kKHuQZScu7hCDgQWxl5u",
+      "sourceHandle": "y2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    },
+    {
+      "id": "reactflow__edge-2kKHuQZScu7hCDgQWxl5ux2-sVXZrBCsiSzWBBYWTm-nQw1",
+      "source": "2kKHuQZScu7hCDgQWxl5u",
+      "target": "sVXZrBCsiSzWBBYWTm-nQ",
+      "sourceHandle": "x2",
+      "targetHandle": "w1",
+      "style": {
+        "strokeDasharray": "0",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "solid"
+      },
+      "animated": false
+    }
+  ],
+  "completion": 0
+}

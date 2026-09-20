@@ -1,0 +1,4387 @@
+{
+  "id": "ai-data-scientist",
+  "slug": "ai-data-scientist",
+  "role_id": "ai-and-data-scientist",
+  "role_name": "AI and Data Scientist",
+  "career_target": "AI and Data Scientist",
+  "title": "AI and Data Scientist",
+  "description": "Step by step roadmap guide to becoming an AI and Data Scientist in @currentYear@",
+  "source": "roadmap.sh",
+  "source_url": "https://roadmap.sh/ai-data-scientist",
+  "roadmap_slug": "ai-data-scientist",
+  "last_synced_at": "2026-09-20T06:40:21.225846+00:00",
+  "dimensions": {
+    "height": 2871,
+    "width": 1128
+  },
+  "nodes": [
+    {
+      "id": "28Iu61OKR6_3BBmO8M5lg",
+      "type": "horizontal",
+      "position": {
+        "x": 481.39029212267985,
+        "y": 1925.5843010493045
+      },
+      "data": {
+        "id": "28Iu61OKR6_3BBmO8M5lg",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "q_oYxEPUvEylwjAyDA5FL",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "28Iu61OKR6_3BBmO8M5lg"
+      },
+      "width": 290,
+      "height": 20,
+      "style": {
+        "width": 290,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "0dVq5C16sFyWglWitQQdD",
+      "type": "horizontal",
+      "position": {
+        "x": 542.8902921226799,
+        "y": 1266.7340815556822
+      },
+      "data": {
+        "id": "0dVq5C16sFyWglWitQQdD",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "ofcYD3hTVEMeRptkHsVer",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "0dVq5C16sFyWglWitQQdD"
+      },
+      "width": 244,
+      "height": 20,
+      "style": {
+        "width": 244,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Vdw0GAnxhDCj_C3XDxNDF",
+      "type": "horizontal",
+      "position": {
+        "x": 192.89029212267985,
+        "y": 1266.7340815556822
+      },
+      "data": {
+        "id": "Vdw0GAnxhDCj_C3XDxNDF",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "q_oYxEPUvEylwjAyDA5FL",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Vdw0GAnxhDCj_C3XDxNDF"
+      },
+      "width": 78,
+      "height": 20,
+      "style": {
+        "width": 78,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Z4MOOqNXpHkxWe0PJ7hjt",
+      "type": "horizontal",
+      "position": {
+        "x": -82.10970787732015,
+        "y": 132.4007482223489
+      },
+      "data": {
+        "id": "Z4MOOqNXpHkxWe0PJ7hjt",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "3_CBtQLv0X6GzUEtq7jyp",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Z4MOOqNXpHkxWe0PJ7hjt"
+      },
+      "width": 344,
+      "height": 20,
+      "style": {
+        "width": 344,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "JHqi_gjATUrPtewn-cdGo",
+      "type": "vertical",
+      "position": {
+        "x": -164.10970787732015,
+        "y": 46.40074822234891
+      },
+      "data": {
+        "id": "JHqi_gjATUrPtewn-cdGo",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "JHqi_gjATUrPtewn-cdGo"
+      },
+      "width": 21,
+      "height": 109,
+      "style": {
+        "width": 21,
+        "height": 109
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "3_CBtQLv0X6GzUEtq7jyp",
+      "type": "horizontal",
+      "position": {
+        "x": 434.89029212267985,
+        "y": 133.4007482223489
+      },
+      "data": {
+        "id": "3_CBtQLv0X6GzUEtq7jyp",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "3_CBtQLv0X6GzUEtq7jyp"
+      },
+      "width": 354,
+      "height": 20,
+      "style": {
+        "width": 354,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "aq0gNWINbAQFG28HLJgCF",
+      "type": "horizontal",
+      "position": {
+        "x": -82.10970787732015,
+        "y": 453.9007482223489
+      },
+      "data": {
+        "id": "aq0gNWINbAQFG28HLJgCF",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "ofcYD3hTVEMeRptkHsVer",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "aq0gNWINbAQFG28HLJgCF"
+      },
+      "width": 339,
+      "height": 20,
+      "style": {
+        "width": 331,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "c58fcsthBlVfzfr-MHdpF",
+      "type": "vertical",
+      "position": {
+        "x": -164.10970787732015,
+        "y": -107.59925177765109
+      },
+      "data": {
+        "id": "c58fcsthBlVfzfr-MHdpF",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "c58fcsthBlVfzfr-MHdpF"
+      },
+      "width": 21,
+      "height": 86,
+      "style": {
+        "width": 21,
+        "height": 86
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Ji35JsKgUQXN4DJGEgTAC",
+      "type": "title",
+      "position": {
+        "x": -271.10970787732015,
+        "y": -21.59925177765109
+      },
+      "data": {
+        "id": "Ji35JsKgUQXN4DJGEgTAC",
+        "label": "AI and Data Scientist",
+        "topic": "AI and Data Scientist",
+        "oldId": null,
+        "style": {
+          "fontSize": 28,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Ji35JsKgUQXN4DJGEgTAC"
+      },
+      "width": 305,
+      "height": 68,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "aStaDENn5PhEa-cFvNzXa",
+      "type": "topic",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 118.90074822234891
+      },
+      "data": {
+        "id": "aStaDENn5PhEa-cFvNzXa",
+        "label": "Mathematics",
+        "topic": "Mathematics",
+        "oldId": "kBdt_t2SvVsY3blfubWIz",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Mathematics provides the foundational language and tools for understanding and building algorithms. It encompasses concepts like linear algebra (for manipulating data), calculus (for optimization), probability and statistics (for understanding uncertainty and drawing inferences), and discrete mathematics (for reasoning about data structures and algorithms). These mathematical principles enable the development, analysis, and interpretation of models used in artificial intelligence and data science.",
+        "resources": [
+          {
+            "title": "Linear Algebra Done Right - Sheldon Axler",
+            "type": "Book",
+            "url": "https://linear.axler.net/LADR4e.pdf",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "aStaDENn5PhEa-cFvNzXa"
+      },
+      "width": 145,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "4WZL_fzJ3cZdWLLDoWN8D",
+      "type": "topic",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 118.90074822234891
+      },
+      "data": {
+        "id": "4WZL_fzJ3cZdWLLDoWN8D",
+        "label": "Statistics",
+        "topic": "Statistics",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Statistics is the science of collecting, analyzing, interpreting, presenting, and organizing data. It is a branch of mathematics that deals with the collection, analysis, interpretation, presentation, and organization of data. It is used in a wide range of fields, including science, engineering, medicine, and social science. Statistics is used to make informed decisions, to predict future events, and to test hypotheses. It is also used to summarize data, to describe relationships between variables, and to make inferences about populations based on samples.",
+        "resources": [
+          {
+            "title": "Statistics and Probability (Khan Academy)",
+            "type": "Course",
+            "url": "https://www.khanacademy.org/math/statistics-probability",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "OpenIntro Statistics (free textbook)",
+            "type": "Book",
+            "url": "https://www.openintro.org/book/os/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Statistics with Python Specialization",
+            "type": "Course",
+            "url": "https://www.coursera.org/specializations/statistics-with-python",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "StatQuest with Josh Starmer",
+            "type": "Video",
+            "url": "https://www.youtube.com/@statquest",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "4WZL_fzJ3cZdWLLDoWN8D"
+      },
+      "width": 161,
+      "height": 49,
+      "style": {
+        "width": 161,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "gWMvD83hVXeTmCuHGIiOL",
+      "type": "todo",
+      "position": {
+        "x": -226.10970787732015,
+        "y": 200.4007482223489
+      },
+      "data": {
+        "id": "gWMvD83hVXeTmCuHGIiOL",
+        "label": "Linear Algebra, Calculus, Mathematical Analysis",
+        "topic": "Linear Algebra, Calculus, Mathematical Analysis",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "gWMvD83hVXeTmCuHGIiOL"
+      },
+      "width": 417,
+      "height": 38,
+      "style": {
+        "width": 417,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "HclEU3v8OdC_Oq7ONvApt",
+      "type": "resourceButton",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 238.4007482223489
+      },
+      "data": {
+        "id": "HclEU3v8OdC_Oq7ONvApt",
+        "label": "Mathematics for Machine Learning",
+        "topic": "Mathematics for Machine Learning",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "HclEU3v8OdC_Oq7ONvApt"
+      },
+      "width": 433,
+      "height": 49,
+      "style": {
+        "width": 433,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "mwPJh33MEUQ4Co_LiVEOb",
+      "type": "todo",
+      "position": {
+        "x": -226.10970787732015,
+        "y": 307.4007482223489
+      },
+      "data": {
+        "id": "mwPJh33MEUQ4Co_LiVEOb",
+        "label": "Differential Calculus ",
+        "topic": "Differential Calculus ",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "mwPJh33MEUQ4Co_LiVEOb"
+      },
+      "width": 247,
+      "height": 38,
+      "style": {
+        "width": 247,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Py2ZgxmPRQ620cuOj_Cig",
+      "type": "resourceButton",
+      "position": {
+        "x": -196.10970787732015,
+        "y": 349.4007482223489
+      },
+      "data": {
+        "id": "Py2ZgxmPRQ620cuOj_Cig",
+        "label": "Coursera: Algebra and Differential Calculus",
+        "topic": "Coursera: Algebra and Differential Calculus",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Py2ZgxmPRQ620cuOj_Cig"
+      },
+      "width": 429,
+      "height": 49,
+      "style": {
+        "width": 429,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Y9YJdARIRqqCBCy3GVYdA",
+      "type": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 200.4007482223489
+      },
+      "data": {
+        "id": "Y9YJdARIRqqCBCy3GVYdA",
+        "label": "Statistics, CLT",
+        "topic": "Statistics, CLT",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Y9YJdARIRqqCBCy3GVYdA"
+      },
+      "width": 155,
+      "height": 38,
+      "style": {
+        "width": 155,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "O-9EsoKrMpfkcGIBKnSty",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 238.4007482223489
+      },
+      "data": {
+        "id": "O-9EsoKrMpfkcGIBKnSty",
+        "label": "Coursera: Introduction to Statistics",
+        "topic": "Coursera: Introduction to Statistics",
+        "oldId": "R0lIHKW2JmXQp79hoGU6x",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "O-9EsoKrMpfkcGIBKnSty"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "XJXIkWVDIrPJ-bVIvX0ZO",
+      "type": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 307.4007482223489
+      },
+      "data": {
+        "id": "XJXIkWVDIrPJ-bVIvX0ZO",
+        "label": "Hypothesis Testing",
+        "topic": "Hypothesis Testing",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "XJXIkWVDIrPJ-bVIvX0ZO"
+      },
+      "width": 199,
+      "height": 38,
+      "style": {
+        "width": 199,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "5_wxpYdzweUkSMugiKV94",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 344.4007482223489
+      },
+      "data": {
+        "id": "5_wxpYdzweUkSMugiKV94",
+        "label": "Coursera: Hypothesis Testing",
+        "topic": "Coursera: Hypothesis Testing",
+        "oldId": "R0lIHKW2JmXQp79hoGU6x",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "5_wxpYdzweUkSMugiKV94"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "jxJtwbiCvxHqmkWkE7zdx",
+      "type": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 408.4007482223489
+      },
+      "data": {
+        "id": "jxJtwbiCvxHqmkWkE7zdx",
+        "label": "Probability and Sampling",
+        "topic": "Probability and Sampling",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "jxJtwbiCvxHqmkWkE7zdx"
+      },
+      "width": 246,
+      "height": 38,
+      "style": {
+        "width": 246,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "jIeLbbE0KYjoQo0t0CVXm",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 439.4007482223489
+      },
+      "data": {
+        "id": "jIeLbbE0KYjoQo0t0CVXm",
+        "label": "Coursera: Probability and Statistics",
+        "topic": "Coursera: Probability and Statistics",
+        "oldId": "R0lIHKW2JmXQp79hoGU6x",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "jIeLbbE0KYjoQo0t0CVXm"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "mJq9b50MJM9o9dLhx40iN",
+      "type": "todo",
+      "position": {
+        "x": 279.89029212267985,
+        "y": 511.40074822234897
+      },
+      "data": {
+        "id": "mJq9b50MJM9o9dLhx40iN",
+        "label": "AB Testing",
+        "topic": "AB Testing",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "mJq9b50MJM9o9dLhx40iN"
+      },
+      "width": 150,
+      "height": 38,
+      "style": {
+        "width": 150,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "lrDei3AUInJZ1ISDxOxdT",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 549.400748222349
+      },
+      "data": {
+        "id": "lrDei3AUInJZ1ISDxOxdT",
+        "label": "Practitioner's Guide to Statistical Tests",
+        "topic": "Practitioner's Guide to Statistical Tests",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "lrDei3AUInJZ1ISDxOxdT"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "R0lIHKW2JmXQp79hoGU6x",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 603.400748222349
+      },
+      "data": {
+        "id": "R0lIHKW2JmXQp79hoGU6x",
+        "label": "Experiment Design Article",
+        "topic": "Experiment Design Article",
+        "oldId": "Py2ZgxmPRQ620cuOj_Cig",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "R0lIHKW2JmXQp79hoGU6x"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "v68nwX914qCwHDSwY_ZhG",
+      "type": "todo",
+      "position": {
+        "x": 282.89029212267985,
+        "y": 669.400748222349
+      },
+      "data": {
+        "id": "v68nwX914qCwHDSwY_ZhG",
+        "label": "Increasing Test Sensitivity",
+        "topic": "Increasing Test Sensitivity",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "v68nwX914qCwHDSwY_ZhG"
+      },
+      "width": 256,
+      "height": 38,
+      "style": {
+        "width": 256,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "G6wxStgN1ShtD6RR2xVc-",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 700.400748222349
+      },
+      "data": {
+        "id": "G6wxStgN1ShtD6RR2xVc-",
+        "label": "Minimum Detectable Effect",
+        "topic": "Minimum Detectable Effect",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "G6wxStgN1ShtD6RR2xVc-"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Pu6kiJ0YOvtD6AypKWkfJ",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 753.400748222349
+      },
+      "data": {
+        "id": "Pu6kiJ0YOvtD6AypKWkfJ",
+        "label": "Paper: Improving Test Sensitivity",
+        "topic": "Paper: Improving Test Sensitivity",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Pu6kiJ0YOvtD6AypKWkfJ"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "usXkw57ukCuc9gAw6E5Td",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 806.400748222349
+      },
+      "data": {
+        "id": "usXkw57ukCuc9gAw6E5Td",
+        "label": "Paper: Improving Sensitivity (CUPED)",
+        "topic": "Paper: Improving Sensitivity (CUPED)",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "usXkw57ukCuc9gAw6E5Td"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "T0suD_0uw6nSq7NOFBoNQ",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 859.400748222349
+      },
+      "data": {
+        "id": "T0suD_0uw6nSq7NOFBoNQ",
+        "label": "CUPED at Booking.com",
+        "topic": "CUPED at Booking.com",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "T0suD_0uw6nSq7NOFBoNQ"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Vx5zD4Y-6yLxorD8kNvop",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 912.400748222349
+      },
+      "data": {
+        "id": "Vx5zD4Y-6yLxorD8kNvop",
+        "label": "Doordash: CUPAC",
+        "topic": "Doordash: CUPAC",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Vx5zD4Y-6yLxorD8kNvop"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "bdAl2ne0fsE1R02wWdIK9",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 965.400748222349
+      },
+      "data": {
+        "id": "bdAl2ne0fsE1R02wWdIK9",
+        "label": "Netflix: Stratification",
+        "topic": "Netflix: Stratification",
+        "oldId": "R0lIHKW2JmXQp79hoGU6x",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "bdAl2ne0fsE1R02wWdIK9"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "n2JFGwFxTuOviW6kHO1Uv",
+      "type": "todo",
+      "position": {
+        "x": 282.89029212267985,
+        "y": 1036.400748222349
+      },
+      "data": {
+        "id": "n2JFGwFxTuOviW6kHO1Uv",
+        "label": "Ratio Metrics",
+        "topic": "Ratio Metrics",
+        "oldId": "mwPJh33MEUQ4Co_LiVEOb",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "n2JFGwFxTuOviW6kHO1Uv"
+      },
+      "width": 180,
+      "height": 38,
+      "style": {
+        "width": 180,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "nW_wSh-PoSlmOONP48UDD",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1072.400748222349
+      },
+      "data": {
+        "id": "nW_wSh-PoSlmOONP48UDD",
+        "label": "Microsoft: Delta Method in Metric Analytics",
+        "topic": "Microsoft: Delta Method in Metric Analytics",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "nW_wSh-PoSlmOONP48UDD"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "KiaiatCPngkVem7Bw3s0T",
+      "type": "resourceButton",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1125.400748222349
+      },
+      "data": {
+        "id": "KiaiatCPngkVem7Bw3s0T",
+        "label": "Paper: Ratio Metrics",
+        "topic": "Paper: Ratio Metrics",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "KiaiatCPngkVem7Bw3s0T"
+      },
+      "width": 441,
+      "height": 49,
+      "style": {
+        "width": 441,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "o_Ddc5iv9y4ZLUjmUTvP-",
+      "type": "label",
+      "position": {
+        "x": -232.71752171424652,
+        "y": 125.40074822234891
+      },
+      "data": {
+        "id": "o_Ddc5iv9y4ZLUjmUTvP-",
+        "label": "1",
+        "topic": "1",
+        "oldId": "wOqfPAZ24GxUrkxVRRyT5",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "o_Ddc5iv9y4ZLUjmUTvP-"
+      },
+      "width": 24,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "B3ZzcZspEctJ2kX6At0tb",
+      "type": "label",
+      "position": {
+        "x": 273.89029212267985,
+        "y": 125.40074822234891
+      },
+      "data": {
+        "id": "B3ZzcZspEctJ2kX6At0tb",
+        "label": "2",
+        "topic": "2",
+        "oldId": "qRxvTDjpoW1GuQ771syXb",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "B3ZzcZspEctJ2kX6At0tb"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "Io-XP7K1_siYDrlwFmbEx",
+      "type": "label",
+      "position": {
+        "x": -200.10970787732015,
+        "y": 445.78255589147204
+      },
+      "data": {
+        "id": "Io-XP7K1_siYDrlwFmbEx",
+        "label": "3",
+        "topic": "3",
+        "oldId": "wOqfPAZ24GxUrkxVRRyT5",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Io-XP7K1_siYDrlwFmbEx"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "Gd2egqKZPnbPW1W2jw4j8",
+      "type": "topic",
+      "position": {
+        "x": -163.75449749114952,
+        "y": 439.28255589147204
+      },
+      "data": {
+        "id": "Gd2egqKZPnbPW1W2jw4j8",
+        "label": "Econometrics",
+        "topic": "Econometrics",
+        "oldId": "kBdt_t2SvVsY3blfubWIz",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Econometrics is the application of statistical methods to economic data. It is a branch of economics that aims to give empirical content to economic relations. More precisely, it is \"the quantitative analysis of actual economic phenomena based on the concurrent development of theory and observation, related by appropriate methods of inference.\" Econometrics can be described as something that allows economists \"to sift through mountains of data to extract simple relationships.\"",
+        "resources": [
+          {
+            "title": "Econometrics (MIT OpenCourseWare)",
+            "type": "Documentation",
+            "url": "https://ocw.mit.edu/courses/14-382-econometrics-spring-2017/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Econometrics: Methods and Applications",
+            "type": "Course",
+            "url": "https://www.coursera.org/learn/erasmus-econometrics",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Lecture Notes and Short Texts in Econometrics",
+            "type": "Article",
+            "url": "https://economicsnetwork.ac.uk/teaching/Lecture%20Notes%20and%20Short%20Texts/Econometrics",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Gd2egqKZPnbPW1W2jw4j8"
+      },
+      "width": 144,
+      "height": 49,
+      "style": {
+        "width": 144,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "EqgwFsJqejdABpTBoxOix",
+      "type": "vertical",
+      "position": {
+        "x": 246.89029212267985,
+        "y": 463.9007482223489
+      },
+      "data": {
+        "id": "EqgwFsJqejdABpTBoxOix",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "rKb8lqYH0GC_6R5qybzzM",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "EqgwFsJqejdABpTBoxOix"
+      },
+      "width": 21,
+      "height": 747,
+      "style": {
+        "width": 21,
+        "height": 747
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "GFlPWkEVwPlxPhOitG1xH",
+      "type": "horizontal",
+      "position": {
+        "x": 256,
+        "y": 1200.900748222349
+      },
+      "data": {
+        "id": "GFlPWkEVwPlxPhOitG1xH",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "GFlPWkEVwPlxPhOitG1xH"
+      },
+      "width": 533,
+      "height": 20,
+      "style": {
+        "width": 544,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "h9_7FHMPipHVN7C4ErKHU",
+      "type": "vertical",
+      "position": {
+        "x": 778,
+        "y": 141.9007482223489
+      },
+      "data": {
+        "id": "h9_7FHMPipHVN7C4ErKHU",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "FsU7_B1LCULtlVQg7gEPR",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "h9_7FHMPipHVN7C4ErKHU"
+      },
+      "width": 21,
+      "height": 1069,
+      "style": {
+        "width": 21,
+        "height": 1069
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "y6xXsc-uSAmRDnNuyhqH2",
+      "type": "todo",
+      "position": {
+        "x": -226.10970787732018,
+        "y": 517.6026955968633
+      },
+      "data": {
+        "id": "y6xXsc-uSAmRDnNuyhqH2",
+        "label": "Pre-requisites of Econometrics",
+        "topic": "Pre-requisites of Econometrics",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "y6xXsc-uSAmRDnNuyhqH2"
+      },
+      "width": 304,
+      "height": 38,
+      "style": {
+        "width": 304,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2rt4WE9cE93K6vDM-c-IL",
+      "type": "resourceButton",
+      "position": {
+        "x": -196.10970787732018,
+        "y": 548.6026955968633
+      },
+      "data": {
+        "id": "2rt4WE9cE93K6vDM-c-IL",
+        "label": "Fundamentals of Econometrics",
+        "topic": "Fundamentals of Econometrics",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2rt4WE9cE93K6vDM-c-IL"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "h19k9Fn5XPh3_pKEC8Ftp",
+      "type": "todo",
+      "position": {
+        "x": -226.10970787732018,
+        "y": 621.1026955968633
+      },
+      "data": {
+        "id": "h19k9Fn5XPh3_pKEC8Ftp",
+        "label": "Regression, Timeseries, Fitting Distributions",
+        "topic": "Regression, Timeseries, Fitting Distributions",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "h19k9Fn5XPh3_pKEC8Ftp"
+      },
+      "width": 384,
+      "height": 38,
+      "style": {
+        "width": 384,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Eu7OT0Q7mtrMseUVumGXA",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 658.6026955968633
+      },
+      "data": {
+        "id": "Eu7OT0Q7mtrMseUVumGXA",
+        "label": "Intro to Econometrics",
+        "topic": "Intro to Econometrics",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Eu7OT0Q7mtrMseUVumGXA"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "hVOt_Ya86r_SIXJBkLXBj",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 711.6026955968633
+      },
+      "data": {
+        "id": "hVOt_Ya86r_SIXJBkLXBj",
+        "label": "Coursera: Econometrics",
+        "topic": "Coursera: Econometrics",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "hVOt_Ya86r_SIXJBkLXBj"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "YU_5XufdA-zfhM0fXxGYs",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 784.6026955968633
+      },
+      "data": {
+        "id": "YU_5XufdA-zfhM0fXxGYs",
+        "label": "Kaggle: Learn Time Series",
+        "topic": "Kaggle: Learn Time Series",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "YU_5XufdA-zfhM0fXxGYs"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "9mB3u8st5yhM7HfVWWqFZ",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 837.6026955968633
+      },
+      "data": {
+        "id": "9mB3u8st5yhM7HfVWWqFZ",
+        "label": "Kaggle: Time Series Basics",
+        "topic": "Kaggle: Time Series Basics",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "9mB3u8st5yhM7HfVWWqFZ"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "FwuC8d9ocHeDxi8MSIPH6",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 890.6026955968633
+      },
+      "data": {
+        "id": "FwuC8d9ocHeDxi8MSIPH6",
+        "label": "ARIMA model for Time Series",
+        "topic": "ARIMA model for Time Series",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "FwuC8d9ocHeDxi8MSIPH6"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "53Z3qm-zP4u7_KqSD_XlB",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732006,
+        "y": 943.6026955968633
+      },
+      "data": {
+        "id": "53Z3qm-zP4u7_KqSD_XlB",
+        "label": "Time Series Models",
+        "topic": "Time Series Models",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "53Z3qm-zP4u7_KqSD_XlB"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "LVLv69h57rnKPKpa0Cj4h",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732006,
+        "y": 996.6026955968633
+      },
+      "data": {
+        "id": "LVLv69h57rnKPKpa0Cj4h",
+        "label": "Forecasting Task with Solution",
+        "topic": "Forecasting Task with Solution",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "LVLv69h57rnKPKpa0Cj4h"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "FrY1Yl6yvLYA5zjBNKRVx",
+      "type": "resourceButton",
+      "position": {
+        "x": -191.10970787732018,
+        "y": 1063.6026955968632
+      },
+      "data": {
+        "id": "FrY1Yl6yvLYA5zjBNKRVx",
+        "label": "Coursera: Linear Regression",
+        "topic": "Coursera: Linear Regression",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "FrY1Yl6yvLYA5zjBNKRVx"
+      },
+      "width": 419,
+      "height": 49,
+      "style": {
+        "width": 419,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "XLDWuSt4tI4gnmqMFdpmy",
+      "type": "topic",
+      "position": {
+        "x": -153.75449749114952,
+        "y": 1159.900748222349
+      },
+      "data": {
+        "id": "XLDWuSt4tI4gnmqMFdpmy",
+        "label": "Coding",
+        "topic": "Coding",
+        "oldId": "Qa85hEVe2kz62k9Pj4QCA",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Programming is a fundamental skill for data scientists. You need to be able to write code to manipulate data, build models, and deploy solutions. The most common programming languages used in data science are Python and R. Python is a general-purpose programming language that is easy to learn and has a large number of libraries for data manipulation and machine learning. R is a programming language and free software environment for statistical computing and graphics. It is widely used for statistical analysis and data visualization.",
+        "resources": [
+          {
+            "title": "The Python Tutorial",
+            "type": "Documentation",
+            "url": "https://docs.python.org/3/tutorial/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "The R Manuals (CRAN)",
+            "type": "Documentation",
+            "url": "https://cran.r-project.org/manuals.html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Python for Data Science, AI & Development",
+            "type": "Course",
+            "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Kaggle Learn: Python",
+            "type": "Course",
+            "url": "https://www.kaggle.com/learn/python",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Introduction to Data Science with Python (Harvard)",
+            "type": "Article",
+            "url": "https://pll.harvard.edu/course/introduction-data-science-python",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "XLDWuSt4tI4gnmqMFdpmy"
+      },
+      "width": 101,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "HVHYJ8gWHCZMACuvKP7gK",
+      "type": "label",
+      "position": {
+        "x": -188.75449749114966,
+        "y": 1166.400748222349
+      },
+      "data": {
+        "id": "HVHYJ8gWHCZMACuvKP7gK",
+        "label": "4",
+        "topic": "4",
+        "oldId": "Sehg_WX_mnMCRlKrvwWzc",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "HVHYJ8gWHCZMACuvKP7gK"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "27CsPu77wfCw4uI0Tu45e",
+      "type": "vertical",
+      "position": {
+        "x": -266.2175217142465,
+        "y": 463.28255589147204
+      },
+      "data": {
+        "id": "27CsPu77wfCw4uI0Tu45e",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "kBQV71KwuVxpUi0nFj17X",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "27CsPu77wfCw4uI0Tu45e"
+      },
+      "width": 21,
+      "height": 722,
+      "style": {
+        "width": 21,
+        "height": 722
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "MVrAqizgkoAs2aghN8TgV",
+      "type": "todo",
+      "position": {
+        "x": -253.75449749114952,
+        "y": 1233.900748222349
+      },
+      "data": {
+        "id": "MVrAqizgkoAs2aghN8TgV",
+        "label": "Learn Python Programming Language",
+        "topic": "Learn Python Programming Language",
+        "oldId": "uPzzUpI0--7OWDfNeBIjt",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "MVrAqizgkoAs2aghN8TgV"
+      },
+      "width": 344,
+      "height": 38,
+      "style": {
+        "width": 344,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "aRYOzyqvWmarRmNaPKqxI",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1273.94348613687
+      },
+      "data": {
+        "id": "aRYOzyqvWmarRmNaPKqxI",
+        "label": "Learn Python: Kaggle",
+        "topic": "Learn Python: Kaggle",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "aRYOzyqvWmarRmNaPKqxI"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "eUQRHOSQq0hjwH0LuGDqY",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1327.94348613687
+      },
+      "data": {
+        "id": "eUQRHOSQq0hjwH0LuGDqY",
+        "label": "Google's Python Class",
+        "topic": "Google's Python Class",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "eUQRHOSQq0hjwH0LuGDqY"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "R2WD0NKP7oM27aHr9SpO6",
+      "type": "horizontal",
+      "position": {
+        "x": -257.93697112052075,
+        "y": 453.78255589147204
+      },
+      "data": {
+        "id": "R2WD0NKP7oM27aHr9SpO6",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "iJv3Ii5B5TK8i5mN2mLs2",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "R2WD0NKP7oM27aHr9SpO6"
+      },
+      "width": 51,
+      "height": 20,
+      "style": {
+        "width": 51,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "36wmSfRpWOnprqPo4C7QA",
+      "type": "horizontal",
+      "position": {
+        "x": -257.93697112052075,
+        "y": 1174.400748222349
+      },
+      "data": {
+        "id": "36wmSfRpWOnprqPo4C7QA",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "iJv3Ii5B5TK8i5mN2mLs2",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "36wmSfRpWOnprqPo4C7QA"
+      },
+      "width": 66,
+      "height": 20,
+      "style": {
+        "width": 66,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "StBCykpzpM4g9PRFeSNXa",
+      "type": "todo",
+      "position": {
+        "x": -252.60970787732018,
+        "y": 1405.2347754827133
+      },
+      "data": {
+        "id": "StBCykpzpM4g9PRFeSNXa",
+        "label": "Data Structures and Algorithms (Python)",
+        "topic": "Data Structures and Algorithms (Python)",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "StBCykpzpM4g9PRFeSNXa"
+      },
+      "width": 362,
+      "height": 38,
+      "style": {
+        "width": 362,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "lhLL1ycUWgeX_d5gd-g8g",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1497.72719179845
+      },
+      "data": {
+        "id": "lhLL1ycUWgeX_d5gd-g8g",
+        "label": "Study Plans - Leetcode",
+        "topic": "Study Plans - Leetcode",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "lhLL1ycUWgeX_d5gd-g8g"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "4_5Q9PesKAtnLlT-NAm3z",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1442.932766177383
+      },
+      "data": {
+        "id": "4_5Q9PesKAtnLlT-NAm3z",
+        "label": "Algorithmic Exercises",
+        "topic": "Algorithmic Exercises",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "4_5Q9PesKAtnLlT-NAm3z"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Bh3vUHjY9So8vWli_464_",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1551.72719179845
+      },
+      "data": {
+        "id": "Bh3vUHjY9So8vWli_464_",
+        "label": "Algorithms Specialization",
+        "topic": "Algorithms Specialization",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Bh3vUHjY9So8vWli_464_"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Im0tXXn3GC-FUq2aMHgwm",
+      "type": "todo",
+      "position": {
+        "x": -252.60970787732018,
+        "y": 1625.613764362119
+      },
+      "data": {
+        "id": "Im0tXXn3GC-FUq2aMHgwm",
+        "label": "Learn SQL",
+        "topic": "Learn SQL",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Im0tXXn3GC-FUq2aMHgwm"
+      },
+      "width": 134,
+      "height": 38,
+      "style": {
+        "width": 134,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "22XRxoVJX-hIdinkFICPU",
+      "type": "resourceButton",
+      "position": {
+        "x": -227.93697112052075,
+        "y": 1667.4659358409885
+      },
+      "data": {
+        "id": "22XRxoVJX-hIdinkFICPU",
+        "label": "SQL Tutorial",
+        "topic": "SQL Tutorial",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "22XRxoVJX-hIdinkFICPU"
+      },
+      "width": 387,
+      "height": 49,
+      "style": {
+        "width": 387,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Sx6HhmEozlX7CEXQoVkTf",
+      "type": "vertical",
+      "position": {
+        "x": 182.89029212267985,
+        "y": 1183
+      },
+      "data": {
+        "id": "Sx6HhmEozlX7CEXQoVkTf",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "rKb8lqYH0GC_6R5qybzzM",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Sx6HhmEozlX7CEXQoVkTf"
+      },
+      "width": 21,
+      "height": 96,
+      "style": {
+        "width": 21,
+        "height": 96
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "l1027SBZxTHKzqWw98Ee-",
+      "type": "topic",
+      "position": {
+        "x": 304.89029212267985,
+        "y": 1252.2340815556822
+      },
+      "data": {
+        "id": "l1027SBZxTHKzqWw98Ee-",
+        "label": "Exploratory Data Analysis",
+        "topic": "Exploratory Data Analysis",
+        "oldId": "kBdt_t2SvVsY3blfubWIz",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Exploratory Data Analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. EDA is used to understand what the data can tell us beyond the formal modeling or hypothesis testing task. It is a crucial step in the data analysis process.",
+        "resources": [
+          {
+            "title": "pandas User Guide: Essential Basic Functionality",
+            "type": "Documentation",
+            "url": "https://pandas.pydata.org/docs/user_guide/basics.html",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Exploratory Data Analysis with Python and Pandas",
+            "type": "Course",
+            "url": "https://www.coursera.org/projects/exploratory-data-analysis-python-pandas",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Exploratory Data Analysis in Python",
+            "type": "Article",
+            "url": "https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          },
+          {
+            "title": "Step-by-Step Exploratory Data Analysis (EDA) using Python",
+            "type": "Article",
+            "url": "https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "l1027SBZxTHKzqWw98Ee-"
+      },
+      "width": 239,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "YJ2fIGILZJjobx5CAD6QW",
+      "type": "label",
+      "position": {
+        "x": 273.89029212267985,
+        "y": 1258.7340815556822
+      },
+      "data": {
+        "id": "YJ2fIGILZJjobx5CAD6QW",
+        "label": "5",
+        "topic": "5",
+        "oldId": "wOqfPAZ24GxUrkxVRRyT5",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "YJ2fIGILZJjobx5CAD6QW"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "JaN8YhMeN3whAe2TCXvw9",
+      "type": "todo",
+      "position": {
+        "x": 245,
+        "y": 1327.94348613687
+      },
+      "data": {
+        "id": "JaN8YhMeN3whAe2TCXvw9",
+        "label": "Data understanding, Data Analysis and Visualization",
+        "topic": "Data understanding, Data Analysis and Visualization",
+        "oldId": "uPzzUpI0--7OWDfNeBIjt",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "JaN8YhMeN3whAe2TCXvw9"
+      },
+      "width": 461,
+      "height": 38,
+      "style": {
+        "width": 461,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "wG3LU8181BGihDVYJVI09",
+      "type": "resourceButton",
+      "position": {
+        "x": 278,
+        "y": 1366.2347754827133
+      },
+      "data": {
+        "id": "wG3LU8181BGihDVYJVI09",
+        "label": "Exploratory Data Analysis with Python and Pandas",
+        "topic": "Exploratory Data Analysis with Python and Pandas",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "wG3LU8181BGihDVYJVI09"
+      },
+      "width": 478,
+      "height": 49,
+      "style": {
+        "width": 478,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "R4MhS5WFGaGOLNq6SRpy0",
+      "type": "resourceButton",
+      "position": {
+        "x": 278,
+        "y": 1419.2347754827133
+      },
+      "data": {
+        "id": "R4MhS5WFGaGOLNq6SRpy0",
+        "label": "Exploratory Data Analysis for Machine Learning",
+        "topic": "Exploratory Data Analysis for Machine Learning",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "R4MhS5WFGaGOLNq6SRpy0"
+      },
+      "width": 478,
+      "height": 49,
+      "style": {
+        "width": 478,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "mpPs2k7oT7EWrhQwaoPXr",
+      "type": "resourceButton",
+      "position": {
+        "x": 278,
+        "y": 1472.2347754827133
+      },
+      "data": {
+        "id": "mpPs2k7oT7EWrhQwaoPXr",
+        "label": "Exploratory Data Analysis with Seaborn",
+        "topic": "Exploratory Data Analysis with Seaborn",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "mpPs2k7oT7EWrhQwaoPXr"
+      },
+      "width": 478,
+      "height": 49,
+      "style": {
+        "width": 478,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "FsU7_B1LCULtlVQg7gEPR",
+      "type": "vertical",
+      "position": {
+        "x": 776,
+        "y": 1275.5
+      },
+      "data": {
+        "id": "FsU7_B1LCULtlVQg7gEPR",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "FsU7_B1LCULtlVQg7gEPR"
+      },
+      "width": 21,
+      "height": 288,
+      "style": {
+        "width": 21,
+        "height": 288
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "ofcYD3hTVEMeRptkHsVer",
+      "type": "horizontal",
+      "position": {
+        "x": 525.8902921226799,
+        "y": 1551.72719179845
+      },
+      "data": {
+        "id": "ofcYD3hTVEMeRptkHsVer",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "GFlPWkEVwPlxPhOitG1xH",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "ofcYD3hTVEMeRptkHsVer"
+      },
+      "width": 261,
+      "height": 20,
+      "style": {
+        "width": 261,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "kBdt_t2SvVsY3blfubWIz",
+      "type": "topic",
+      "position": {
+        "x": 336.89029212267985,
+        "y": 1537.22719179845
+      },
+      "data": {
+        "id": "kBdt_t2SvVsY3blfubWIz",
+        "label": "Machine Learning",
+        "topic": "Machine Learning",
+        "oldId": "4WZL_fzJ3cZdWLLDoWN8D",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Machine learning involves creating algorithms that allow computer systems to learn from data without being explicitly programmed. These algorithms identify patterns, make predictions, and improve their performance over time through experience. The learning process can be supervised, unsupervised, or reinforcement-based, depending on the type of data and the desired outcome.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated Machine Learning Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/machine-learning",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kBdt_t2SvVsY3blfubWIz"
+      },
+      "width": 207,
+      "height": 49,
+      "style": {
+        "width": 207,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "wOqfPAZ24GxUrkxVRRyT5",
+      "type": "label",
+      "position": {
+        "x": 299.89029212267985,
+        "y": 1543.72719179845
+      },
+      "data": {
+        "id": "wOqfPAZ24GxUrkxVRRyT5",
+        "label": "6",
+        "topic": "6",
+        "oldId": "qRxvTDjpoW1GuQ771syXb",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "wOqfPAZ24GxUrkxVRRyT5"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "oeNjgke33Daibit1E6Rqr",
+      "type": "horizontal",
+      "position": {
+        "x": 211.89029212267985,
+        "y": 1551.72719179845
+      },
+      "data": {
+        "id": "oeNjgke33Daibit1E6Rqr",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "q_oYxEPUvEylwjAyDA5FL",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "oeNjgke33Daibit1E6Rqr"
+      },
+      "width": 88,
+      "height": 20,
+      "style": {
+        "width": 88,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "FdBih8tlGPPy97YWq463y",
+      "type": "todo",
+      "position": {
+        "x": 245,
+        "y": 1619.1289204774196
+      },
+      "data": {
+        "id": "FdBih8tlGPPy97YWq463y",
+        "label": "Classic ML (Sup., Unsup.), Advanced ML (Ensembles, NNs)",
+        "topic": "Classic ML (Sup., Unsup.), Advanced ML (Ensembles, NNs)",
+        "oldId": "uPzzUpI0--7OWDfNeBIjt",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "FdBih8tlGPPy97YWq463y"
+      },
+      "width": 536,
+      "height": 38,
+      "style": {
+        "width": 536,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "MyBAdtFSNVOnpw1BPQNky",
+      "type": "resourceButton",
+      "position": {
+        "x": 272,
+        "y": 1657.1289204774196
+      },
+      "data": {
+        "id": "MyBAdtFSNVOnpw1BPQNky",
+        "label": "Open Machine Learning Course - Open Data Science",
+        "topic": "Open Machine Learning Course - Open Data Science",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "MyBAdtFSNVOnpw1BPQNky"
+      },
+      "width": 516,
+      "height": 49,
+      "style": {
+        "width": 516,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "qCjcQWK1RGUU6K3dljow2",
+      "type": "resourceButton",
+      "position": {
+        "x": 272,
+        "y": 1709
+      },
+      "data": {
+        "id": "qCjcQWK1RGUU6K3dljow2",
+        "label": "Machine Learning Specialization",
+        "topic": "Machine Learning Specialization",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "qCjcQWK1RGUU6K3dljow2"
+      },
+      "width": 516,
+      "height": 49,
+      "style": {
+        "width": 516,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "erDpbh0iRTfoUQrU4uEMs",
+      "type": "resourceButton",
+      "position": {
+        "x": 272,
+        "y": 1779.259275392802
+      },
+      "data": {
+        "id": "erDpbh0iRTfoUQrU4uEMs",
+        "label": "Pattern Recognition & ML by Christopher m. Bishop",
+        "topic": "Pattern Recognition & ML by Christopher m. Bishop",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "erDpbh0iRTfoUQrU4uEMs"
+      },
+      "width": 516,
+      "height": 49,
+      "style": {
+        "width": 516,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "9yKXxruT8s9KBEFf_Twd0",
+      "type": "resourceButton",
+      "position": {
+        "x": 272,
+        "y": 1832.1050525886042
+      },
+      "data": {
+        "id": "9yKXxruT8s9KBEFf_Twd0",
+        "label": "GitHub repository with notes & code from the eBook above",
+        "topic": "GitHub repository with notes & code from the eBook above",
+        "oldId": "bsj2IHFXur-qqDSI4B1wg",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "9yKXxruT8s9KBEFf_Twd0"
+      },
+      "width": 516,
+      "height": 49,
+      "style": {
+        "width": 516,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "uCZ6_FKeaY0lCkrNttNhz",
+      "type": "vertical",
+      "position": {
+        "x": 201.89029212267982,
+        "y": 1561.1289204774196
+      },
+      "data": {
+        "id": "uCZ6_FKeaY0lCkrNttNhz",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "rKb8lqYH0GC_6R5qybzzM",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "uCZ6_FKeaY0lCkrNttNhz"
+      },
+      "width": 21,
+      "height": 204,
+      "style": {
+        "width": 21,
+        "height": 204
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "41yv5UhFw3kHIrAMQb6qy",
+      "type": "horizontal",
+      "position": {
+        "x": 24.890292122679853,
+        "y": 1754.1289204774196
+      },
+      "data": {
+        "id": "41yv5UhFw3kHIrAMQb6qy",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "deHK6yEdytCu2ACvVC0bs",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "41yv5UhFw3kHIrAMQb6qy"
+      },
+      "width": 188,
+      "height": 20,
+      "style": {
+        "width": 188,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "cjvVLN0XjrKPn6o20oMmc",
+      "type": "topic",
+      "position": {
+        "x": -153.75449749114952,
+        "y": 1739.6289204774196
+      },
+      "data": {
+        "id": "cjvVLN0XjrKPn6o20oMmc",
+        "label": "Deep Learning",
+        "topic": "Deep Learning",
+        "oldId": "Qa85hEVe2kz62k9Pj4QCA",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "Deep Learning is a subset of machine learning that uses artificial neural networks with multiple layers (hence \"deep\") to analyze data and learn complex patterns. These networks are inspired by the structure and function of the human brain, and they are particularly effective at tasks like image recognition, natural language processing, and speech recognition. By processing data through these layers, deep learning models can automatically extract features and make predictions with high accuracy.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated Machine Learning Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/machine-learning",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "cjvVLN0XjrKPn6o20oMmc"
+      },
+      "width": 182,
+      "height": 49,
+      "style": {
+        "width": 182,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "rarV0SS26NyqAHkYeqsfa",
+      "type": "label",
+      "position": {
+        "x": -188.75449749114966,
+        "y": 1746.1289204774196
+      },
+      "data": {
+        "id": "rarV0SS26NyqAHkYeqsfa",
+        "label": "7",
+        "topic": "7",
+        "oldId": "Sehg_WX_mnMCRlKrvwWzc",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "rarV0SS26NyqAHkYeqsfa"
+      },
+      "width": 25,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "iJv3Ii5B5TK8i5mN2mLs2",
+      "type": "horizontal",
+      "position": {
+        "x": -270.93697112052075,
+        "y": 1754.1289204774196
+      },
+      "data": {
+        "id": "iJv3Ii5B5TK8i5mN2mLs2",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "iJv3Ii5B5TK8i5mN2mLs2"
+      },
+      "width": 79,
+      "height": 20,
+      "style": {
+        "width": 79,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "kBQV71KwuVxpUi0nFj17X",
+      "type": "vertical",
+      "position": {
+        "x": -281,
+        "y": 1763
+      },
+      "data": {
+        "id": "kBQV71KwuVxpUi0nFj17X",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": null,
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "kBQV71KwuVxpUi0nFj17X"
+      },
+      "width": 20,
+      "height": 340,
+      "style": {
+        "width": 21,
+        "height": 360
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "eOFoGKveaHaBm_6ppJUtA",
+      "type": "todo",
+      "position": {
+        "x": -254.10970787732015,
+        "y": 1823.259275392802
+      },
+      "data": {
+        "id": "eOFoGKveaHaBm_6ppJUtA",
+        "label": "Fully Connected, CNN, RNN, LSTM, Transformers, TL",
+        "topic": "Fully Connected, CNN, RNN, LSTM, Transformers, TL",
+        "oldId": "n2JFGwFxTuOviW6kHO1Uv",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "eOFoGKveaHaBm_6ppJUtA"
+      },
+      "width": 450,
+      "height": 38,
+      "style": {
+        "width": 450,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "4TyV6lDCVCOIOhmY9bgPC",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1862.0843010493045
+      },
+      "data": {
+        "id": "4TyV6lDCVCOIOhmY9bgPC",
+        "label": "Deep Learning Specialization",
+        "topic": "Deep Learning Specialization",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "4TyV6lDCVCOIOhmY9bgPC"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "-rl87TRJZTWqbQmW95NAi",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1915.0843010493045
+      },
+      "data": {
+        "id": "-rl87TRJZTWqbQmW95NAi",
+        "label": "Deep Learning Book",
+        "topic": "Deep Learning Book",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "-rl87TRJZTWqbQmW95NAi"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "54pd0lYYLvuNYmuaOZbrT",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 1968.0843010493045
+      },
+      "data": {
+        "id": "54pd0lYYLvuNYmuaOZbrT",
+        "label": "Attention is all you need",
+        "topic": "Attention is all you need",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "54pd0lYYLvuNYmuaOZbrT"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "lm3BCmHTcd-_cOIc_dDmU",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 2021.0843010493045
+      },
+      "data": {
+        "id": "lm3BCmHTcd-_cOIc_dDmU",
+        "label": "The Illustrated Transformer",
+        "topic": "The Illustrated Transformer",
+        "oldId": "R0lIHKW2JmXQp79hoGU6x",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "lm3BCmHTcd-_cOIc_dDmU"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "deHK6yEdytCu2ACvVC0bs",
+      "type": "horizontal",
+      "position": {
+        "x": -271.10970787732015,
+        "y": 2092
+      },
+      "data": {
+        "id": "deHK6yEdytCu2ACvVC0bs",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "ofcYD3hTVEMeRptkHsVer",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "deHK6yEdytCu2ACvVC0bs"
+      },
+      "width": 515,
+      "height": 20,
+      "style": {
+        "width": 515,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Nn5ZjuUG_uEbCxcIcYY9U",
+      "type": "vertical",
+      "position": {
+        "x": 231.89029212267985,
+        "y": 1935
+      },
+      "data": {
+        "id": "Nn5ZjuUG_uEbCxcIcYY9U",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "jVVrvW1PCXEKz5IfJMXKo",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Nn5ZjuUG_uEbCxcIcYY9U"
+      },
+      "width": 20,
+      "height": 168,
+      "style": {
+        "width": 21,
+        "height": 188
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "C85MXDnb-d0eVur0DLGr-",
+      "type": "horizontal",
+      "position": {
+        "x": 242.89029212267985,
+        "y": 1925.5843010493045
+      },
+      "data": {
+        "id": "C85MXDnb-d0eVur0DLGr-",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "q_oYxEPUvEylwjAyDA5FL",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "C85MXDnb-d0eVur0DLGr-"
+      },
+      "width": 88,
+      "height": 20,
+      "style": {
+        "width": 88,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Sehg_WX_mnMCRlKrvwWzc",
+      "type": "label",
+      "position": {
+        "x": 339.89029212267985,
+        "y": 1918.0843010493045
+      },
+      "data": {
+        "id": "Sehg_WX_mnMCRlKrvwWzc",
+        "label": "8",
+        "topic": "8",
+        "oldId": "wOqfPAZ24GxUrkxVRRyT5",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Sehg_WX_mnMCRlKrvwWzc"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "Qa85hEVe2kz62k9Pj4QCA",
+      "type": "topic",
+      "position": {
+        "x": 369.89029212267985,
+        "y": 1911.5843010493045
+      },
+      "data": {
+        "id": "Qa85hEVe2kz62k9Pj4QCA",
+        "label": "MLOps",
+        "topic": "MLOps",
+        "oldId": "kBdt_t2SvVsY3blfubWIz",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production ML lifecycle. It is a set of best practices that aims to automate the ML lifecycle, including training, deployment, and monitoring. MLOps helps organizations to scale ML models and deliver business value faster.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated MLOps Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/mlops",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Qa85hEVe2kz62k9Pj4QCA"
+      },
+      "width": 124,
+      "height": 49,
+      "style": {
+        "width": 124,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "bsj2IHFXur-qqDSI4B1wg",
+      "type": "resourceButton",
+      "position": {
+        "x": 287,
+        "y": 2017.0843010493045
+      },
+      "data": {
+        "id": "bsj2IHFXur-qqDSI4B1wg",
+        "label": "MLOps Specialization",
+        "topic": "MLOps Specialization",
+        "oldId": "bdAl2ne0fsE1R02wWdIK9",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "bsj2IHFXur-qqDSI4B1wg"
+      },
+      "width": 452,
+      "height": 49,
+      "style": {
+        "width": 452,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "uPzzUpI0--7OWDfNeBIjt",
+      "type": "todo",
+      "position": {
+        "x": 259.89029212267985,
+        "y": 1979.0843010493045
+      },
+      "data": {
+        "id": "uPzzUpI0--7OWDfNeBIjt",
+        "label": "Deployment Models, CI/CD",
+        "topic": "Deployment Models, CI/CD",
+        "oldId": "eOFoGKveaHaBm_6ppJUtA",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "uPzzUpI0--7OWDfNeBIjt"
+      },
+      "width": 536,
+      "height": 38,
+      "style": {
+        "width": 536,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "rKb8lqYH0GC_6R5qybzzM",
+      "type": "vertical",
+      "position": {
+        "x": 760,
+        "y": 1935
+      },
+      "data": {
+        "id": "rKb8lqYH0GC_6R5qybzzM",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "FsU7_B1LCULtlVQg7gEPR",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "rKb8lqYH0GC_6R5qybzzM"
+      },
+      "width": 20,
+      "height": 235,
+      "style": {
+        "width": 21,
+        "height": 217
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "q_oYxEPUvEylwjAyDA5FL",
+      "type": "horizontal",
+      "position": {
+        "x": 532.3902921226799,
+        "y": 2157
+      },
+      "data": {
+        "id": "q_oYxEPUvEylwjAyDA5FL",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "ofcYD3hTVEMeRptkHsVer",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "q_oYxEPUvEylwjAyDA5FL"
+      },
+      "width": 239,
+      "height": 20,
+      "style": {
+        "width": 494,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "qnjDifLlSYoxWd5GmuQXd",
+      "type": "linksgroup",
+      "position": {
+        "x": 103.89029212267985,
+        "y": -116.97600803111834
+      },
+      "data": {
+        "id": "qnjDifLlSYoxWd5GmuQXd",
+        "label": "Related Roadmaps",
+        "topic": "Related Roadmaps",
+        "oldId": null,
+        "style": {},
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "qnjDifLlSYoxWd5GmuQXd"
+      },
+      "width": 328,
+      "height": 184,
+      "style": {
+        "width": 316,
+        "height": 139
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "yHmHXymPNWwu8p1vvqD3o",
+      "type": "paragraph",
+      "position": {
+        "x": 441.98750948177025,
+        "y": -72.47600803111834
+      },
+      "data": {
+        "id": "yHmHXymPNWwu8p1vvqD3o",
+        "label": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "topic": "Find the detailed version of this roadmap along with other similar roadmaps",
+        "oldId": null,
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "left",
+          "borderColor": "#ffffff",
+          "backgroundColor": "#FFFFFf"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "yHmHXymPNWwu8p1vvqD3o"
+      },
+      "width": 355,
+      "height": 143,
+      "style": {
+        "width": 355,
+        "height": 143
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "ktU7bNX3hu-_hTFE1CjrM",
+      "type": "button",
+      "position": {
+        "x": 455.61202169501337,
+        "y": 9.13755384446938
+      },
+      "data": {
+        "id": "ktU7bNX3hu-_hTFE1CjrM",
+        "label": "roadmap.sh",
+        "topic": "roadmap.sh",
+        "oldId": "2zqZkyVgigifcRS1H7F_b",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "ktU7bNX3hu-_hTFE1CjrM"
+      },
+      "width": 330,
+      "height": 49,
+      "style": {
+        "width": 330,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "pHKKbw_WhKkuolQyqKo2X",
+      "type": "label",
+      "position": {
+        "x": 339.89029212267985,
+        "y": 2148.0843010493045
+      },
+      "data": {
+        "id": "pHKKbw_WhKkuolQyqKo2X",
+        "label": "9",
+        "topic": "9",
+        "oldId": "Sehg_WX_mnMCRlKrvwWzc",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "pHKKbw_WhKkuolQyqKo2X"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "SWEAVNGiQp5sTm3NWp4n5",
+      "type": "topic",
+      "position": {
+        "x": 369.89029212267985,
+        "y": 2142.5
+      },
+      "data": {
+        "id": "SWEAVNGiQp5sTm3NWp4n5",
+        "label": "AI Engineering",
+        "topic": "AI Engineering",
+        "oldId": "Qa85hEVe2kz62k9Pj4QCA",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "MLOps is a practice for collaboration and communication between data scientists and operations professionals to help manage the production ML lifecycle. It is a set of best practices that aims to automate the ML lifecycle, including training, deployment, and monitoring. MLOps helps organizations to scale ML models and deliver business value faster.",
+        "resources": [
+          {
+            "title": "Visit the Dedicated MLOps Roadmap",
+            "type": "Roadmap Guide",
+            "url": "https://roadmap.sh/mlops",
+            "access_type": "free",
+            "source": "roadmap.sh"
+          }
+        ],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "SWEAVNGiQp5sTm3NWp4n5"
+      },
+      "width": 158,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "u7jmgvZYpKSzu9t7e0ACh",
+      "type": "todo",
+      "position": {
+        "x": 270.89029212267985,
+        "y": 2203
+      },
+      "data": {
+        "id": "u7jmgvZYpKSzu9t7e0ACh",
+        "label": "Prompt Engineering, LLMs, RAG, Agents, Fine-tuning",
+        "topic": "Prompt Engineering, LLMs, RAG, Agents, Fine-tuning",
+        "oldId": "uPzzUpI0--7OWDfNeBIjt",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "u7jmgvZYpKSzu9t7e0ACh"
+      },
+      "width": 536,
+      "height": 38,
+      "style": {
+        "width": 536,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "wYLO5SXFOsipahjYOM73O",
+      "type": "resourceButton",
+      "position": {
+        "x": 287,
+        "y": 2247.0763110765174
+      },
+      "data": {
+        "id": "wYLO5SXFOsipahjYOM73O",
+        "label": "Google AI Courses",
+        "topic": "Google AI Courses",
+        "oldId": "4TyV6lDCVCOIOhmY9bgPC",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "wYLO5SXFOsipahjYOM73O"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "CMDCaArMUVEld3iA6JHpO",
+      "type": "resourceButton",
+      "position": {
+        "x": 287,
+        "y": 2300.0763110765174
+      },
+      "data": {
+        "id": "CMDCaArMUVEld3iA6JHpO",
+        "label": "Hugging Face NLP ",
+        "topic": "Hugging Face NLP ",
+        "oldId": "-rl87TRJZTWqbQmW95NAi",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "CMDCaArMUVEld3iA6JHpO"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "dpmTWi9doEB5PZmaunoIi",
+      "type": "resourceButton",
+      "position": {
+        "x": 287,
+        "y": 2353.0763110765174
+      },
+      "data": {
+        "id": "dpmTWi9doEB5PZmaunoIi",
+        "label": "Prompt Engineering Guide",
+        "topic": "Prompt Engineering Guide",
+        "oldId": "54pd0lYYLvuNYmuaOZbrT",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "dpmTWi9doEB5PZmaunoIi"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "PPxdCQrvpHxB6d48cm081",
+      "type": "resourceButton",
+      "position": {
+        "x": 287,
+        "y": 2406.0763110765174
+      },
+      "data": {
+        "id": "PPxdCQrvpHxB6d48cm081",
+        "label": "RAG for Knowledge - Intensive NLP Tasks",
+        "topic": "RAG for Knowledge - Intensive NLP Tasks",
+        "oldId": "lm3BCmHTcd-_cOIc_dDmU",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "PPxdCQrvpHxB6d48cm081"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "E8wR9XWaUcuX7SuFKAWA9",
+      "type": "horizontal",
+      "position": {
+        "x": 62.0654388063286,
+        "y": 2156.1890232876453
+      },
+      "data": {
+        "id": "E8wR9XWaUcuX7SuFKAWA9",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "q_oYxEPUvEylwjAyDA5FL",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "E8wR9XWaUcuX7SuFKAWA9"
+      },
+      "width": 259,
+      "height": 20,
+      "style": {
+        "width": 494,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "SIt0DgB6Vx75-aeT8MS4I",
+      "type": "horizontal",
+      "position": {
+        "x": -269.4345611936713,
+        "y": 2155.27332433695
+      },
+      "data": {
+        "id": "SIt0DgB6Vx75-aeT8MS4I",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "Pp6x3_Agp-rRSKOilhKeH",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "SIt0DgB6Vx75-aeT8MS4I"
+      },
+      "width": 115,
+      "height": 20,
+      "style": {
+        "width": 88,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "j6V56-VdXU3xkB69I44qv",
+      "type": "label",
+      "position": {
+        "x": -135.43456119367139,
+        "y": 2147.27332433695
+      },
+      "data": {
+        "id": "j6V56-VdXU3xkB69I44qv",
+        "label": "10",
+        "topic": "10",
+        "oldId": "pHKKbw_WhKkuolQyqKo2X",
+        "style": {
+          "fontSize": 17,
+          "color": "#0062ff"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "j6V56-VdXU3xkB69I44qv"
+      },
+      "width": 27,
+      "height": 36,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "ILGi2zpuyTGfkyZjua9jv",
+      "type": "topic",
+      "position": {
+        "x": -98.10970787732015,
+        "y": 2140.77332433695
+      },
+      "data": {
+        "id": "ILGi2zpuyTGfkyZjua9jv",
+        "label": "Vibe Coding",
+        "topic": "Vibe Coding",
+        "oldId": "SWEAVNGiQp5sTm3NWp4n5",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "ILGi2zpuyTGfkyZjua9jv"
+      },
+      "width": 138,
+      "height": 49,
+      "style": {},
+      "zIndex": 999
+    },
+    {
+      "id": "zX4rhaEsjEuRAWWY83Sae",
+      "type": "todo",
+      "position": {
+        "x": -256.10970787732015,
+        "y": 2203
+      },
+      "data": {
+        "id": "zX4rhaEsjEuRAWWY83Sae",
+        "label": "AI Coding Assitants, AI App Builders",
+        "topic": "AI Coding Assitants, AI App Builders",
+        "oldId": "u7jmgvZYpKSzu9t7e0ACh",
+        "style": {
+          "fontSize": 17,
+          "padding": 0
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "zX4rhaEsjEuRAWWY83Sae"
+      },
+      "width": 536,
+      "height": 38,
+      "style": {
+        "width": 536,
+        "height": 38
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "PhdAsiZQ8QAROSTWwgD7G",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 2253.0846795858965
+      },
+      "data": {
+        "id": "PhdAsiZQ8QAROSTWwgD7G",
+        "label": "Vibe Coding Fundamentals",
+        "topic": "Vibe Coding Fundamentals",
+        "oldId": "wYLO5SXFOsipahjYOM73O",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "PhdAsiZQ8QAROSTWwgD7G"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "W-jhpj0cUdTBoY8skvDYp",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 2306.0846795858965
+      },
+      "data": {
+        "id": "W-jhpj0cUdTBoY8skvDYp",
+        "label": "Claude Code ",
+        "topic": "Claude Code ",
+        "oldId": "CMDCaArMUVEld3iA6JHpO",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "W-jhpj0cUdTBoY8skvDYp"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "AGcQ9dd0wT34gE4fHU7YK",
+      "type": "resourceButton",
+      "position": {
+        "x": -231.10970787732015,
+        "y": 2359.0846795858965
+      },
+      "data": {
+        "id": "AGcQ9dd0wT34gE4fHU7YK",
+        "label": "Agentic Coding Handbook",
+        "topic": "Agentic Coding Handbook",
+        "oldId": "dpmTWi9doEB5PZmaunoIi",
+        "style": {
+          "fontSize": 17,
+          "color": "#000000",
+          "backgroundColor": "#FFE599",
+          "badgeColor": "#9900FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "AGcQ9dd0wT34gE4fHU7YK"
+      },
+      "width": 406,
+      "height": 49,
+      "style": {
+        "width": 406,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "FtYPD8h6PQWLyUXBK665j",
+      "type": "vertical",
+      "position": {
+        "x": -281,
+        "y": 2164.001552366191
+      },
+      "data": {
+        "id": "FtYPD8h6PQWLyUXBK665j",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "kBQV71KwuVxpUi0nFj17X",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "FtYPD8h6PQWLyUXBK665j"
+      },
+      "width": 20,
+      "height": 290,
+      "style": {
+        "width": 21,
+        "height": 360
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "JzWia7pYAOu5Cg4ljwMbW",
+      "type": "horizontal",
+      "position": {
+        "x": -271.1346369578148,
+        "y": 2445.34238384509
+      },
+      "data": {
+        "id": "JzWia7pYAOu5Cg4ljwMbW",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "E8wR9XWaUcuX7SuFKAWA9",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "JzWia7pYAOu5Cg4ljwMbW"
+      },
+      "width": 508,
+      "height": 20,
+      "style": {
+        "width": 494,
+        "height": 20
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "raDCA5CwaeunX9N-HIhiB",
+      "type": "vertical",
+      "position": {
+        "x": 225,
+        "y": 2455.703395728998
+      },
+      "data": {
+        "id": "raDCA5CwaeunX9N-HIhiB",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "FtYPD8h6PQWLyUXBK665j",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "raDCA5CwaeunX9N-HIhiB"
+      },
+      "width": 20,
+      "height": 141,
+      "style": {
+        "width": 21,
+        "height": 360
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "0vLaVNJaJSHZ_bHli6Qzs",
+      "type": "paragraph",
+      "position": {
+        "x": -52.03450412915413,
+        "y": 2508.5905044562196
+      },
+      "data": {
+        "id": "0vLaVNJaJSHZ_bHli6Qzs",
+        "label": "Continue Learning with following relevant tracks",
+        "topic": "Continue Learning with following relevant tracks",
+        "oldId": "m9eO0jLGuR_9w2JJbe_g2",
+        "style": {
+          "fontSize": 17,
+          "justifyContent": "flex-start",
+          "textAlign": "center",
+          "borderColor": "#000000",
+          "backgroundColor": "WHITe"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "0vLaVNJaJSHZ_bHli6Qzs"
+      },
+      "width": 569,
+      "height": 115,
+      "style": {
+        "width": 410,
+        "height": 119
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "RLtk1C3gofHnLJ17x3o5b",
+      "type": "vertical",
+      "position": {
+        "x": 222.6660064906814,
+        "y": 2629.184756431605
+      },
+      "data": {
+        "id": "RLtk1C3gofHnLJ17x3o5b",
+        "label": "vertical node",
+        "topic": "vertical node",
+        "oldId": "ExXFPDHXtcOMcvZttzxvD",
+        "style": {
+          "strokeDasharray": "0.8 8",
+          "strokeLinecap": "round",
+          "strokeWidth": 3.5,
+          "stroke": "#2B78E4"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "RLtk1C3gofHnLJ17x3o5b"
+      },
+      "width": 21,
+      "height": 85,
+      "style": {
+        "width": 21,
+        "height": 85
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "slf6jmim4p9ti6ZRHOZe_",
+      "type": "button",
+      "position": {
+        "x": -37.04998573652665,
+        "y": 2562.736161889329
+      },
+      "data": {
+        "id": "slf6jmim4p9ti6ZRHOZe_",
+        "label": "Claude Code",
+        "topic": "Claude Code",
+        "oldId": "-sFboM4eFUMVq1tlPl-fV",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "slf6jmim4p9ti6ZRHOZe_"
+      },
+      "width": 175,
+      "height": 49,
+      "style": {
+        "width": 120,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "2ISyYe70R3Vc2I3juqCGw",
+      "type": "button",
+      "position": {
+        "x": 141.95001426347335,
+        "y": 2562.736161889329
+      },
+      "data": {
+        "id": "2ISyYe70R3Vc2I3juqCGw",
+        "label": "AI Engineer",
+        "topic": "AI Engineer",
+        "oldId": "Df3nTlTvSQkMGzpufRo9q",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "2ISyYe70R3Vc2I3juqCGw"
+      },
+      "width": 175,
+      "height": 49,
+      "style": {
+        "width": 120,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "Df3nTlTvSQkMGzpufRo9q",
+      "type": "button",
+      "position": {
+        "x": 320.95001426347335,
+        "y": 2562.736161889329
+      },
+      "data": {
+        "id": "Df3nTlTvSQkMGzpufRo9q",
+        "label": "Data Analyst",
+        "topic": "Data Analyst",
+        "oldId": "-sFboM4eFUMVq1tlPl-fV",
+        "style": {
+          "fontSize": 17
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "Df3nTlTvSQkMGzpufRo9q"
+      },
+      "width": 175,
+      "height": 49,
+      "style": {
+        "width": 120,
+        "height": 49
+      },
+      "zIndex": 999
+    },
+    {
+      "id": "cNxnNDtjccunlFjPF_plP",
+      "type": "horizontal",
+      "position": {
+        "x": -53.10970787732015,
+        "y": 1175
+      },
+      "data": {
+        "id": "cNxnNDtjccunlFjPF_plP",
+        "label": "horizontal node",
+        "topic": "horizontal node",
+        "oldId": "Vdw0GAnxhDCj_C3XDxNDF",
+        "style": {
+          "stroke": "#0062FF"
+        },
+        "description": "",
+        "resources": [],
+        "paid_resources": [],
+        "status": "weak_gap",
+        "mastery": 0,
+        "source": "roadmap.sh",
+        "source_node_id": "cNxnNDtjccunlFjPF_plP"
+      },
+      "width": 245,
+      "height": 20,
+      "style": {
+        "width": 78,
+        "height": 20
+      },
+      "zIndex": 999
+    }
+  ],
+  "edges": [
+    {
+      "id": "reactflow__edge-wOqfPAZ24GxUrkxVRRyT5z2-wOqfPAZ24GxUrkxVRRyT5z1",
+      "source": "HVHYJ8gWHCZMACuvKP7gK",
+      "target": "HVHYJ8gWHCZMACuvKP7gK",
+      "sourceHandle": "z2",
+      "targetHandle": "z1",
+      "style": {
+        "strokeDasharray": "0.8 8",
+        "strokeLinecap": "round",
+        "strokeWidth": 3.5,
+        "stroke": "#2b78e4"
+      },
+      "data": {
+        "edgeStyle": "dashed"
+      },
+      "animated": false
+    }
+  ],
+  "completion": 0
+}

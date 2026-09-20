@@ -5,6 +5,8 @@ class QuizRequest(BaseModel):
     career_target: str
     skills: list[str] = []
     topic: str | None = None
+    node_id: str | None = None
+    previous_topics: list[str] = []
     user_id: str | None = None
 
 

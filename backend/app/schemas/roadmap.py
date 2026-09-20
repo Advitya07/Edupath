@@ -10,4 +10,5 @@ class RoadmapRequest(BaseModel):
 
 class ResourceRequest(BaseModel):
     topic: str
-    career_target: str = "Full Stack Engineer"
+    career_target: str = "Full Stack"
+    node_id: str | None = None
