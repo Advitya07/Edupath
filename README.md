@@ -143,5 +143,6 @@ Edu-Path/
 No license has been specified for this repository yet.
 
 ## Made By
-[Advitya](https://github.com/Advitya07)
-[Priyanshu](https://github.com/priyanshu4252)
+[Advitya Vaid](https://github.com/Advitya07)
+
+[Priyanshu Sharma](https://github.com/priyanshu4252)
